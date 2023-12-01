@@ -1,6 +1,10 @@
 ---
-title: "Team Science Policy Brief"
-format: pdf
+title: "Towards a Vision for Team Science at Tilburg University"
+toc: true
+bibliography: references.bib
+format:
+  pdf: default
+  docx: default
 editor: visual
 execute:
   echo: false
@@ -158,23 +162,34 @@ Lessons Learned and Key Takeaways for Tilburg University
 
 # Team Effectiveness 
 
-  
-A strong body of research conducted over several decades has demonstrated that team processes (e.g., shared understanding of team goals and member roles, conflict) are related to team effectiveness. Actions and interventions that foster positive team processes offer the most promising route to enhance team effectiveness; they target three aspects of a team: team composition (assembling the right individuals), team professional development, and team leadership.” (“Enhancing the effectiveness of team science”, 2015, p. 20)
+Team effectiveness, or team performance, is defined as the team's ability to achieve its goals and objectives. This concept has been extensively explored in the literature, with substantial influence from the input-process-output (IPO) model [@mcgrathSocialPsychologyBrief1964].
+Team effectiveness hinges on inputs such as the team composition and the nature of the problem at hand.
+The processes, involving the team members' cognition, motivation, affect, and behavior, are crucial in enabling the team to meet task demands effectively.
+When the output resulting from these processes aligns with the task demands, a team is considered effective.
 
+Let's consider some of the processes that facilitate team effectiveness.
+Central to effective team work are processes like *team mental models* and *transactive memory*,
+which entail shared understanding of task requirements, procedures, role responsibilities, and an awareness of each member's knowledge and expertise.
+Explicitly articulating goals and developing mutual understanding among team members helps build such team-level shared understanding [@vogelPioneeringTransdisciplinaryTeam2014].
+Team climate also plays a pivotal role, and is shaped by organizational strategies, team leaders' communications, and the interactions and shared understandings among team members.
+Psychological safety fosters a climate supportive of risk-taking and learning, which is crucial for effective error management and innovation [@edmondsonPsychologicalSafetyLearning1999].
+Moreover, motivational and affective processes within a team, such as a sense of team efficacy, are essential.
+Leaders can foster individual self-efficacy by empowering team members to have *mastery experiences*,
+and then shift the focus towards the joint efficacy of the team.
+Leadership efforts also ought to address team members' alignment with team goals,
+and providing socio-emotional support [@kozlowskiEnhancingEffectivenessWork2006].
 
-Overview of the Research on Team Effectiveness 
-
-Factors Influencing Team Effectiveness 
+**Recommendation**: <span id="effectiveness">Team effectiveness is best enhanced by thoughtful team composition, team professional development (including actively working towards shared understanding of goals, task requirements, and team member competences), and inspiring team leadership.</span>
 
 ### Communication and Team Success 
 
 Communication is integral to team success, particularly in scientific and academic settings;
-effective communication can facilitate interpersonal trust, increase productivity, and spark innovation. In team science, intellectual conflicts are not only inevitable but also essential for advancing knowledge (Collins, 1998).
-Successful science teams promote intellectual disagreement and discussion (Bennett & Gadlin, 2012). Such an environment encourages ongoing dialogue, working through issues, and prevents the accumulation of unresolved problems, simultaneously fostering the development of trust. Managing these disagreements effectively is key.
-There are two primary conflict management strategies: reactive and preemptive (Marks, Mathieu, & Zaccaro, 2001).
-Reactive conflict management involves resolving disagreements through problem-solving, compromise, and flexibility, while preemptive strategies anticipate potential conflicts, guiding them in advance through cooperative norms, charters, or other structures. Kozlowski and Bell (2013) further emphasize the importance of these approaches in shaping conflict processes constructively. In essence, the efficacy of team communication, particularly in handling intellectual disagreements, is a significant determinant of a team’s success in the scientific field.
+effective communication can facilitate interpersonal trust, increase productivity, and spark innovation. In team science, intellectual conflicts are not only inevitable but also essential for advancing knowledge [@collinsSociologyPhilosophiesGlobal1998].
+Successful science teams promote intellectual disagreement and discussion [@bennettCollaborationTeamScience2012]. Such an environment encourages ongoing dialogue, working through issues, and prevents the accumulation of unresolved problems, simultaneously fostering the development of trust. Managing these disagreements effectively is key.
+There are two primary conflict management strategies: reactive and preemptive [@marksTemporallyBasedFramework2001].
+Reactive conflict management involves resolving disagreements through problem-solving, compromise, and flexibility, while preemptive strategies anticipate potential conflicts, guiding them in advance through cooperative norms, charters, or other structures. @kozlowskiWorkGroupsTeams2013 further emphasize the importance of these approaches in shaping conflict processes constructively. In essence, the efficacy of team communication, particularly in handling intellectual disagreements, is a significant determinant of a team’s success in the scientific field.
 
-**Recommendation**: <span id="conflict">Team members should be able to disagree constructively in a safe, supportive context. When possible, preemptive conflict management strategies should be used; anticipating disagreements and establishing terms for their constructive resolution. When conflict does occur, reactive conflict management should focus on problem-solving and compromise.</span>
+**Recommendation**: <span id="conflict">Team members should be able to disagree constructively in a safe, supportive context. When possible, preemptive conflict management strategies should be used; anticipating disagreements and establishing terms for their constructive resolution. When conflict does occur, reactive conflict management should focus on empathy, problem-solving, and compromise.</span>
 
 # Team Composition 
 
@@ -183,7 +198,7 @@ The importance of team composition is likely related to the complexity of the ta
 Research in non-science contexts has underscored the importance of *task-relevant diversity*, which positively impacts team effectiveness [@cookeEnhancingEffectivenessTeam2015].
 At the same time, the benefits of having larger and more diverse groups may diminish when there is increased heterogeneity in disciplines and institutions of team members.
 Introducing new members who are not prior acquaintances can enhance the effectiveness of science teams, suggesting a benefit of fresh perspectives and expertise.
-At the same time, when teams consist of (geographic) subgroups, this can increase conflict and distrust (Polzer et al., 2006).
+At the same time, when teams consist of (geographic) subgroups, this can increase conflict and distrust [@polzerExtendingFaultlineModel2006].
 Top-down requirements on team composition imposed by science leaders or funding agencies,
 such as mandating the inclusion of certain individuals, disciplines, or institutions,
 can backfire, creating internal goal conflict. This highlights the delicate balance required in team composition to optimize effectiveness, considering both the diversity of skills and perspectives and the potential for conflict and misalignment of goals.
@@ -193,8 +208,8 @@ can backfire, creating internal goal conflict. This highlights the delicate bala
 ## Permeable Team Boundaries
 
 Teams can be independent entities with permeable boundaries, not intrinsically connected to any one member.
-Permeable boundaries allow teams to reconfigure in response to evolving task demands (Mathieu et al., 2014).
-This fluidity brings both challenges and opportunities (Tannenbaum et al., 2012). 
+Permeable boundaries allow teams to reconfigure in response to evolving task demands [@mathieuReviewIntegrationTeam2014].
+This fluidity brings both challenges and opportunities [@tannenbaumTeamsAreChanging2012]. 
 On the positive side, membership fluidity can facilitate the transfer of knowledge across teams and organizational units, introducing fresh perspectives and ideas. It benefits team flexibility and adaptability (Gorman & Cooke, 2011),
 and contributes to a richer pool of unique ideas (Gruenfeld, Martorana, & Fan, 2000).
 On the downside, however, such fluidity can potentially weaken team cohesion and stability.
@@ -218,12 +233,23 @@ Thus, care should be taken that young scholars are sufficiently recognized and r
 
 # Institutional Policies and Support 
 
-Establishing university policies and support for team science is essential to promote its broader uptake,
-especially because policy at various levels has, in the past, focused primarily on "excellent individuals".
+According to research, organizations can
+create a climate conducive to team science by
+providing incentives for collaboration,
+flexible hierarchies, a high degree of autonomy, a culture of transparency (open science),
+recognize and reward contributions to team science,
+and provide inspiring team-oriented leadership [@stokolsEcologyTeamScience2008].
+These principles should be guiding when designing policy to promote the broader uptake of team science at TiU as well.
+Historically, academic policy in the Netherlands at various levels has focused primarily on "excellent individuals".
 If our University's goals shift towards a greater emphasis on larger societal challenges that can only be resolved through team science,
 then exiting policies and support structures should be re-examined with those goals in mind.
 
-**Recommendation**: <span id="excellentindividual">In order for team science to flourish, TiU must acknowledge that "excellence" does not always refer to individual performance, but may also refer to team efforts.</span>
+**Recommendation**: <span id="policy">Create a climate conducive to team science by incentivizing collaboration,
+making hierarchies flexible, supporting autonomy, embracing open science,
+recognizing and rewarding team science,
+and providing inspiring team-oriented leadership.</span>
+
+**Recommendation**: <span id="excellentindividual">"Excellence" does not exclusively refer to individual performance, but also applies to team efforts.</span>
 
 Universities tend to be relatively hierarchical organizations,
 with clearly defined roles at each level,
@@ -233,9 +259,11 @@ as more flexible structures and integration across hierarchical levels and depar
 In order for team science efforts to flourish,
 universities will need to strike a balance between hierarchy and specialization on the one hand, and collaboration and integration on the other (Lawrence & Lorsch, 1967).
 
-**Recommendation**: <span id="hierarchy">In order for team science to flourish, TiU must balance hierarchy and specialization on the one hand with collaboration and integration on the other.</span>
+**Recommendation**: <span id="hierarchy">In order for team science to flourish, TiU must balance hierarchy and specialization on the one hand with collaboration and integration on the other. Hierarchy must be flexible: it must be possible to check, question, and even challenge authority.</span>
 
 ## Top down and Bottom Up
+
+
 
 which took the radical step of restructuring the university to establish interdisciplinary schools and research centers (Crow and Debars, 2013; Martinez, 2013; see also http://newamericanuniversity.asu.edu [May 2015]).
 which took the radical step of restructuring the university to establish interdisciplinary schools and research centers (Crow and Debars, 2013; Martinez, 2013; see also http://newamericanuniversity.asu.edu [May 2015]).
@@ -248,36 +276,80 @@ and revised promotion and tenure policies to acknowledge team science (Cooke et 
 **Recommendation:** <span id="bottomtop">To enact a desired culture change towards more team science, a combination of a top-down (through policy, funding opportunities, and recognition and rewards) and bottom-up (through informal networks like the Open Science Community, and social, academic, and networking events) approaches is necessary.
 </span>
 
-In order to create a climate conducive to team science,
-an organization should provide strong incentives for collaboration, flexible hierarchies, a high degree of autonomy, a culture of transparency (open scholarship), recognize and reward contributions to team science efforts, and provide inspiring team-oriented leadership (Stokols et al., 2008b).
+
 
 TRUST:
 Bennett and Gadlin (2014) drew on theories of social identity (how people think about themselves relative to a larger community) and procedural justice in organizations to argue that effective interdisciplinary collaboration requires establishing trust between scientific teams and the organizations that house them.” ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=191&annotation=4NR5G2PJ))
 
 ## Recognition and Rewards
 
+Recognition and rewards are a key driver of desired culture changes.
+Thus, to promote a transition towards greater team science,
+TiU should establish clear criteria for the recognition and reward of staff contributions to collaborative research efforts.
+The dominant perspective in global academia is to perceive team science as the "cherry on top" of individual achievement. Klein and colleagues [-@klein2013promotion] summarize this as "Tenure first, interdisciplinarity later," and "Individual reputation first, collaboration later."
+Such a mindset can significantly hinder the adoptation of a culture supportive of team science.
+Instead, TiU should clearly communicate that team science is a major ingredient of the "whole cake", not just the cherry on top.
 
-<span id="recognitionrewards">The university board should task a working group with developing and evaluating general principles and specific criteria for recognizing team science contributions, and transparently incorporate these criteria in vacancies, PT&D conversations, and tenure and promotion committees.</span>
+Recognizing and rewarding team science is crucial across all levels of seniority.
+According to the principle of "doctoral socialization," the academic trajectory of early career researchers is heavily influenced by their supervisors [@austinPaperCommissionedNational2011].
+Typically, PhD candidates are expected to collaborate only with their direct supervisors,
+a practice that misses the opportunity for broader engagement in interdisciplinary work.
+Initiatives like TSB's HSRI PhD grants, which encourage collaboration between supervisors from multiple schools, represent a progressive departure from this norm.
+There is room to expand this approach further by integrating participation in team science projects as a standard element of PhD programs.
+Although this requires an investment of the PhD student's time,
+it benefits the candidates by better preparing them for the job market, expanding their network, and resulting in additional (often higher impact) publications.
+This is particularly advantageous for early-career scholars. In essence, a systemic shift towards recognizing and rewarding contributions to team science can cultivate a more collaborative, interdisciplinary, and dynamic academic environment, aligning with the evolving demands of contemporary research landscapes.
 
-If the university intends to promote and support team science, it is essential to recognize and reward staff for contributions to team science (Klein et al., 2013).
+**Recommendation**: <span id="recognitionrewards">Task a working group with developing and evaluating general principles and specific criteria for recognizing team science contributions, and transparently incorporate these criteria in vacancies, PT&D conversations, and tenure and promotion committees.</span>
 
-An old saw continues to haunt prospects for tenure and promotion: “Tenure first, interdisciplinarity later. . . . Its counterpart in team science is ‘Individual reputation first, collaboration later.’”” (“Enhancing the effectiveness of team science”, 2015, p. 198)
+**Recommendation**: <span id="phdcollab">Require PhD candidates to contribute to one team science project during their education.</span>
+
+**Recommendation**: <span id="hsri">Establish grants for collaborative PhD projects on thematic topics that require interdisciplinary and inter-faculty team science.</span>
+
+### What to Recognize and Reward?
+
+TiU was a pioneer of the recognition & rewards movement, introducing the *MERIT system*.
+MERIT was an ambitious and progressive approach to academic performance assessment, encompassing five domains: Management, Education, Research, Impact, and **Team**. 
+However, the system's requirement for excellence across all domains was widely considered to be impractical,
+leading to the phrase "a sheep with five legs" (employees are expected to be sheep with five legs). 
+While the MERIT system acknowledged contributions other than only individual research excellence,
+there remained a need for a more nuanced approach,
+more individualized assessment, recognizing and valuing the unique strengths and contributions of each staff member.
+At other universities (e.g., Utrecht, who developed the TRIPLE system based on TiU's MERIT system),
+there is room for employees to *specialize* along several - but not all - of the areas of the model.
+Such flexibility is important in the light of persistent signals of high work pressure,
+because it allows staff to focus their efforts in specific areas, like education or research, at different times, thereby reducing the burden of juggling multiple tasks simultaneously.
+
+An important remaining question is how well the MERIT system is aligned with existing university-wide hiring- and promotion policies.
+If properly implemented, MERIT could create a more diverse range of career tracks, offering tenure and advancement opportunities to those who contribute significantly to departmental and university objectives, beyond the traditional research-focused pathways. This approach could lead to a more inclusive and flexible academic environment, where varied career trajectories are not only possible but also celebrated and rewarded.
+Some staff have high expectations for "Use (Y)our Talents" to deliver meaningful change, but this requires adjustments at various levels of the university's hierarchy.
+One anonymous employee said: "I am taking the SUTQ course to specialize more in education [...] If the university takes recognition & rewards seriously, I might still become 'associate professor of teaching' some day".
+Greater team science affords - and requires - greater specialization of staff members,
+and in order to facilitate such specialization,
+it is advisable to embrace and effectively implement a multi-dimensional schema for evaluating employee performance, like MERIT (2.0?).
 
 
-Recognizing and rewarding team science is relevant at all levels of seniority;
-According to the concept of "doctoral socialization",
-the next generation of academics is strongly shaped by their supervisors (Austin, 2011).
-With this in mind, it is a missed opportunity that PhD candidates are often expected to collaborate only with their direct supervisors.
-TSB's HSRI PhD grants offer a welcome departure from this pattern, as they encourage collaboration between supervisors from multiple schools.
-While these grants could serve as an example to other Schools,
-it is also possible to go further,
-and expect students to contribute to at least one team science project during their PhD program.
-While this would require some investment of time,
-it also prepares the candidate better for the job market, expands their network, and will typically result in an extra (highly cited) publication, which especially beneficial to early career scholars.
+**Recommendation**: <span id="merit">Adopt the MERIT system as official guiding principle for PT&D, hiring, and promotions at TiU, but allow employees to specialize along its key dimensions, and ask organizational bodies to create vacancies that require a specific profile.</span>
 
-<span id="hsri">Establish grants for collaborative PhD projects on thematic topics that require interdisciplinary and inter-faculty team science.</span>
+### (Inter)national Developments
 
-<span id="phdcollab">Require PhD candidates to contribute to one team science project during their education.</span>
+Research assessment practices are shifting globally,
+as a result of the *Declaration on Research Assessment* (DORA). 
+It advocates for a more nuanced approach to assessing scientific research and contributions,
+rejecting journal-based metrics, such as Journal Impact Factors, as proxies for the quality of individual research articles or the contributions of individual scientists.
+Instead, DORA advises institutions to clearly communicate the criteria used in hiring, tenure, and promotion decisions, emphasizing that the scientific merit of scholarly output is more important than publication metrics or journal reputation.
+Institutions are also encouraged to value and consider the impact of *all* research output,
+including datasets and software, alongside publications, and to adopt a broad range of impact measures, including qualitative indicators of research impact like policy influence.
+This has resulted in substantial pressures from outside the organization to adopt *some* type of multi-faceted performance assessment, like MERIT:
+Both [NWO](https://www.nwo.nl/en/dora) and [ERC](https://erc.europa.eu/news-events/magazine-article/researchers-experience-narrative-CV) are signatories to DORA, and have adopted the "narrative CV" format for grant applications.
+The narrative CV is congruent with MERIT;
+if staff view their performance through the lens of a multifaceted qualitative assessment instrument,
+they are well prepared to write a narrative for an NWO or ERC application as well.
+Conversely, if staff are accustomed to quantifying their performance only in terms of traditional metrics (impact factors, H-index, et cetera),
+they may be poorly prepared to write a narrative CV,
+and they will have focused their attention on optimizing outcomes that are increasingly omitted from consideration outside of TiU.
+
+**Recommendation**: <span id="dora">To ensure that TiU staff remain competitive in (inter)national funding calls from DORA signatories (e.g., NWO, ERC), which require submitting a narrative CV, TiU should require internal performance reviews to follow a similar narrative structure, focused on quality, instead of relying on metrics with poor validity for assessing individual researchers' performance.</span>
 
 ## Crediting Author Contributions
 
@@ -289,23 +361,32 @@ It is important to fairly and transparently acknowledge each team member's contr
 To account for diversity in attribution,
 authors can explicitly state what convention was followed to credit contributions (Tscharntke et al., 2007). 
 
-<span id="attribution">Fairly and transparently credit each team member's contribution in the creation of research output.</span>
+**Recommendation**: <span id="attribution">Fairly and transparently credit each team member's contribution in the creation of research output.</span>
 
-<span id="standards">Explicitly state what convention was followed to credit contributions.</span>
+**Recommendation**: <span id="standards">Explicitly state what convention was followed to credit contributions.</span>
 
-The CRediT contributor taxonomy aims to reduce the ambiguity surrounding authorship (Allen et al., 2014).
+**Recommendation**: The CRediT contributor taxonomy aims to reduce the ambiguity surrounding authorship (Allen et al., 2014).
 It recognizes 14 contributor roles, which - while they may not fit all cases - cover a lot of ground.
 The CRediT contributor taxonomy may serve as a sensible default for all projects, unless another convention for crediting contributions takes precedence.
 
-<span id="credit">All research output should be accompanied by a CRediT contributor taxonomy statement, unless another convention for crediting contributions takes precedence, in which case a reference should be provided to the system used.</span>
+**Recommendation**: <span id="credit">All research output should be accompanied by a CRediT contributor taxonomy statement, unless another convention for crediting contributions takes precedence, in which case a reference should be provided to the system used.</span>
 
-## Monitoring and Evaluating Team Science Contributions 
+## Monitoring and Evaluating Team Science
 
-Evaluation approaches include formative evaluation, which provides ongoing feedback for project improvement (D. Gray, 2008; Vogel et al., 2014) and retrospective summative evaluation, which provides lessons for enhancing future programs (e.g., Institute of Medicine, 2013; Vogel et al., 2014).” 
+Monitoring and evaluating team science projects is integral to their success.
+There are two relevant approaches to evaluation: formative and summative methods.
+Formative evaluation focuses on providing ongoing feedback to improve the project in real-time [@vogelPioneeringTransdisciplinaryTeam2014; @grayMakingTeamScience2008].
+This is instrumental in identifying areas for immediate improvement and making adjustments in goals, approaches, and team composition throughout the project lifecycle.
+On the other hand, summative evaluation aims to glean lessons from completed projects that can inform and enhance future programs [@liverman2013ctsa; @vogelPioneeringTransdisciplinaryTeam2014].
+This type of evaluation provides a comprehensive overview of a project's outcomes and effectiveness, offering valuable insights for future endeavors.
 
-NSF has changed the language of required biosketches to include products such as datasets, software, patents, and copyrights. Piwowar (2013) contended that altmetrics give a fuller picture of how the products of scientific research have influenced conversation, thought, and behavior.”
+**Recommendation**: <span id="monitoringevaluating">All science teams should plan for formative assessments at given milestones during the project lifecycle. TiU should require summative evaluation of team science projects funded by the University (eerste geldstroom).</span>
+
+
 
 ## Training and Professional Development for Team Science 
+
+Training aimed at developing shared goals and transactional memory systems, as well as exposing teams to different interaction styles, has been shown to result in more adaptive and flexible teams, enhancing problem-solving and decision-making capabilities [@vogelPioneeringTransdisciplinaryTeam2014].
 
 “team training is defined as an intervention to improve team performance by teaching competencies necessary for effective performance as a team (Cannon-Bowers et al., 1995; Delise, Gorman, and Brooks, 2010).” ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=111&annotation=J8YJE2YN))
 
@@ -416,11 +497,8 @@ Fostering a Collaborative Research Environment
 
 Practical Starting Points for Implementation 
 
-  
 
-  
-
-# Towards a Vision for Team Science at Tilburg University 
+# Recommendations for a Vision for Team Science at Tilburg University 
 
 ```{r}
 source("summarize.R")
