@@ -1,6 +1,7 @@
 ---
 title: "Towards a Vision for Team Science at Tilburg University"
 toc: true
+number-sections: true
 bibliography: references.bib
 format:
   pdf: default
@@ -160,7 +161,7 @@ Lessons Learned and Key Takeaways for Tilburg University
 
   
 
-# Team Effectiveness 
+# Team Effectiveness {#sec-effectiveness}
 
 Team effectiveness, or team performance, is defined as the team's ability to achieve its goals and objectives. This concept has been extensively explored in the literature, with substantial influence from the input-process-output (IPO) model [@mcgrathSocialPsychologyBrief1964].
 Team effectiveness hinges on inputs such as the team composition and the nature of the problem at hand.
@@ -263,15 +264,18 @@ universities will need to strike a balance between hierarchy and specialization 
 
 ## Top down and Bottom Up
 
-
-
-which took the radical step of restructuring the university to establish interdisciplinary schools and research centers (Crow and Debars, 2013; Martinez, 2013; see also http://newamericanuniversity.asu.edu [May 2015]).
-which took the radical step of restructuring the university to establish interdisciplinary schools and research centers (Crow and Debars, 2013; Martinez, 2013; see also http://newamericanuniversity.asu.edu [May 2015]).
-which took the radical step of restructuring the university to establish interdisciplinary schools and research centers (Crow and Debars, 2013; Martinez, 2013; see also http://newamericanuniversity.asu.edu [May 2015]).
-which took the radical step of restructuring the university to establish interdisciplinary schools and research centers (Crow and Debars, 2013; Martinez, 2013; see also http://newamericanuniversity.asu.edu [May 2015]).
-Conversely, the University of Southern California (USC) offers an example of a bottom-up approach:
-they established a seed fund to support interdisciplinary team science efforts,
-and revised promotion and tenure policies to acknowledge team science (Cooke et al., 2015).
+Ensuring a successful shift of the corporate culture towards greater team science requires both top-down and bottom-up initiatives [@duhiggPowerHabitWhy2014].
+Top-down approaches might involve policy changes or even reorganization.
+For example, consider Arizona State University (ASU),
+a pacesetter of team science in the United States.
+ASU restructured their organization,
+creating new interdisciplinary schools and research centers [@crow2014interdisciplinarity].
+For an example of bottom-up change, consider the University of Southern California (USC).
+At USC, a seed fund was established to fund interdisciplinary team science, and promotion and tenure policies were revised to acknowledge team science [@cookeEnhancingEffectivenessTeam2015].
+These efforts empowered individual faculty members and teams, giving them the resources and recognition necessary to pursue collaborative, interdisciplinary work.
+Combining top-down and bottom-up approaches is critical to ensure effective change of the organizational culture.
+Top-down strategies ensure institutional support and alignment with the institute's strategic goals,
+while bottom-up initiatives ensure buy-in from staff.
 
 **Recommendation:** <span id="bottomtop">To enact a desired culture change towards more team science, a combination of a top-down (through policy, funding opportunities, and recognition and rewards) and bottom-up (through informal networks like the Open Science Community, and social, academic, and networking events) approaches is necessary.
 </span>
@@ -371,7 +375,7 @@ The CRediT contributor taxonomy may serve as a sensible default for all projects
 
 **Recommendation**: <span id="credit">All research output should be accompanied by a CRediT contributor taxonomy statement, unless another convention for crediting contributions takes precedence, in which case a reference should be provided to the system used.</span>
 
-## Monitoring and Evaluating Team Science
+## Monitoring and Evaluating Team Science {#sec-monitoring}
 
 Monitoring and evaluating team science projects is integral to their success.
 There are two relevant approaches to evaluation: formative and summative methods.
@@ -384,118 +388,120 @@ This type of evaluation provides a comprehensive overview of a project's outcome
 
 
 
-## Training and Professional Development for Team Science 
 
-Training aimed at developing shared goals and transactional memory systems, as well as exposing teams to different interaction styles, has been shown to result in more adaptive and flexible teams, enhancing problem-solving and decision-making capabilities [@vogelPioneeringTransdisciplinaryTeam2014].
-
-“team training is defined as an intervention to improve team performance by teaching competencies necessary for effective performance as a team (Cannon-Bowers et al., 1995; Delise, Gorman, and Brooks, 2010).” ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=111&annotation=J8YJE2YN))
 
 
 ### Leveraging Technology and Infrastructure 
 
 Team science leaders and others involved in assembling science teams and larger groups should consider making use of task analytic methods (e.g., task analysis, cognitive modeling, job analysis, cognitive work analysis) and tools that help identify the knowledge, skills, and attitudes required for effective performance of the project so that task-related diversity among team or group members can best match project needs.” (“Enhancing the effectiveness of team science”, 2015, p. 109)
 
-  
-
-# Professional Development and Education for Team Science 
-
-Team building targets the interpersonal aspect of teamwork with particular emphasis on social interaction (Dyer, Dyer, and Dyer, 2007). Studies of team building have shown that it is not as effective as team training (Salas et al., 1999).” 
-
-Stokols (2014) observed that science teams and groups often address the coordination and communication challenges arising in interdisciplinary or transdisciplinary research by drawing on online resources and/or providing training on an ad hoc basis. He proposed that longer-term education is needed to prepare a generation of scholars capable of addressing complex scientific and societal challenges in collaborative, interdisciplinary or transdisciplinary research environments.” ([“Enhancing the effectiveness of team science”, 2015, p. 124](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=124&annotation=Z5QR6KZK))
-
-“Klein (2010) argued that, to sustain interdisciplinary teaching and learning, institutional support must be consistent and embedded within the university culture. ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=125&annotation=BA3T32ZG))
-  
-Training Programs and Skill Development for Team Members 
-
-Nash and colleagues (2003) delineated three types of core competencies for the transdisciplinary scientist: (1) attitudinal; (2) knowledge; and (3) skill-based. They proposed that all three types could be developed through graduate and postgraduate education, including coursework, seminars, and workshops taught by disciplinary and interdisciplinary faculty; mentoring by research supervisors in multiple disciplines; group work with other transdisciplinary trainees, such as a journal club; and a supportive institutional environment.” (“Enhancing the effectiveness of team science”, 2015, p. 125)
+This support might include online repositories for enhancing team science effectiveness and training modules tailored to interdisciplinary collaboration.  
 
 
-competencies for graduate students (Vogel et al., 2012): 1. scientific skills, including educational grounding in two or more disciplinary perspectives and skills for integrating and synthesizing approaches across disciplines; 2. intrapersonal skills, including positive attitudes, values, and beliefs about the transdisciplinary approach and critical awareness of the relative strengths and limitations of all disciplines (referred to as a transdisciplinary orientation); and 3. interpersonal skills for collaborating and communicating across disciplines, such as the ability to use analogies, metaphors, and lay language in lieu of discipline-specific jargon and willingness to engage in continual learning.” ([“Enhancing the effectiveness of team science”, 2015, p. 131](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=131&annotation=2BJ78FBM))
+# Training and Professional Development for Team Science
 
-Cross-Training” ([“Enhancing the effectiveness of team science”, 2015, p. 114](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=114&annotation=A9G3TYXD))
+The ability to collaborate effectively in a team context is not a given; it is an important *soft skill* that should be trained and developed.
+As any colleague involved in teaching can attest: challenges always arise when students are asked to work in groups.
+When they ask why we assign group work despite such challenges, the answer is often: because learning to work together is an important skill for your professional life.
+With this in mind, it is important to train staff for effective team science, too.
+According to research, science teams often address coordination and communication challenges in an ad-hoc manner, resorting to online resources or training [@stokolsTrainingNextGeneration2014].
+To properly prepare scholars for complex scientific and societal challenges, however,
+requires a well thought out long-term strategy to training and professional development and consistent institutional support [@kleinCreatingInterdisciplinaryCampus2010].
 
-“Three types of cross-training methods are commonly used: (1) positional clarification, in which individuals are told about the other positions on their team; (2) positional modeling, in which individuals are both told about the position and have the opportunity to observe or shadow the position, thus gaining a deeper understanding of the duties involved narrowly focused forms of cross-training, targeting the understanding of the roles, tasks, and expertise of team or group members, are feasible.” ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=117&annotation=U6E2UHXB))
+With regard to individual team members,
+it is important to educate PhD candidates and ECR not only in scientific skills, but also intrapersonal skills (personal development), and interpersonal skills [communication, @vogelInfluenceNationalCancer2012].
 
-“training strategies show promise to enhance communication, coordination, and knowledge integration in science teams, overcoming the challenges that emerge from diverse membership, large sizes, high task interdependence, and other features of team science.” ([“Enhancing the effectiveness of team science”, 2015, p. 136](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=136&annotation=YNHBSQSC))
+Aside from training individuals, there is also *team training*, defined as an intervention to improve team performance by teaching necessary competencies.
+This is distinct from *team building*, which focuses more on interpersonal connections and is generally less effective in comparison [@salasEffectTeamBuilding1999].
+Section @sec-effectiveness suggests that team training aimed at developing shared goals and transactive memory systems, as well as exposing teams to various interaction styles, results in more adaptive and flexible teams, thereby improving problem-solving and decision-making capabilities [@vogelPioneeringTransdisciplinaryTeam2014].
+Additionally, methods like positional clarification (explicating each member's role in the team) and modeling (trying on each other's roles) are useful for understanding team roles and tasks.
+Such training strategies enhance communication, coordination, and knowledge integration in science teams.
+Related to formative evaluation (Section @sec-monitoring), team reflexivity training may help teams align with project goals during a project's lifecycle: It involves having team members reflect on past performance to improve future interaction [@gurtnerGettingGroupsDevelop2007].
+Finally, online platforms like <TeamScience.net> offer modules and resources to enhance skills in interdisciplinary and transdisciplinary team science. The [Toolbox Project](https://tdi.msu.edu/) is another innovative training intervention designed to facilitate cross-disciplinary communication through philosophical dialogue and probing statements about science.
 
-Team Reflexivity Training” ([“Enhancing the effectiveness of team science”, 2015, p. 117](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=117&annotation=7TW66GCW))
-
-“Team reflexivity training requires members to reflect on prior performance, considering which objectives were or were not met, the strategies used or the group processes engaged, and how performance could be improved in the future, with the goal of improving future interaction (Gurtner et al., 2007). Reflections are prompted by a series of questions for team discussion, without the use of a facilitator or trainer, making this form of training relatively brief and inexpensive.” ([“Enhancing the effectiveness of team science”, 2015, p. 118](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=118&annotation=NZRQUB28))
-
-“knowledge Development Training” ([“Enhancing the effectiveness of team science”, 2015, p. 118](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=118&annotation=V6I6VRR3))
-
-“students used an external representation (i.e., an information board) that allowed team members to post, organize, and visually manipulate their knowledge related to the team task, more easily remember it, and draw attention to specific information as appropriate. The results showed that the knowledge-building training led to improved knowledge transfer (i.e., the exchange of knowledge from one team member to another), knowledge interoperability (i.e., shared knowledge that multiple team members are able to recall and use), cognitive congruence (i.e., an alignment or matching of team member cognitions), and higher overall team performance on the task (Rentsch et al., 2010).” ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=119&annotation=CYI3UD7A))
-
-
-Team coordination training
-online training website, “TeamScience.net.” The website includes a series of learning modules, message boards, and linked resources that aim to enhance skills for participating in or leading interdisciplinary and transdisciplinary science teams or groups.” ([“Enhancing the effectiveness of team science”, 2015, p. 120](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=120&annotation=K7RFKB9S))
-
-“the Toolbox Project (see http://toolbox-project.org [April 2015]), supported by the National Science Foundation (NSF), is a training intervention designed to facilitate cross-disciplinary communication in science teams and groups. O’Rourke and Crowley (2013) developed the Toolbox instrument to facilitate philosophical dialogue about science and the Toolbox workshop as a place for that dialogue. The instrument includes 34 probing statements accompanied by Likert scales to indicate the extent to which a respondent agrees with each statement. The statements are designed to elicit fundamental assumptions about science, including statements about ways of knowing (epistemologies), values, and the nature of the world. At the workshops, participants first complete the instrument and then engage in a facilitated dialogue lasting about 2 hours” ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=121&annotation=LAWWEU79))
+**Recommendation**: <span id="training">TiU should offer training and professional development for team science. This includes training individuals in skills required for effective teamwork, and training teams as a whole.</span>
 
 ### Enhancing Collaborative Competencies and Leadership Skills 
-
 
 Universities can support university-industry research partnerships and other types of research centers by providing the leaders with formal leadership training, as recommended in Chapter 6. They can also encourage leaders and participants in newly formed research centers or institutes to articulate their expectations through written charters or collaborative agreements (Bennett, Gadlin, and Levine-Finley, 2010; Asencio et al., 2012). Such documents outline how tasks will be accomplished, how communication will take place, and how issues such as finances, data sharing, and credit for publications and patents will be handled.” (“Enhancing the effectiveness of team science”, 2015, p. 205)
 
 
 
-Team building 
+## Team Science and the Physical Environment
 
-REDESIGNING the space does not help
-while it appears to be intuitively obvious that physical environments influence the nature of team science, Owen-Smith’s (2013) review of the relevant research found surprisingly little empirical evidence to back up such an impression.” 
-
-MOVING people around does work
-“Catalini (2012)” ([“Enhancing the effectiveness of team science”, 2015, p. 208](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=208&annotation=M8UP6B53))
-
-“found that random relocations that resulted in co-location encouraged collaborations and also breakthrough ideas across academic fields ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=208&annotation=AB34UJCD))
-
-Boudreau et al. (2012) undertook a similarly creative effort to understand the role of location in collaboration by conducting a field experiment in which they randomized researcher locations, finding that those in even briefly co-located environments were more likely to collaborate.”
-  
+The relationship between the physical environment at a university and the facilitation of team science is more nuanced than often assumed. While redesigning the physical space itself might seem like an intuitive approach to promoting collaborative research, Owen-Smith (2013) found limited empirical evidence supporting the effectiveness of such redesigns in enhancing team science.
+Changes towards open office plans and flexible work places have met with substantial pushback at Dutch universities,
+as many academics appear to value a constant, controlled, and quiet working environment.
+Altering the dynamics of physical proximity among researchers, however, does appear to have an evidence based impact on collaboration.
+For example, random relocations of researchers were found to inspire new collaborations and breakthrough ideas [@cataliniMicrogeographyDirectionInventive2018].
+Even brief periods of co-location can increased the likelihood of collaboration [@boudreauColocationScientificCollaboration2012].
+Anecdotally, one winter, the heating broke at the Reitse Poort building, and the lead author of this report was relocated to the Developmental Psychology department (S building).
+Spending two days at this department sparked two new collaborations.
+These findings suggest that while the physical structure of a university environment may not be a significant factor, the strategic placement and movement of people within existing environments can effectively foster inter-disciplinary interactions and team science initiatives.
 
 # Funding Team Science 
 
-Funding Models and Financial Support for Collaborative Research 
+Financial support plays a crucial role in nurturing and sustaining team science.
+Via the allocation of public funds ("eerste geldstroom"),
+TiU can promote team science internally.
+There are good arguments in favor of using public funds to promote team science:
+The same amount of money can affect more people's careers in a more impactful way (because larger projects can be addressed),
+all the while promoting cohesion within the organization.
+In order to do so effectively, however,
+a comprehensive and forward-thinking approach is required.
+The university should work with its research- and support communities to foster the development of innovative collaborative models like research networks and consortia.
+The needs of these networks and consortia can help shape new funding instruments and incentives. 
+If funds are made available via calls for proposals,
+TiU should mandate that team-based research submissions include detailed collaboration plans.
+This ensures that researchers are not only focused on the scientific and technical merits of their proposals but also on the feasibility of effective collaboration. Providing guidance on crafting these plans and setting criteria for their evaluation can enhance the quality and success rate of interdisciplinary or transdisciplinary research projects.
 
-Rich get richer:
-if scientists continue to focus on already well-explored problems or approaches that hold limited potential to add to existing scientific knowledge, then funders may need to set new directions and priorities (Braun, 1998).
+**Recommendation**: <span id="publicfunds">Using public funds (eerste geldstroom) to fund team science initiatives can affect more colleagues' careers in a more impactful way, while promoting cohesion within the organization. To do this fairly and transparently, the target audience should be included in the development of funding calls.</span>
 
-Incubator grants
-Planning or meeting grants to support the developmental phases of team science, which provides an incubator space to generate or advance new cross-disciplinary ideas (National Research Council, 2008; Hall et al., 2012a, 2012c).” 
+**Recommendation**: <span id="collaborationplan">Applications for team science funding instruments should include a collaboration plan as part of the evaluation criteria.</span>
 
-Pilot projects
-Developmental or pilot project funds to enable flexible funds for just-in-time innovations or new integrative ideas that emerge during larger collaborative projects (Hall et al., 2012a; Vogel et al., 2014).
+One effective approach to fostering innovative team science is through incubator grants. Such grants are designed to support the developmental phases of team science, providing crucial "incubator space" for the generation and advancement of new cross-disciplinary ideas [@hallNewsNIHResources2012, @nationalresearchcouncilInternationalCollaborationsBehavioral2007].
+Additionally, project development or pilot funds offer flexible financing for just-in-time innovations or integrative ideas that emerge during larger collaborative projects [@hallFourphaseModelTransdisciplinary2012, @vogelPioneeringTransdisciplinaryTeam2014].
+Flexibile funding (smaller sums that can be applied for without too much administrative overhead) is key to accommodating the dynamic nature of team science,
+where needs for funding may change as research progresses.
+Another approach is to give individual researchers access to professional development funds,
+which can be used to fund collaborations,
+visit geographically dispersed collaborators,
+or contribute to the funding of a joint team effort.
 
-Professional development funds
-Professional development funds, which can be used to promote the early development of collaborations and facilitate team processes that enhance effectiveness (see Chapter 5).” (“Enhancing the effectiveness of team science”, 2015, p. 215)
+**Recommendation**: <span id="smallgrants">Incubator grants, seed funding, and other flexible funding schemes incentivize team science at all levels of seniority.</span>
+
+## Funding Pitfalls
+
+A persistent challenge in this arena is the "rich get richer" phenomenon, where funding often gravitates towards well-established scholars,
+potentially stifling innovation and the exploration of uncharted scientific territories [@laudelQualityMythPromoting2006].
+At the same time, funding should be awarded based on merit.
+The challenge is thus to assess which projects have a high chance of success, without referring to applicants' prior record of funding to do so.
+Another way to counter this problem is to actively set new directions and priorities for funding,
+to encourage different scholars to submit novel and potentially groundbreaking research [@braunRoleFundingAgencies1998].
+
+**Recommendation**: <span id="mattheweffect">When reviewing funding applications, do not take prior funding success into account to avoid the "Matthew effect". Focus on merit and feasibility.</span>
+
+Another potential pitfall occurs in the reviewing of funding applications.
+Known limitations of reviews are that they tend to be relatively conservative and biased against interdisciplinary research [@shapiroCorrectingBiasInterdisciplinary2014].
+To counteract such biases,
+it is possible to recruit reviewers with a broad range of disciplinary expertise. 
+Diversity in review panels will allow for a more balanced and open-minded assessment of novel and interdisciplinary proposals.
+In addition, Tilburg University should prime reviewers with information about the importance of novel research approaches, mitigating biases against highly innovative proposals. Review criteria should be expanded to encompass not just the technical and scientific merits but also the collaborative potential of the research team.
+
+**Recommendation**: <span id="biasedreview">When reviewing team science funding applications, ensure diverse panels of reviewers, and prime them to value novelty and interdisciplinarity.</span>
+
+<!-- In summary, a diverse and strategic approach to funding, which includes incubator grants, pilot projects, and professional development funds, is vital to nurturing the dynamic and innovative nature of team science. -->
 
 
 
-Grant Writing and Resource Allocation for Team Projects 
 
-Funders should work with the scientific community to encourage the development and implementation of new collaborative models, such as research networks and consortia; new team science incentives, such as academic rewards for team-based research and resources (e.g., online repositories of information on improving the effectiveness of team science and training modules).” ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=227&annotation=JLI78P7L))
+<!-- # Establishing Clear Goals and Objectives  -->
 
-Funders should require proposals for team-based research to present collaboration plans and provide guidance to scientists for the inclusion of these plans in their proposals, as well as guidance and criteria for reviewers’ evaluation of these plans. Funders should also require authors of proposals for interdisciplinary or transdisciplinary research projects to specify how they will integrate disciplinary perspectives and methods throughout the life of the research project.” 
-(“Enhancing the effectiveness of team science”, 2015, p. 227)
 
-To adequately review an interdisciplinary or transdisciplinary proposal, funders need to identify and recruit reviewers with expertise in the range of disciplines and methods included (Perper, 1989).
 
-“Boudreau et al. (2014) lent support to the view that peer reviewers may be too conservative. The authors found that members of peer review panels systematically gave lower scores to research proposals closer to their own areas of expertise and to highly novel research proposals. They suggested that, if funders wish to support novel research, then they prime reviewers with information about the need for and value of novel research approaches in advance of the review meeting.” ([“Enhancing the effectiveness of team science”, 2015, p. 220](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=220&annotation=NGA56IKI))
+<!-- Fostering a Collaborative Research Environment  -->
 
-“reviewers from individual disciplines may be biased against interdisciplinary research, potentially complicating the evaluation of the science itself (Holbrook, 2013).” ([“Enhancing the effectiveness of team science”, 2015, p. 220](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=220&annotation=HTYDUFR5))
-
-“the larger the proposed science group, the higher the likelihood that review members will need to leave the room.” ([“Enhancing the effectiveness of team science”, 2015, p. 221](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=221&annotation=4ZAEUZVW))
-
-“Review criteria are typically focused on the technical and scientific merit of the application, and not the potential of the team to collaborate effectively.” ([“Enhancing the effectiveness of team science”, 2015, p. 221](zotero://select/groups/4690437/items/72NQ664E)) ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=221&annotation=TGB34X4J))
-
-“including collaboration plans in proposals will help ensure that the needed infrastructure and processes are in place.” ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=221&annotation=QQ437W8P))
-
-# Establishing Clear Goals and Objectives 
-
-  
-
-Fostering a Collaborative Research Environment 
-
-Practical Starting Points for Implementation 
+<!-- Practical Starting Points for Implementation  -->
 
 
 # Recommendations for a Vision for Team Science at Tilburg University 
