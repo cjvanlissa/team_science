@@ -159,8 +159,6 @@ Case Studies of Successful Team Science Models
 
 Lessons Learned and Key Takeaways for Tilburg University 
 
-  
-
 # Team Effectiveness {#sec-effectiveness}
 
 Team effectiveness, or team performance, is defined as the team's ability to achieve its goals and objectives. This concept has been extensively explored in the literature, with substantial influence from the input-process-output (IPO) model [@mcgrathSocialPsychologyBrief1964].
@@ -182,7 +180,7 @@ and providing socio-emotional support [@kozlowskiEnhancingEffectivenessWork2006]
 
 **Recommendation**: <span id="effectiveness">Team effectiveness is best enhanced by thoughtful team composition, team professional development (including actively working towards shared understanding of goals, task requirements, and team member competences), and inspiring team leadership.</span>
 
-### Communication and Team Success 
+## Communication and Team Success 
 
 Communication is integral to team success, particularly in scientific and academic settings;
 effective communication can facilitate interpersonal trust, increase productivity, and spark innovation. In team science, intellectual conflicts are not only inevitable but also essential for advancing knowledge [@collinsSociologyPhilosophiesGlobal1998].
@@ -191,6 +189,20 @@ There are two primary conflict management strategies: reactive and preemptive [@
 Reactive conflict management involves resolving disagreements through problem-solving, compromise, and flexibility, while preemptive strategies anticipate potential conflicts, guiding them in advance through cooperative norms, charters, or other structures. @kozlowskiWorkGroupsTeams2013 further emphasize the importance of these approaches in shaping conflict processes constructively. In essence, the efficacy of team communication, particularly in handling intellectual disagreements, is a significant determinant of a team’s success in the scientific field.
 
 **Recommendation**: <span id="conflict">Team members should be able to disagree constructively in a safe, supportive context. When possible, preemptive conflict management strategies should be used; anticipating disagreements and establishing terms for their constructive resolution. When conflict does occur, reactive conflict management should focus on empathy, problem-solving, and compromise.</span>
+
+## The Role of Trust
+
+Effective interdisciplinary collaboration and team science hinges on the establishment of trust between all parties involved [@bennett2014supporting].
+Trust is not just about believing in each other's competence,
+but also involves perceptions of fairness and transparency in the organization,
+which is crucial for nurturing a collaborative environment.
+Team trust facilitates coordination and cooperation, thereby enhancing team effectiveness [@breuerDoesTrustMatter2016].
+Trust is especially important in virtual teams relative to face-to-face teams, which could be attributed to the unique challenges of remote collaboration, where trust compensates for the lack of physical presence and direct oversight.
+Interestingly, the importance of trust diminishes in environments where team interactions are thoroughly documented,
+suggesting that transparency can partially replace the need for trust [@breuerDoesTrustMatter2016].
+This insight provides some justification for the effectiveness of the open science movement in promoting team science.
+
+**Recommendation**: <span id="trust">Ensure trust within team contexts to facilitate effective collaboration, for example, through procedural fairness and transparency within science teams and the broader organization, and through physical contact between team members.</span>
 
 # Team Composition 
 
@@ -282,8 +294,7 @@ while bottom-up initiatives ensure buy-in from staff.
 
 
 
-TRUST:
-Bennett and Gadlin (2014) drew on theories of social identity (how people think about themselves relative to a larger community) and procedural justice in organizations to argue that effective interdisciplinary collaboration requires establishing trust between scientific teams and the organizations that house them.” ([pdf](zotero://open-pdf/groups/4690437/items/GQF2BN9B?page=191&annotation=4NR5G2PJ))
+
 
 ## Recognition and Rewards
 
@@ -391,11 +402,36 @@ This type of evaluation provides a comprehensive overview of a project's outcome
 
 
 
-### Leveraging Technology and Infrastructure 
+### Leveraging Technology and Infrastructure
+
+Information Technology (IT) can facilitate effective collaboration, 
+particularly when teams are geographically distributed.
+There are several "classes" of IT tools that facilitate remote team work [@olsonWorkingTogetherApart2022].
+One important class of tools are those that enable digitally mediated communication.
+At TiU, the Microsoft suite (Outlook, Teams, et cetera) is used - but international collaborators often use different platforms, like Zoom (common in the USA) or WebEx (common in Germany).
+This can lead to compatibility challenges, and it is important that staff have access to different platforms and know how to use them, if they work with colleafgues from different institutions.
+Dynamic platforms, like Slack,
+provide space for ongoing in-depth discussion, brainstorming, and idea sharing.
+A second important class of IT services includes coordination tools, like shared calendars and date pickers.
+These are essential for synchronizing activities and keeping team members informed of each other's schedules and progress.
+A third suite of tools are meeting support technologies, including hybrid meeting rooms with large displays and smart cameras.
+These are already in use at TiU and make hybrid meetings more engaging and efficient.
+A fourth suite of IT technologies are information repositories, such as databases (e.g., Tilburg DataVerse), file sharing services (e.g., Onedrive, Google Drive), and digital laboratory notebooks (e.g., GitHub/GitLab), facilitate seamless access and collaboration on scientific information.
+Effective team science benefits from shareable and reproducible workflows [@vanlissaWORCSWorkflowOpen2021a],
+which are being taught at TiU by the DCCs.
+
+One important challenge in IT tools for team science is that team members may not all have access to the same software and services.
+This challenge can be overcome by making use of free open source software (FOSS) for any critical tasks - like data analysis.
+
+This support might include online repositories for enhancing team science effectiveness and training modules tailored to interdisciplinary collaboration.  
+
+
+Another important tool
+Information about team members' expertises
+Open software that is accessible to all team members
 
 Team science leaders and others involved in assembling science teams and larger groups should consider making use of task analytic methods (e.g., task analysis, cognitive modeling, job analysis, cognitive work analysis) and tools that help identify the knowledge, skills, and attitudes required for effective performance of the project so that task-related diversity among team or group members can best match project needs.” (“Enhancing the effectiveness of team science”, 2015, p. 109)
 
-This support might include online repositories for enhancing team science effectiveness and training modules tailored to interdisciplinary collaboration.  
 
 
 # Training and Professional Development for Team Science
