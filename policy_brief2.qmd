@@ -4,7 +4,10 @@ toc: true
 number-sections: true
 bibliography: team_science.bib
 format:
-  pdf: default
+  pdf:
+    extra_dependencies: ["longtable", "float"]
+    include-in-header:
+      - file: box.tex
   docx: default
 editor: visual
 execute:
@@ -82,12 +85,12 @@ While the academic definition of team science in terms of team size may be objec
 it does not convey the core ideals of team science as envisioned by the working group Use (Y)our Talents. In the context of Use (Y)our Talents, this working group defines team science as:
 
 
-> __Team Science:__ collaboration with a larger number of partners than is standard in a particular domain of study, addressing a goal that transcends what could be achieved by a single scholar, with attention to diverse perspectives, and members from multiple branches of the organization (including scientific and support staff), and/or other stakeholders.
+**Definition**: <span id="definition">Team Science can be defined as collaboration with a larger number of partners than is standard in a particular domain of study, addressing a goal that transcends what could be achieved by a single scholar, with attention to diverse perspectives, and members from multiple branches of the organization (including scientific and support staff), and/or other stakeholders.</span>
 
 
 
 
-## Benefits and Challenges of Team Science
+## Benefits and Challenges of Team Science {#sec-benefitschallenges}
 
 
 ### Benefits {#sec-benefits}
@@ -134,33 +137,8 @@ Particularly in light of the precariousness of (early-career) academics, teams c
 
 
 ```{r}
-tab <- structure(list(Project = c("Digitalization of Health and Wellbeing (a) [anonymous team members] ", 
-"Digitalization of Health and Wellbeing (b) [vision manager] ", 
-"Voting advice applications (EU funded project)", "ODISSEI"), 
-    Goals = c("Establishment an interdisciplinary research program/group about digitalization of health and wellbeing.", 
-    "Establishing an interdisciplinary research group to collaborate with partners, exchange knowledge, create academic and social impacts, and work towards long-term improvements in mental health. ", 
-    "Understanding the effect of voting advice applications on the population, and society at large. ", 
-    "This national research infrastructure supports ~300 interdisciplinary projects annually. It facilitates collaboration among social science and economic faculties in the Netherlands, removing barriers for researchers, such as connecting them with interdisciplinary expertise and data."
-    ), Team.Composition = c("Six assistant-professors from various schools of the university + the dean of TSHD.", 
-    "The research team is in progress, aiming to unite all five schools at Tilburg University. Currently, TSHD, TSB, and TLS are actively engaged, while TiSEM and TST are less involved. The goal is to also eventually involve all relevant external parties, but some contracts are still being finalized.", 
-    "Three universities in three different countries (NL, UK, TU). A core consortium convened a larger research team and partners. ", 
-    "Every social science faculty and some economic faculties in NL, and ~80 team members working at ODISSEI. The 300 annual projects each have teams with about 1-4 team members."
-    ), Successes = c("The team has built relationships, secured internal ICON funding, and made progress in defining practically achievable goals.", 
-    "Many want to join this open project without strict criteria, fostering interdisciplinary exchange. Partners are equal, though the core team holds more control and tasks are divided by the core team but with team member’s consent.", 
-    "The project was successful: training three PhD students, collecting substantial data, and publishing papers. It had social impact through conference participation and non-academic output. The initial goal was further concretized over time. Interdisciplinary communication challenges were overcome, providing learning opportunities. The team's disciplinary and demographic diversity did not hinder collaboration.", 
-    "The successes lie in its efficient online communication which promotes flexibility, a simplified and (disciplinary and demographically) diverse team, and a horizontal, federated structure that empowers individual researchers, fostering bottom-up innovation. The project has successfully united an interdisciplinary diverse group, enabling groundbreaking research through collaborative expertise."
-    ), Challenges = c("Establishing the team was complicated by lack of clarity about membership and functioning when members signed their contracts. The project's goals have been unclear, and attempts to clarify them are sometimes hindered. There is tension due to the hierarchical structure. This leads to an information asymmetry between leadership and members. Some members would prefer a more egalitarian peer-to-peer network. Some noted conflicts due to misalignment between team members' individual interests and the project's scope, feeling as though the group was formed more for administrative reasons than in pursuit of a shared research goal. A grant application that many team members had contributed to was shelved because the core team received ICON funding, leaving other contributors to feel passed over after investing effort.", 
-    "Participating in the research team alongside existing work is challenging due to budget constraints. Aligning goals with partners can be a challenge, but joint goal-setting based on overlapping challenges and missions seem to be successful. Age diversity exists among team members, but there's limited cultural diversity.", 
-    "Communication challenges arose due to team members being geographically dispersed. Phone and internet communication were perceived as less effective than in-person interaction. Scheduling conflicts and varied commitments across countries complicated collaboration.  Involving companies added complexity, as their goals (business results) differed from the academic focus on publications. While there was no goal misalignment, strategies to pursue those goals differed. Task interdependence occasionally caused delays, but wasn't a major issue.", 
-    "Managing the complexity of diverse disciplines with distinct languages and taboos remains a challenge.  Task-interdependence requires effective communication, with regular interventions to keep team members informed and engaged. The project tries to emphasize the effort needed to avoid assumptions and maintain collaboration, as it's easy to overlook progress and responsibilities within a complex team-environment."
-    )), class = "data.frame", row.names = c(NA, -4L))
-
-
+tab <- read.csv("vignettes.csv", stringsAsFactors = FALSE, check.names = F)
 ```
-
-
-
-
 
 
 To observe good examples of team science projects, we can take a local, national, and global perspective.
@@ -229,18 +207,32 @@ Considering TiU’s embedding within the province, stimulation of collaboration 
 Collaboration with external scholars already abounds, and may thus be less of a priority.
 ( Ear-M: Output Assessment and Motivating Input Changes (O) )
 
+<!--
+## Local Perspective {#sec-goodpractices}
+-->
 
 **Recommendation**: <span id="connectschools">At present, only 3% of academic output involves authors from multiple Schools. Promoting team science that connects the schools is low-hanging fruit, and should be a priority.</span>
 
 
 Of course, statistics are only part of the story,
-so we also consider some examples of notable team science efforts at our university (see vignettes in Table @tab-tablocal).
+so we also consider some examples of notable team science efforts at our university (see vignettes below).
+
+:::: {.blackbox data-latex=""}
+::: {.center data-latex=""}
+**`r tab[1,1]`**
+:::
+
+`r paste0("**", names(tab)[2:5], "**. ", tab[1, 2:5], collapse = "\n\n")`
+
+::::
 
 
-```{r tablocal}
-knitr::kable(tab[1:2, ], caption = "Vignettes of local team science examples")
-```
-
+:::: {.blackbox data-latex=""}
+::: {.center data-latex=""}
+**`r tab[2,1]`**
+:::
+`r paste0("**", names(tab)[2:5], "**. ", tab[2, 2:5], collapse = "\n\n")`
+::::
 
 These vignettes indicate major advances have been made in terms of team science efforts in recent years.
 Important lessons have been learned in terms of rigid hierarchy (see @sec-policy and @sec-trust),
@@ -252,17 +244,24 @@ Future team science efforts at TiU should build upon these lessons learned, and 
 ## National Perspective
 
 
-For national examples of Team Science, see Table @tab-tabnational. Note that four schools of TiU are members of ODISSEI (TLS, TiSEM, TSH, and TSB),
+For national examples of Team Science, see the vignettes below. Note that four schools of TiU are members of ODISSEI (TLS, TiSEM, TSH, and TSB),
 and TiU staff are also part of the second team science initiative mentioned.
 
+:::: {.blackbox data-latex=""}
+::: {.center data-latex=""}
+**`r tab[3,1]`**
+:::
+`r paste0("**", names(tab)[2:5], "**. ", tab[3, 2:5], collapse = "\n\n")`
+::::
 
-```{r tabnational}
-knitr::kable(tab[3:4, ], caption = "Vignettes of national team science examples")
-```
+:::: {.blackbox data-latex=""}
+::: {.center data-latex=""}
+**`r tab[4,1]`**
+:::
+`r paste0("**", names(tab)[2:5], "**. ", tab[4, 2:5], collapse = "\n\n")`
+::::
 
 
-<!--
--->
 
 
 ## International Perspective
@@ -619,7 +618,7 @@ These are essential for synchronizing activities and keeping team members inform
 A third suite of tools are meeting support technologies, including hybrid meeting rooms with large displays and smart cameras.
 These are already in use at TiU and make hybrid meetings more engaging and efficient.
 A fourth suite of IT technologies are information repositories, such as databases (e.g., Tilburg DataVerse), file sharing services (e.g., Onedrive, Google Drive), and digital laboratory notebooks (e.g., GitHub/GitLab), facilitate seamless access and collaboration on scientific information.
-Effective team science benefits from shareable and reproducible workflows [@vanlissaWORCSWorkflowOpen2021a],
+Effective team science benefits from shareable and reproducible workflows [@vanlissaWORCSWorkflowOpen2021],
 which are being taught at TiU by the DCCs.
 
 
@@ -670,8 +669,9 @@ These findings suggest that while the physical structure of a university environ
 
 
 
-# Training and Professional Development for Team Science {#sec-training}
+# Training and Professional Development
 
+## Training for Team Science {#sec-training}
 
 (Ear-M: Enhancements in External Inputs, Training, and Team Building (P) ) (Ear-M: Changes to Drive Collaborative Initiatives: ) 
 
@@ -731,8 +731,9 @@ Universities can support university-industry research partnerships and other typ
 
 
 
-# Recognition and Rewards {#sec-randr}
+# Recognition and Rewards
 
+## Recognition and Rewards in Relation to Team Science  {#sec-randr}
 
 Recognition and rewards are a key driver of desired culture changes.
 Thus, to promote a transition towards greater team science,
@@ -883,7 +884,16 @@ source("summarize.R")
 {{< include summary.qmd >}}
 
 
-# Appendix A: Members of the working group
+{{< pagebreak >}}
+
+# References {.unnumbered}
+
+::: {#refs}
+:::
+
+{{< pagebreak >}}
+
+# Appendix A: Members of the working group {.unnumbered}
 
 
 
@@ -929,8 +939,9 @@ To meet this mandate, the working group used the following methodology: All team
 * Studying Enterpreneurship & Business Innovation: Minoring in Finance
 * Former chairman of Asset Tilburg, and External Affairs of Student Party ECCO. 
 
+{{< pagebreak >}}
 
-# Appendix B: Methodology
+# Appendix B: Methodology {.unnumbered}
 
 
 ### Textbook
@@ -973,7 +984,10 @@ The core team created Intervision and Feedback opportunities for stakeholders; i
 
 
 The Team Lead, Caspar van Lissa, integrated the results from these different approaches and wrote the final policy brief. 
-# Appendix C: Library Report
+
+{{< pagebreak >}}
+
+# Appendix C: Library Report {.unnumbered}
 
 
 ·         Welk percentage artikelen werd geschreven door auteurs van meer dan één faculteit?
