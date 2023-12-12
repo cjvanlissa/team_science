@@ -1,0 +1,20 @@
+Concept	Names of tool or service
+Open discussion	Twitter, Blogs, Open lab notebooks, GitHub comments
+Technical support	StackOverflow
+Hypotheses/Design	Data management planning tool
+Date Life-cycle support	Data repositories: KNB, Dryad, GBIF; Open office, MySQL, OpenRefine, Morpho
+Version Control	Git and GitHub
+Visualisation of geospatial data	GRASS, QGIS
+Workflow tools	Kepler, VisTrails
+Reproducibility	R, Rstudio, Python, Pycharm, IPython notebook/Project Jupyter, Sweave, markdown, pandoc, knitr, Babel, Rmarkdown
+Writing collaboration	Google docs, Etherpad, ShareLateX, WriteLaTeX, Authorea
+Reference management	Zotero
+Distribution of figures and talks	Figshare, Slideshare, Speakerdeck
+Distribution of preprints	PsyArxiv, bioRXiv, arXiv, PeerJ Preprints
+Pre-publication peer review	Peerage of Science, Axios Review
+Publication	DOI for code, DOI for data, 'Green' open access, 'Gold' open access, Licenses
+Discovery of published data	DataONE, re3data, Google Database Search
+Social networking	Mastodon, BlueSky, ResearchGate, Academia.edu, Facebook
+Tracking research product impact	ORCID, ImpactStory, Altmetric
+Informal discussions	Discussion groups, personal blog/website
+Source: Hampton, 2015

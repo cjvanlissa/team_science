@@ -70,15 +70,16 @@ Courage in team science is about daring to challenge conventional wisdom and tak
 
 
 In the academic literature, *Team Science* is defined as a mode of scientific collaboration where research is conducted by more than one individual in an interdependent fashion [@cookeEnhancingEffectivenessTeam2015].
-Most common is collaboration within small *science teams*, typically comprising 2 to 10 individuals, but *large teams* consisting of over 10 individuals also occur.
-These large teams often encompass multiple smaller science teams and can range vastly in size, sometimes involving hundreds or even thousands of scientists.
+Most common is collaboration within small *science teams*, typically comprising 2 to 10 individuals, but *large teams*, sometimes involving hundreds or even thousands of scientists, also occur.
 In large teams, there is typically a differentiated *division of labor* and an integrated *structure* essential for coordinating the efforts of individual science teams.
-While larger teams afford major impact, smaller teams can drive disruptive innovation [@wuLargeTeamsDevelop2019]. Therefore, supporting diverse team sizes is crucial for a thriving research ecosystem [@wuLargeTeamsDevelop2019]. 
+Interdisciplinary team science is absolutely essential for tackling some of the world’s biggest problems [@ledfordHowSolveWorld2015],
+whether it be climate change, peace and security, socio-economic inequality, health and wellbeing, or even spiritual renewal [@korthalsaltesQuoVadisCultual2014]. Still, diverse expert teams aren't enough to tackle low linguistic diversity; we need more efforts to incorporate diverse literature into ecosystem assessments (Lynch et al., 2021). 
+While team science has its benefits, individual scientists can explore ideas with greater focus, free from the need to coordinate with others [@forscherBenefitsBarriersRisks2023].
+Similarly, very large teams can achieve unrivaled impact, but smaller teams are more agile and can drive disruptive innovation. 
+A thriving research ecosystem requires a balance of these approaches [@wuLargeTeamsDevelop2019].
 The effectiveness or performance of a team is gauged by its capacity to achieve set goals and objectives, leading not only to improved individual outcomes, such as increased satisfaction, cohesion, and impact - but also contributing to significant team achievements.
 Team achievements include academic breakthroughs, new methods, and potentially translational applications of the research.
 Team Science may be characterized by different degrees of *integration* of disciplinary perspectives, ranging from unidisciplinary to multidisciplinary, interdisciplinary, and ultimately transdisciplinary research. 
-
-
 
 
 While the academic definition of team science in terms of team size may be objective,
@@ -106,7 +107,8 @@ Finally, team science can increase the visibility and credibility of research ef
 
 
 Team science has many advantages, both for individual team members, the organization, and society (Allen & Mehler, 2019). As part of a team, scholars can address larger (societally relevant) challenges than they could individually. In this time of unprecedented social, economic, and ecological crises, this is more urgent than ever before [@cannonConvergenceHowTransdisciplinary2020]. Team science also offers enhanced depth of insight by integrating diverse perspectives - in terms of both interdisciplinarity and intersectionality. Interdisciplinary research teams exhibit increased creativity, productivity, and impact [@cannonConvergenceHowTransdisciplinary2020; @hinrichsInnovationKnowledgeAge2017]. Still, interdisciplinary team science faces funding challenges due to bias in grant evaluations, favoring narrowly focused proposals [@bromhamInterdisciplinaryResearchHas2016].
-Science teams can comprise academic and support staff, enabling specialization and a more efficient division of labor. Science teams can also incorporate societal stakeholders or corporate partners, amplifying impact and potential valorization, respectively. Team science benefits individual researchers because resulting publications have a citation advantage [@wuchtyIncreasingDominanceTeams2007]; an advantage that may be particularly attractive to early career scholars. It also benefits early career scholars by creating opportunities for mentoring by more experienced staff [@dehartTeamScienceQualitative2017]. Collaboration in science also significantly benefits employee well-being and empowerment, while addressing issues like workplace isolation and underperformance [@mydinResearchCollaborationEnhancing2021]. Team science benefits the work culture by cultivating a sense of community. It can also increase the sense of social control and accountability, benefiting the reproducibility and trustworthiness of results.
+Science teams can comprise academic and support staff, enabling specialization and a more efficient division of labor. Science teams can also incorporate societal stakeholders or corporate partners, amplifying impact and potential valorization, respectively. Team science benefits individual researchers because resulting publications have a citation advantage [@wuchtyIncreasingDominanceTeams2007]; an advantage that may be particularly attractive to early career scholars. It also benefits early career scholars by creating opportunities for mentoring by more experienced staff [@dehartTeamScienceQualitative2017]. 
+Collaboration in science also significantly benefits employee well-being and empowerment, while addressing issues like workplace isolation and underperformance [@mydinResearchCollaborationEnhancing2021]. Team science benefits the work culture by cultivating a sense of community. It can also increase the sense of social control and accountability, benefiting the reproducibility and trustworthiness of results.
 Teams offer networking opportunities and foster peer-to-peer skills transfer, as members are exposed to various methodologies and perspectives. A diverse, collaborative environment is not just a catalyst for innovative research but also a bedrock for cultivating well-rounded scientists equipped for the multidimensional challenges of contemporary research.
 
 
@@ -199,12 +201,18 @@ knitr::include_graphics("proportion_single_team.pdf")
 ```
 
 
-Team science is thus quite common at TiU, but analysis of author affiliations provides a more nuanced picture. Specifically, only 3% of publications between 2019-2023 included authors from more than one school. By comparison, 66% of publications in the same timeframe included authors from outside TiU. In terms of societal stakeholders, 18% of pubilcations in this timeframe included authors not affiliated with any university (government employees, those at independent research institutes, corporate stakeholders, medical professionals, those working in media, and at private non-profits).
+Team science is thus quite common at TiU, but analysis of author affiliations provides a more nuanced picture. Specifically, only 3% of publications between 2019-2023 included authors from more than one school. By comparison, 66% of publications in the same timeframe included authors from outside TiU. In terms of societal stakeholders, 18% of publications in this timeframe included authors not affiliated with any university (government employees, those at independent research institutes, corporate stakeholders, medical professionals, those working in media, and at private non-profits).
 
 
 These statistics strongly suggest that interdisciplinarity and connecting the schools is low-hanging fruit; much can be gained by promoting team science that involves colleagues from different schools. Especially considering that TiU is a relatively focused institute - all schools fall within scope of the social sciences and humanities - this should be highly feasible.
-Considering TiU’s embedding within the province, stimulation of collaboration with private stakeholders may also be beneficial.
-Collaboration with external scholars already abounds, and may thus be less of a priority.
+TiU appears to do well in terms of collaboration with external partners, which makes sense considering TiU’s embedding within the province.
+Initiatives like the recent [Regio Deal Midden-Brabant, “Ondernemen, innoveren en experimenteren met de mens centraal”](https://www.tilburguniversity.edu/nl/actueel/nieuws/meer-nieuws/regio-deal-ondernemen-innoveren-en-experimenteren-met-de-mens-centraal) continue to raise awareness about impactful projects that can involve multiple schools and societal partners.
+According to research, well-established senior researchers are more likely to collaborate with industry, but face obstacles like differing goals, reduced government support, and concerns about intellectual property, and uncertainty about both the economic and academic success of team science involving industry partners [@anic2017facilitating].
+If the goal is to further enhance collaboration with external partners, the first step is to identify promising areas of potential collaboration, organizing opportunities to meet external partners, and facilitating effective information exchange with societal partners [@capaldoFactorsAffectingDiffusion2016]. 
+Finally, these statistics show that collaboration with external scholars already abounds, and may thus be less of a priority.
+
+
+
 ( Ear-M: Output Assessment and Motivating Input Changes (O) )
 
 <!--
@@ -288,6 +296,42 @@ Jointly, the PsyCorona consortium published several dozen papers.
 These examples highlight the enormous potential of large-scale consortia in the social sciences. When researchers band together, their impact is amplified.
 
 
+## Open Science: Lessons Learned
+
+There is a fundamental correspondence between the perspectives and methods underlying team science and open science [@cheruvelilDataIntensiveEcologicalResearch2018].
+The open science movement was fueled in large part by team science, and conversely, removing barriers to more efficient and effective collaboration within teams is often considered a goal of open science [@ross-hellauerDynamicsCumulativeAdvantage2022].
+The open science transition has been a widely successful paradigm shift; In 2021, the UNESCO framework on open science was adopted by 193 signatory countries (UNESCO Recommendation on Open Science, 2021).
+Open science is now considered “standard practice” by the Dutch government [@ministerievanalgemenezakenNieuwsgierigBetrokken2019], 
+the EU [@os4osWhereOpenScience], and the United States government [@FACTSHEETBidenHarris2023].
+Given this extraordinary success, we can look to the “open science transition” for examples of best practices for promoting team science.
+One crucial ingredient of the open science transition was support of the scientific community.
+Implementing a desired cultural change is a social challenge that requires a critical mass of support from employees [@inoscOpenScienceCommunity].
+In this sense, the Open Science Community Tilburg can serve both as a model and an ally in promoting the desired cultural change towards more interdisciplinary team science.
+The book chapter “Building a Strategic Advantage with Open Science”, by colleagues Hannes Datta and Harm Schütt, delves deeper into the potential value of open science for TiU [-@dattaBuildingStrategicAdvantage2022].
+
+
+**Recommendation**: <span id=”opensciencecommunity”>The open science transition serves as a template for the transition towards more team science, and the Open Science Community Tilburg is a natural ally in achieving this transition.</span>
+
+
+
+
+Specific open science practices are also invaluable in team science contexts.
+For instance, the open science practice of making scholarly output (protocols, materials, data, analysis code, and reports) FAIRly shareable increases the reusability of team members’ contributions and eliminates the need for time-consuming onboarding, thus improving the scalability of team science [@baumgartnerHowBuildBig2023]. 
+Transparency also allows team members to replicate and verify each other's work more easily, enhancing the rigor and reliability of interdisciplinary research.
+The practice of public engagement is also associated with open science, and constitutes a particular form of team science.
+Public engagement can add knowledge to teams, and increase the relevance of social scientific research for its target audience [@tebesInterdisciplinaryTeamScience2018].
+The practice of preregistration serves a dual purpose of clearly outlining the scope of work to be done by a team,
+and preventing post-hoc disagreements about analytic decisions from arising after the data are collected [@peikertReproducibleResearchTutorial2021].
+Going beyond preregistration, submitting a Registered Report offers team members a “guaranteed payoff” to the effort invested [@baumgartnerHowBuildBig2023].
+Finally, open access publication makes scholarly output accessible to a wider audience.
+In team science, this can be especially valuable because the number of stakeholders is often larger; not all stakeholders may have access to certain outlets.
+Publishing open access ensures that all who have contributed retain access to the finished work, and allows for the dissemination of interdisciplinary research to a broader community of researchers, policymakers, and practitioners.
+To empower team science using open science methods will require a persistent funded commitment to openness, rigor, and collaboration [@thibaultOpenScienceTruly2023].
+Recognizing and rewarding open science practices further incentivizes their adoption (see @sec-randr). 
+
+ 
+**Recommendation**: <span id=”opensciencepractices”>Open science practices greatly facilitate team work, reduce onboarding efforts and improve scalability, increase scientific rigor, and offer a greater potential payoff to team members.</span>
+
 <!--Charting National and International Best Practices 
 
 
@@ -306,39 +350,35 @@ Lessons Learned and Key Takeaways for Tilburg University -->
 ## Team Effectiveness {#sec-effectiveness}
 
 
-(Ear-M: Changes to Drive Collaborative Initiatives: ) (Ear-M: Enhancements in External Inputs, Training, and Team Building (P) )
 Team effectiveness, or team performance, is defined as the team's ability to achieve its goals and objectives. This concept has been extensively explored in the literature, with substantial influence from the input-process-output (IPO) model [@mcgrathSocialPsychologyBrief1964]. The input-process-output (IPO) provides a way to understand how teams perform, and how to maximize their performance .
 Team effectiveness hinges on inputs such as the team composition and the nature of the problem at hand.
 The processes, involving the team members' cognition, motivation, affect, and behavior, are crucial in enabling the team to meet task demands effectively. 
 When the output resulting from these processes aligns with the task demands, a team is considered effective. 
 
-
 Let's consider some of the processes that facilitate team effectiveness.
 Central to effective teamwork are processes like *team mental models* and *transactive memory*,
 which entail shared understanding of task requirements, procedures, role responsibilities, and an awareness of each member's knowledge and expertise [@patelTeamSciencePractical2021; @ghamgosarBarriersFacilitatorsConducting2023; @mehtaKnowledgeIntegrationTeam2018].  
 Formulating explicit goals, adaptive problem formulation, and participatory processes help build mutual understanding among team members [@vogelPioneeringTransdisciplinaryTeam2014; @penningtonConceptualModelKnowledge2016]. 
+
 At the team level, team climate also plays a pivotal role, and is shaped by organizational strategies, team leaders' communications, and the interactions and shared understandings among team members. Team spirit benefits from  a healthy balance between individual and collective needs and expectations [@getha-taylorIndividualityIntegrationLeadership2014].  
 At the institutional level, well-structured support for team science and an innovation-friendly academic culture benefit optimal transdisciplinary collaboration [@crowRestructuringResearchUniversities2019].
 There is an association between interpersonal relationships and scientific productivity on a scientific team [@dehartTeamScienceQualitative2017; @loveTeachingTeamScience2023].
 Psychological safety fosters a climate supportive of risk-taking, learning and daring to speak out, which is crucial for effective error management and innovation [@edmondsonPsychologicalSafetyLearning1999; @patelTeamSciencePractical2021]. 
 Moreover, motivational and affective processes within a team, such as a sense of team efficacy, are essential.
-Leaders can foster individual self-efficacy by empowering team members to have *mastery experiences*,
-and then shift the focus towards the joint efficacy of the team.
-Leadership efforts also ought to address team members' alignment with team goals,
-and providing socio-emotional support [@kozlowskiEnhancingEffectivenessWork2006].
 
 
-**Recommendation**: <span id="effectiveness">Team effectiveness is best enhanced by thoughtful team composition, team professional development (including actively working towards shared understanding of goals, task requirements, and team member competencies), and inspiring team leadership.</span>
+**Recommendation**: <span id="effectiveness">Team effectiveness is best enhanced by thoughtful team composition, team professional development (including actively working towards shared understanding of goals, task requirements, and team member competencies), and inspiring person-focused team leadership.</span>
 
 
 ## Communication and Team Success {#sec-communication}
 
-
-( Ear-M: Changes that Enable Individuals to Lower Barriers to Interaction and Teamwork (I) ) 
 Transparent communication is integral to team success, particularly in scientific and academic settings [@forscherBenefitsBarriersRisks2023; @connPearlsPitfallsTeam2019; @patelTeamSciencePractical2021]; 
-effective communication can facilitate interpersonal trust, increase productivity, and spark innovation. Communication training is crucial for cultivating vital team science skills such as trust-building, exchanging worldviews, and conflict management (Read et al., 2016). 
- In team science, intellectual conflicts are not only inevitable but also essential for advancing knowledge [@collinsSociologyPhilosophiesGlobal1998].
+effective communication can facilitate interpersonal trust, increase productivity, and spark innovation.
+A “culture of dialogue” establishes deep listening and engagement as norms, which helps overcome challenges, achieve project goals, and establish shared representations [@orourkeCommunicationPracticeTeam2023]. 
+Training communication skills is beneficial for trust-building, exchanging worldviews, and conflict management [@readBuildingTeamTeam2016].
+Nevertheless, intellectual conflicts are inevitable in team contexts, and if managed appropriately, these may play a role in advancing knowledge [@collinsSociologyPhilosophiesGlobal1998].
 Successful science teams promote intellectual disagreement and discussion [@bennettCollaborationTeamScience2012]. Such an environment encourages ongoing dialogue, working through issues, and prevents the accumulation of unresolved problems, simultaneously fostering the development of trust [@brodyBestPracticesInclusion2019]. 
+Via shared dialogues, teams can define a team mission, establish behavioral standards, cultural understanding, and expectations, foster cultural intelligence and realistic interpersonal assessments (Shelley et al., 2022).
 
 
 Effective conflict resolution is also important [@readBuildingTeamTeam2016].
@@ -357,30 +397,60 @@ Increased engagement between scientists and stakeholders leads to more mutual tr
 Trust is not just about believing in each other's competence,
 but also involves perceptions of fairness and transparency in the organization,
 which is crucial for nurturing a collaborative environment.
-Transparent communication, decision-making, and enforcement builds mutual trust; for example, by drafting formal collaboration agreements before teamwork begins [@forscherBenefitsBarriersRisks2023].
+Internal ties between team members positively influence trust, which in turn contributes to higher-quality relationships and knowledge sharing among team members [@garcia-sanchezSocialCapitalKnowledge2019].
+Transparent communication, decision-making, and enforcement also build trust; for example, by drafting formal collaboration agreements before teamwork begins [@forscherBenefitsBarriersRisks2023].
 Building through joint identification of objectives, co-developed guiding principles and ongoing team reflexivity throughout the evaluation strengthens trust between project members and evaluators [@roelofsFormativeEmbeddedEvaluation2019]. 
 Team trust facilitates coordination and cooperation, thereby enhancing team effectiveness [@breuerDoesTrustMatter2016]. 
 Team challenges, like rigid hierarchy and diverse professional backgrounds, can erode trust, particularly in dynamic teams with changing memberships [@zajacOvercomingChallengesTeamwork2021].
 Trust is especially important in virtual teams relative to face-to-face teams, which could be attributed to the unique challenges of remote collaboration, where trust compensates for the lack of physical presence and direct oversight.
-Interestingly, the importance of trust diminishes in environments where team interactions are thoroughly documented [@dehartTeamScienceQualitative2017],
-suggesting that transparency can partially replace the need for trust [@breuerDoesTrustMatter2016].
-This insight provides some justification for the effectiveness of the open science movement in promoting team science.
-( Ear-M: Enhancements for a Collaborative Team Environment (I) )
+
+
+## Procedural Fairness {#sec-proceduralfairness}
+
+Relying on trust may not always be feasible, as trust develops over time between members of well-established science teams, and between friends, introducing a potential bias in favor of “old boys networks”.
+With this in mind, it is important to note that transparency can partly replace the need for trust [@dehartTeamScienceQualitative2017; @breuerDoesTrustMatter2016].
+Perceptions of “justice” and “fairness” depends not only on objective outcomes, but also on a fair and transparent process [@zajacOvercomingChallengesTeamwork2021].
+This may partly explain why the open science movement has been so effective in promoting team science.
+Transparent collaboration can also ensure that results are checked and verified, increasing their trustworthiness and reliability (Larson & Chang, 2016). 
+
+
+One way to ensure transparency and procedural fairness is to adopt a “Code of Conduct” for team projects, which explicitly states how team members are expected to behave in order to ensure social safety for all, how disagreements are resolved, and how contributions are credited [@baumgartnerHowBuildBig2023; @favaroYourScienceConference2016].
+One commonly used code of conduct is the Contributor Covenant [@ehmkeContributorCovenantCode], but note that there has been some concern of overreach so science teams should assess to what extent their needs are met by existing codes of conduct, and if necessary, develop a custom code of conduct that is widely supported by team members.
+
+
 **Recommendation**: <span id="trust">Ensure trust within team contexts to facilitate effective collaboration, for example, through procedural fairness and transparency within science teams and the broader organization, and through physical contact between team members.</span>
 
+**Recommendation**: <span id="codeofconduct">Consider adopting or developing a code of conduct that clearly outlines expectations for how the team members will ensure social safety, resolve disagreements, and credit contributions.</span>
 
-## Team Composition[c] {#sec-composition}
+
+## Team Composition {#sec-composition}
 
 
 Research on team composition and team effectiveness has yielded conflicting results, highlighting the complexity of this relationship.
 The importance of team composition is likely related to the complexity of the task at hand, the degree of interdependence among team members, and the duration of the project [@carterRoleResearchDevelopment2019].
-Research in non-science contexts has underscored the importance of *task-relevant diversity*, which positively impacts team effectiveness, fosters innovation and creativity, and increases impact [@cookeEnhancingEffectivenessTeam2015; @nielsenGenderDiversityLeads2017].
+The primary factor to consider is what expertise is needed to address the team’s scientific goals, but interpersonal and intrapersonal factors should not be neglected either [@twymanTeamAssembly2019].
+
+On one hand, people tend to prefer being around others that are similar to them [@montoyaMetaanalyticInvestigationProcesses2013].
+On the other hand, variety and diversity can improve team effectiveness [@liuReflectionsShortReview2020].
+There is thus a tradeoff, where diversity may benefit the team, but also introduces a potential challenge (see @sec-challenges).
+It is crucial to implement diversity in a team for the right reason. For example, it can be beneficial for a team to have a diverse membership when it comes to academic backgrounds, in order to be able to draw from a variety of knowledge.
+This so-called *task-relevant diversity* positively impacts team effectiveness, fosters innovation and creativity, and increases impact [@cookeEnhancingEffectivenessTeam2015; @nielsenGenderDiversityLeads2017].
 At the same time, the benefits of having larger and more diverse groups may diminish when there is increased heterogeneity in disciplines and institutions of team members.
 Introducing new members who are not prior acquaintances can enhance the effectiveness of science teams, suggesting a benefit of fresh perspectives and expertise.
 At the same time, when teams consist of (geographic) subgroups, this can increase conflict and distrust [@polzerExtendingFaultlineModel2006; @bromhamInterdisciplinaryResearchHas2016]. 
 Top-down requirements on team composition imposed by science leaders or funding agencies,
 such as mandating the inclusion of certain individuals, disciplines, or institutions,
 can backfire, creating internal goal conflict. This highlights the delicate balance required in team composition to optimize effectiveness, considering both the diversity of skills and perspectives and the potential for conflict and misalignment of goals.
+
+The literature on team composition talks about its effect on team effectiveness in terms of “the ABC’s of team work”; a shorthand for describing the team climate in terms of affective states (a), behavioral processes (b), and cognitive (c) states [@bellTeamCompositionABCs2018].
+Several individual team member characteristics can positively influence the ABCs, and thus contribute to team effectiveness.
+Conscientious team members tend to be better at self-regulation and oriented towards finding solutions. 
+Agreeableness can contribute to team cohesion and shared cognitions.
+Team members who are more collectivist and value teamwork tend to be more effective and confident in team contexts.
+Each team member can contribute to the ABC’s of a team, and establishing clear expectations about the expected contributions helps maintain a positive team environment [@turnerCollaborativeResearchTechniques2020].
+
+
+
 
 
 **Recommendation**: <span id="composition">When composing a team, it is crucial to weigh the benefits of *task relevant diversity* against the downsides of overcoming disciplinary, institutional, or demographic differences.</span> 
@@ -392,20 +462,17 @@ can backfire, creating internal goal conflict. This highlights the delicate bala
 ## Permeable Team Boundaries {#sec-boundaries}
 
 
-Teams can be independent entities with permeable boundaries, not intrinsically connected to any one member [@orourkeCommunicationPracticeTeam2023].
+Teams can be independent entities with permeable boundaries, not characterized by a fixed cast of members, but open to change [@orourkeCommunicationPracticeTeam2023].
 Permeable boundaries allow teams to reconfigure in response to evolving task demands [@mathieuReviewIntegrationTeam2014].
 This fluidity brings both challenges and opportunities [@tannenbaumTeamsAreChanging2012; @zajacOvercomingChallengesTeamwork2021].
 On the positive side, membership fluidity can facilitate the transfer of knowledge across teams and organizational units, introducing fresh perspectives and ideas. It benefits team flexibility and adaptability [@gormanChangesTeamCognition2011],
 and contributes to a richer pool of unique ideas [@gruenfeldWhatGroupsLearn2000].
 On the downside, however, such fluidity can potentially weaken team cohesion and stability.
-It should also be viewed in the light of precarity among early career researchers:
+Adding or removing just a single team member can change the entire team dynamic [@emichTeamCompositionRevisited2022].
+Permeability should also be viewed in the light of precarity among early career researchers:
 If young scholars move in and out of teams, contributing knowledge and effort without retaining ownership,
 the burden of team membership might outweigh its rewards for them.
-Thus, care should be taken that young scholars are sufficiently recognized and rewarded for team contributions.
-
-
-( Ear-M: Changes that Enable Individuals to Lower Barriers to Interaction and Teamwork (I) ) 
-
+Thus, care should be taken that young scholars are sufficiently recognized and rewarded for team contributions [@craigContributorshipAuthorshipHierarchy2018].
 
 **Recommendation 1**: <span id="permeable">There should be a balanced approach to permeable team boundaries, leveraging the benefits of diverse and adaptable membership while maintaining a core of stability and security to foster team cohesion and sustained performance.</span>
 
@@ -431,7 +498,7 @@ Thirdly, there should be an ongoing discussion about recognizing support staff c
 Support staff may often be eligible for coauthorship according to discipline-specific criteria.
 For example, if support staff perform tasks that fall within the CRediT authorship taxonomy (see @sec-credit).
 If support staff are not eligible as coauthors, or do not want to take on the responsibilities of coauthorship,
-then it is crucial that their contributions be otherwise acknowledged, recognized, and rewarded.
+then it is crucial that their contributions be otherwise acknowledged, recognized, and rewarded[@craigContributorshipAuthorshipHierarchy2018].
 Lastly, it is important to standardize and professionalize support staff career paths and function descriptions in a way that is distinct from the traditional "researcher" versus "non-researcher" dichotomy. This would allow for greater involvement in team science,
 and concomittant recognition and reward of support staff.
 
@@ -460,20 +527,19 @@ clearly signaling a vision for further integration of these roles [@agterbergUUS
 # Institutional Policies and Support {#sec-policy}
 
 
- 
-
-
 According to research, organizations can
 create a climate conducive to team science by
 providing incentives for collaboration,
 flexible hierarchies, a high degree of autonomy, a culture of transparency (open science),
 recognize and reward contributions to team science,
-and provide inspiring team-oriented leadership [@stokolsEcologyTeamScience2008].
+and provide inspiring team-oriented leadership [@stokolsEcologyTeamScience2008; @jacobInterdisciplinaryTrendsHigher2015].
+Team members should enjoy autonomy to develop ideas and carry out research,
+while experiencing a shared sense of responsibility (Müller, 2016; Zajac et al., 2021a). 
+Cognitive, methodological, and conceptual barriers that currently impede (interdisciplinary) team science must be mapped to ensure that the new policy adequately overcomes them [@macleodWhatMakesInterdisciplinarity2018].
 These principles should be guiding when designing policy to promote the broader uptake of team science at TiU as well.
-Historically, academic policy in the Netherlands at various levels has focused primarily on "excellent individuals".
+Historically, academic policy in the Netherlands at various levels has focused primarily on "excellent individuals"; a focus that can impede collaboration and team science [@hinrichsInnovationKnowledgeAge2017]
 If our University's goals shift towards a greater emphasis on larger societal challenges that can only be resolved through team science,
-then exiting policies and support structures should be re-examined with those goals in mind.
-
+then existing policies and support structures should be re-examined with those goals in mind. Successful team science in academia requires dedicated policies (Vogel et al., 2021), commitment across departments, funding for team work, mentoring plans, assessment of operational needs, and sustained evaluation team science success (Surratt et al., 2023).
 
 **Recommendation**: <span id="policy">Create a climate conducive to team science by incentivizing collaboration,
 making hierarchies flexible, supporting autonomy, embracing open science,
@@ -493,8 +559,13 @@ and providing inspiring team-oriented leadership.</span>
 Universities tend to be relatively hierarchical organizations,
 with clearly defined roles at each level,
 and a high level of differentiation into functional departments (e.g., the schools, library, etc).
-Such hierarchical organization can be at odds with universities' core business,
-as more flexible structures and integration across hierarchical levels and departments are best suited to research-intensive fields, like academia [@burnsManagementInnovation1994].
+Although rigid hierarchy can be beneficial for gatekeeping - screening and selecting the right candidates and ideas - it can also stand in the way of innovation (Keum & See, 2017). 
+Flexible hierarchies with integration across levels and departments are better suited to research-intensive fields, like academia - suggesting that rigid hierarchies are at odds with the university’s core business [@burnsManagementInnovation1994].
+Flexible, informal organizations with decentralized power structures encourage creativity and innovation in team science (Sandhu, 2018).
+Shared leadership enhances team performance more effectively than traditional hierarchical structures (D’Innocenzo et al., 2016). 
+
+Shared leadership boosts communication impact on team performance more than hierarchical structures (Marlow et al., 2018).  Aligning formal and distributed leadership reduces cognitive dissonance and fosters integration across organizational boundaries, as a shared vision and influence enhance team dynamics (Rycroft-Malone et al., 2016). 
+
 In order for team science efforts to flourish,
 universities will need to strike a balance between hierarchy and specialization on the one hand, and collaboration and integration on the other [@lawrenceDifferentiationIntegrationComplex1967].
 
@@ -506,6 +577,7 @@ universities will need to strike a balance between hierarchy and specialization 
 
 
 Ensuring a successful shift of the corporate culture towards greater team science requires both top-down and bottom-up initiatives [@duhiggPowerHabitWhy2014].
+These two approaches can work hand in hand for an effective transition (Verhulst & Lambrechts, 2015). 
 Top-down approaches might involve policy changes or even reorganization.
 For example, consider Arizona State University (ASU),
 a pacesetter of team science in the United States.
@@ -516,7 +588,7 @@ At USC, a seed fund was established to fund interdisciplinary team science, and 
 These efforts empowered individual faculty members and teams, giving them the resources and recognition necessary to pursue collaborative, interdisciplinary work.
 Combining top-down and bottom-up approaches is critical to ensure effective change of the organizational culture.
 Top-down strategies ensure institutional support and alignment with the institute's strategic goals,
-while bottom-up initiatives ensure buy-in from staff.
+while bottom-up initiatives ensure buy-in from staff. 
 
 
 **Recommendation:** <span id="bottomtop">To enact a desired culture change towards more team science, a combination of a top-down (through policy, funding opportunities, and recognition and rewards) and bottom-up (through informal networks like the Open Science Community, and social, academic, and networking events) approaches is necessary.
@@ -530,9 +602,6 @@ while bottom-up initiatives ensure buy-in from staff.
 ## Funding Team Science {#sec-funding}
 
 
-(Ear-M: Enhancements in External Inputs, Training, and Team Building (P) )(Ear-M: Changes to Drive Collaborative Initiatives: )
-
-
 Financial support plays a crucial role in nurturing and sustaining team science.
 Via the allocation of public funds ("eerste geldstroom"),
 TiU can promote team science internally.
@@ -541,17 +610,29 @@ The same amount of money can affect more people's careers in a more impactful wa
 all the while promoting cohesion within the organization.
 In order to do so effectively, however,
 a comprehensive and forward-thinking approach is required.
-The university should work with its research- and support communities to foster the development of innovative collaborative models like research networks and consortia.
+Funding is not an expenditure, but an investment in shaping the organization to become more team-oriented [@jeongCollaborativeResearchAcademic2015].
+The university should work with its staff communities to foster the development of innovative collaborative models like research networks and consortia.
 The needs of these networks and consortia can help shape new funding instruments and incentives. 
 If funds are made available via calls for proposals,
 TiU should mandate that team-based research submissions include detailed collaboration plans.
-This ensures that researchers are not only focused on the scientific and technical merits of their proposals but also on the feasibility of effective collaboration. Providing guidance on crafting these plans and setting criteria for their evaluation can enhance the quality and success rate of interdisciplinary or transdisciplinary research projects.
+This ensures that researchers are not only focused on the scientific and technical merits of their proposals but also on the feasibility of effective collaboration. 
+Team size and collaboration plans should be well-substantiated and evaluated prior to funding allocation [@cummings2018science].
+Providing guidance on crafting proposals for team science, and setting criteria for their evaluation, can enhance the quality and success rate of interdisciplinary or transdisciplinary research projects.
 
 
-**Recommendation**: <span id="publicfunds">Using public funds (eerste geldstroom) to fund team science initiatives can affect more colleagues' careers in a more impactful way, while promoting cohesion within the organization. To do this fairly and transparently, the target audience should be included in the development of funding calls.</span>
+Given the prevalence of collaboration with public partners at TiU (@sec-goodpractices),
+private funds (“derde geldstroom”) are another salient source of (partial) funding for team science efforts.
+Collaborating with industry partners, as seen in the Regio Deal 'Ondernemen, innoveren en experimenteren met de mens centraal' [@TilburgUniversityPartner2023], provides financial support, while also providing real-world use cases, and enabling knowledge dissemination and valorization.
+In our region, [TU/e](https://www.tue.nl/en/education/why-study-at-tue/strong-ties-with-industry) is a guiding example of public/private team science efforts, which might provide guidance for such initiatives at TiU as well.
+A good starting point is the [Jheronimus Academy of Data Science](https://www.jads.nl/), as this is an initiative where TiU and TU/e meet.
 
+
+**Recommendation**: <span id="publicfunds">Using public funds (eerste geldstroom) to fund (interdisciplinary) team science initiatives can affect more colleagues' careers in a more impactful way, while promoting cohesion within the organization. To do this fairly and transparently, the target audience should be included in the development of funding calls.</span>
 
 **Recommendation**: <span id="collaborationplan">Applications for team science funding instruments should include a collaboration plan as part of the evaluation criteria.</span>
+
+**Recommendation**: <span id="interdisciplinaryfunding">Create internal funding programs specifically designed to support interdisciplinary research projects that connect the schools.</span>
+
 
 
 One effective approach to fostering innovative team science is through incubator grants. Such grants are designed to support the developmental phases of team science, providing crucial "incubator space" for the generation and advancement of new cross-disciplinary ideas [@hallNewsNIHResources2012, @nationalresearchcouncilInternationalCollaborationsBehavioral2007].
@@ -561,7 +642,10 @@ where needs for funding may change as research progresses.
 Another approach is to give individual researchers access to professional development funds,
 which can be used to fund collaborations,
 visit geographically dispersed collaborators,
-or contribute to the funding of a joint team effort. (Ear-M: Changes to Drive Collaborative Initiatives: )
+or contribute to the funding of a joint team effort. 
+TiU currently already offers some seed funding grants, and these schemes could be further adapted to prioritize interdisciplinary team science projects.
+This would align university resources with research goals, creating incentives for shared strategic directions.  
+
 
 
 **Recommendation**: <span id="smallgrants">Incubator grants, seed funding, and other flexible funding schemes incentivize team science at all levels of seniority.</span>
@@ -576,9 +660,11 @@ At the same time, funding should be awarded based on merit.
 The challenge is thus to assess which projects have a high chance of success, without referring to applicants' prior record of funding to do so.
 Another way to counter this problem is to actively set new directions and priorities for funding,
 to encourage different scholars to submit novel and potentially groundbreaking research [@braunRoleFundingAgencies1998].
+Finally, setting limits on the number of research projects per researcher can limit internal competition and the Matthew effect as well (Jeong & Choi, 2015). 
 
 
-**Recommendation**: <span id="mattheweffect">When reviewing funding applications, do not take prior funding success into account to avoid the "Matthew effect". Focus on merit and feasibility.</span> (Ear-M: Enhancements in External Inputs, Training, and Team Building (P) )
+
+**Recommendation**: <span id="mattheweffect">When reviewing funding applications, do not take prior funding success into account to avoid the "Matthew effect". Focus on merit and feasibility.</span>
 
 
 Another potential pitfall occurs in the reviewing of funding applications.
@@ -602,8 +688,6 @@ In addition, Tilburg University should prime reviewers with information about th
 ## Leveraging Technology and Infrastructure {#sec-it}
 
 
-( Ear-M: Changes that Enable Individuals to Lower Barriers to Interaction and Teamwork (I) )
-
 
 Information Technology (IT) can facilitate effective collaboration, 
 particularly when teams are geographically distributed.
@@ -613,21 +697,33 @@ At TiU, the Microsoft suite (Outlook, Teams, et cetera) is used - but internatio
 This can lead to compatibility challenges, and it is important that staff have access to different platforms and know how to use them, if they work with colleagues from different institutions.
 Dynamic platforms, like Slack,
 provide space for ongoing in-depth discussion, brainstorming, and idea sharing.
+Finally, visibility and findability through a well-maintained university website is important for external representation of (interdisciplinary) team science projects [@rentschIntegrativeTeamKnowledge2014].
+This is especially important when such projects do or intend to involve external (private and public) partners.
+A well-defined external presence indicates organizational effectiveness, structure, and clear communication. 
+
+
 A second important class of IT services includes coordination tools, like shared calendars and date pickers.
 These are essential for synchronizing activities and keeping team members informed of each other's schedules and progress.
 A third suite of tools are meeting support technologies, including hybrid meeting rooms with large displays and smart cameras.
 These are already in use at TiU and make hybrid meetings more engaging and efficient.
 A fourth suite of IT technologies are information repositories, such as databases (e.g., Tilburg DataVerse), file sharing services (e.g., Onedrive, Google Drive), and digital laboratory notebooks (e.g., GitHub/GitLab), facilitate seamless access and collaboration on scientific information.
-Effective team science benefits from shareable and reproducible workflows [@vanlissaWORCSWorkflowOpen2021],
-which are being taught at TiU by the DCCs.
-
 
 One important challenge in IT tools for team science is that team members may not all have access to the same software and services.
-This challenge can be overcome by making use of free open source software (FOSS) for any critical tasks - like data analysis.
+This challenge can be overcome by making use of free open source software (FOSS) for essential tasks - like data analysis [@martijnSpinozapremiewinnaarJoseVan2021].
+In general, effective team science benefits from FAIR and reproducible workflows,
+where all scholarly output is, in principle, Findable on standardized repositories, Accessible at least to those involved in the science team, Interoperable so that any team member can make use of the output without requiring e.g. licensed software, and Reusable so that team members can build on each other’s efforts and are not doing double the work. @vanlissaWORCSWorkflowOpen2021 presented a workflow for open reproducible code in science (WORCS) which meets these needs. Using an open science workflow greatly facilitates (distributed) collaboration, as all team members are operating on the same files, and everyone’s contributions can be tracked and combined. Importantly, it is not necessary to make a reproducible project open to just anyone; access permissions can be controlled. A course is in development to teach the WORCS workflow at TiU by the DCCs.
+
+FAIR databases of in-house expertise, like [Tilburg University Research Portal](https://research.tilburguniversity.edu/), help staff identify which colleagues possess specific knowledge, which projects are relevant, and how to connect or contribute to them.
+A robust system for data archiving and management, like [Tilburg DataVerse](https://dataverse.nl/dataverse/tiu),
+enables researchers to publish data in a FAIR manner, or to safely archive private data, or collaborate on data, assign Digital Object Identifiers (DOIs) for citability, manage access, and comply with (funders') data management plan policies.
+Whilst fair data initiatives are there for research at TiU, they are currently only a part of the guidelines on safe data-management.
+Other universities use the FAIR principles in their campaign to promote as much reusable and accessible data as possible for interdisciplinary research initiatives and sourcing data.
 
 
-This support might include online repositories for enhancing team science effectiveness and training modules tailored to interdisciplinary collaboration.  
 
+**Recommendation**: <span id=”opensoftware”>To ensure effortless (distributed) collaboration among team members, make all scholarly output FAIRly shareable, and use open source software for all task-critical activities to ensure that all team members can participate and contribute.</span>
+
+**Recommendation**: <span id=”reproducible”>Reproducible workflows help make scholarly output FAIRly shareable, facilitate collaboration, increase the reusability of scholarly output, and safeguard against human error that might otherwise go undetected.</span>
 
 <!--
 Another important tool
@@ -635,9 +731,7 @@ Information about team members' expertises
 Open software that is accessible to all team members
 
 
-Team science leaders and others involved in assembling science teams and larger groups should consider making use of task analytic methods (e.g., task analysis, cognitive modeling, job analysis, cognitive work analysis) and tools that help identify the knowledge, skills, and attitudes required for effective performance of the project so that task-related diversity among team or group members can best match project needs." ("Enhancing the effectiveness of team science", 2015, p. 109)
-
-
+Team science leaders and others involved in assembling science teams and larger groups should consider making use of task analytic methods (e.g., task analysis, cognitive modeling, job analysis, cognitive work analysis) and tools that help identify the knowledge, skills, and attitudes required for effective performance of the project so that task-related diversity among team or group members can best match project needs. " ("Enhancing the effectiveness of team science", 2015, p. 109)
 -->
 
 
@@ -645,15 +739,14 @@ Team science leaders and others involved in assembling science teams and larger 
 
 ## Team Science and the Physical Environment {#sec-physicalenvironment}
 
-
-( Ear-M: Enhancements for a Collaborative Team Environment (I) )
-
-
-The relationship between the physical environment at a university and the facilitation of team science is more nuanced than often assumed. While redesigning the physical space itself might seem like an intuitive approach to promoting collaborative research,
-there is limited empirical evidence supporting the effectiveness of such redesigns in enhancing team science [@owen2013workplace].
-Changes towards open office plans and flexible work places have met with substantial pushback at Dutch universities,
-as many academics appear to value a constant, controlled, and quiet working environment.
-Altering the dynamics of physical proximity among researchers, however, does appear to have an evidence based impact on collaboration.
+The relationship between the physical environment at a university and the facilitation of team science is more nuanced than often assumed.
+In general, it is beneficial for science teams to work in close proximity, as a shared environment promotes interactions, sparks new connections between people, and builds trust and team spirit [@cookeEnhancingEffectivenessTeam2015].
+Large teams may be composed of several smaller groups working closely together, which benefit from being in close physical proximity. 
+With these insights in mind, it is tempting for policy makers to reverse the direction of causality and assume that redesigning the physical space of the university to bring colleagues closer together will also promote more collaborative research.
+Unfortunately, there is little evidence that such redesigns enhance team science [@owen2013workplace].
+Quite the contrary, changes towards open office plans and flexible workplaces have met with substantial pushback at Dutch universities,
+as many academics value a constant, controlled, and quiet working environment [@lambeetsWerknemersVanUniversiteit2023].
+What does have evidence-based impact on collaboration is altering the dynamics of physical proximity among researchers.
 For example, random relocations of researchers were found to inspire new collaborations and breakthrough ideas [@cataliniMicrogeographyDirectionInventive2018].
 Even brief periods of co-location can increased the likelihood of collaboration [@boudreauColocationScientificCollaboration2012].
 Anecdotally, one winter, the heating broke at the Reitse Poort building, and the lead author of this report was relocated to the Developmental Psychology department (S building).
@@ -661,6 +754,10 @@ Spending two days at this department sparked two new collaborations.
 These findings suggest that while the physical structure of a university environment may not be a significant factor, the strategic placement and movement of people within existing environments can effectively foster inter-disciplinary interactions and team science initiatives.
 
 
+
+**Recommendation**: <span id=”collaborativeworkspace”>Establish physical spaces that incentivize scholars from different schools to mix. For example, Oxford-style “common rooms” with free (good) coffee and cookies, where researchers from different disciplines can meet, exchange ideas, and work on projects together.</span> 
+
+**Recommendation**: <span id=”brownbag”>Create a university-wide calendar of colloquia, symposia, brown bag lunches, et cetera, so staff is incentivized to attend events from other departments. Consider incentivizing use of this shared calendar by making funds for simple catering available to participating events.</span> 
 
 
 
@@ -673,7 +770,6 @@ These findings suggest that while the physical structure of a university environ
 
 ## Training for Team Science {#sec-training}
 
-(Ear-M: Enhancements in External Inputs, Training, and Team Building (P) ) (Ear-M: Changes to Drive Collaborative Initiatives: ) 
 
 
 The ability to collaborate effectively in a team context is not a given; it is an important *soft skill* that should be trained and developed.
@@ -682,29 +778,41 @@ When they ask why we assign group work despite such challenges, the answer is of
 With this in mind, it is important to train staff for effective team science, too.
 According to research, science teams often address coordination and communication challenges in an ad-hoc manner, resorting to online resources or training [@stokolsTrainingNextGeneration2014].
 To properly prepare scholars for complex scientific and societal challenges, however,
-requires a well thought out long-term strategy to training and professional development and consistent institutional support [@kleinCreatingInterdisciplinaryCampus2010].
+Fostering a culture of continuous learning, a long-term strategy for training and professional development, and consistent institutional support [@kleinCreatingInterdisciplinaryCampus2010].
+The long-term effectiveness of training for teams hinges on the organization's ability to sustain the desired training outcomes, which means policies, recognition and rewards, and the organizational culture must be aligned with the desired outcomes [@rosenTeamworkHealthcareKey2018].
 
+### Training for Team Members
 
 With regard to individual team members,
-it is important to educate PhD candidates and ECR not only in scientific skills, but also intrapersonal skills (personal development), and interpersonal skills [communication, @vogelInfluenceNationalCancer2012].
- (Ear-M: Enhancements in External Inputs, Training, and Team Building (P) )
+It is important to start early and educate PhD candidates and early career researchers not only in scientific skills, but also intrapersonal skills (personal development), and interpersonal skills [communication, @vogelInfluenceNationalCancer2012].
+This approach can even be further extended to include (under)graduate education;
+making a conscious choice to include group work and interdisciplinary assignments in the curriculum to adequately prepare students for a more team-oriented future (Hoffman et al., 2022). Additional to this, a previously mentioned idea would be to implement this structure into our diverse minor projects, drawing on the interdisciplinary background of the consortia taking the courses.
+
+
+
+**Recommendation**: <span id=”trainindividuals”>Offer training and workshops on team science principles, collaboration skills, and project management. These programs can help researchers develop the skills needed for successful interdisciplinary work.</span>
+  
+
+
+### Training for Teams
+
 Aside from training individuals, there is also *team training*, defined as an intervention to improve team performance by teaching necessary competencies.
-This is distinct from *team building*, which focuses more on interpersonal connections and is generally less effective in comparison [@salasEffectTeamBuilding1999].
+This is distinct from *team building*, which focuses more on interpersonal connections and is generally less effective in comparison [@salasEffectTeamBuilding1999]. 
+Effective team training goes beyond fostering team spirit, addressing specific skills essential for cross-disciplinary collaboration [@dyerTeamBuildingProven2007]. 
 Section @sec-effectiveness suggests that team training aimed at developing shared goals and transactive memory systems, as well as exposing teams to various interaction styles, results in more adaptive and flexible teams, thereby improving problem-solving and decision-making capabilities [@vogelPioneeringTransdisciplinaryTeam2014].
 Additionally, methods like positional clarification (explicating each member's role in the team) and modeling (trying on each other's roles) are useful for understanding team roles and tasks.
-Such training strategies enhance communication, coordination, and knowledge integration in science teams.
-Related to formative evaluation (Section @sec-monitoring), team reflexivity training may help teams align with project goals during a project's lifecycle: It involves having team members reflect on past performance to improve future interaction [@gurtnerGettingGroupsDevelop2007].
+Such training strategies enhance communication, coordination, and knowledge integration in science teams.Related to formative evaluation (Section @sec-monitoring), team reflexivity training may help teams align with project goals during a project's lifecycle: It involves having team members reflect on past performance to improve future interaction [@gurtnerGettingGroupsDevelop2007].
+Self-assessment tools, such as those made available at Utrecht University [-@universiteitutrechtErkennenWaarderenGespreksrichtlijnen2023], can also be used for team reflexivity and guided self-correction; recognizing and overcoming the common challenges of team science (see @sec-challenges).
 Finally, online platforms like <TeamScience.net> offer modules and resources to enhance skills in interdisciplinary and transdisciplinary team science. The [Toolbox Project](https://tdi.msu.edu/) is another innovative training intervention designed to facilitate cross-disciplinary communication through philosophical dialogue and probing statements about science.
-
 
 At present, the TiU HR department offers two trainings for teams: Firstly, the workshop 'Strength-based collaboration'/'(samen)werken vanuit de sterke punten', which involves teams reflecting in how to bring out the best in themselves, increasing self-awareness, and addresses personal (leadership) development. Secondly, the workshop ‘Connected leading’ involves getting to know team members’ communication styles in order to benefit team effectiveness.
 A key strength of these workshops is that they are targeted towards entire teams, including scientific- and support staff.
 A potential limitation is that the concept of communication styles is not a focal topic in the scientific literature on training for team effectiveness; specific problem-solving, conflict resolution, and decision making skills are more salient concepts.
 Low-hanging fruit in terms of additional training to develop is evidence-based training tailor-made to improve team effectiveness (see @sec-effectiveness), including trainings that focus on developing shared goals and representations.
 One inspiring example is the set of simple and almost gamified conversation guidelines that empower any team to engage in reflexivity and professionalization regarding team goals, recognition and rewards, and impact [@universiteitutrechtErkennenWaarderenGespreksrichtlijnen2023].
+While TiU currently employs team training in various areas, extending similar training to team dynamics and interpersonal communication can significantly enhance team effectiveness. 
 
 
-(Ear-M: Changes to Drive Collaborative Initiatives: ) 
 **Recommendation**: <span id="training">TiU should offer evidence-based team trainings for team science. This includes training individuals in skills required for effective teamwork, and training teams as a whole to build shared goals and representations.</span>
 
 
@@ -713,16 +821,57 @@ One inspiring example is the set of simple and almost gamified conversation guid
 
 
 
-## Training Collaborative Competencies and Leadership Skills
+## Leadership Training for Team Science {#sec-leadershiptraining}
 
 
-(Ear-M: Changes to Drive Collaborative Initiatives: ) (Ear-M: Enhancements in External Inputs, Training, and Team Building (P) ) ( Ear-M: Changes that Enable Groups to Work Together More Effectively (P) )
+Training team leadership skills is essential for navigating the complexities of diverse and interdisciplinary teams.
+Leadership training can help leaders identify and employ the most effective leadership style for their team, given the team's specific characteristics and objectives.
+This includes learning when to employ participatory- versus directive leadership styles [@rahmaniTeamLeadershipPerformance2018].
+In participatory leadership, team members are free to decide their effort levels, while in directive leadership, the leader demands specific contributions from members.
+A greater emphasis on directive leadership is appropriate when team members have low incentives, which may be the case in voluntary projects, those with a low probability of paying off, and larger teams.
+Participatory leadership allows team members to set their effort levels, while directive leadership involves the leader setting specific contribution demands, particularly effective in teams with low incentives.
+Other research identifies three leadership behaviors: cognitive leadership (providing a guiding vision), structural leadership (building bridges between individuals and disciplines), and processual leadership (fostering trust and communication) [@grayEnhancingTransdisciplinaryResearch2008].
+In larger teams, it becomes difficult for a single leader to adopt all these behaviors, and delegation may be in order.
+So-called "transformative leaders" embody humility, which fosters trust, and yet inspire a clear vision to inspire and direct the team, while tapping into team members' intrinsic motivation and bringing out their best self [@stokolsEcologyTeamScience2008].
+Transformative leaders can foster team members' self-efficacy by empowering them to have goal-aligned mastery experiences.
+They provide socio-emotional support and facilitate learning [@kozlowskiEnhancingEffectivenessWork2006].
+Formal leadership training provided by universities can support this, especially in university-industry research partnerships.
+Leaders should articulate their expectations for the team through written charters or collaborative agreements, outlining tasks, communication, and handling of finances, data sharing, and credit for publications and patents [@bennett2013collaboration].
+Alternatively, team members can self-assemble such charters through workshops and consensus [@goncharovaCORELabLab2023].
 
 
-<!-- HIER -->
+**Recommendation**: <span id=”leadership”>Provide leadership training for team science, with an emphasis on transformative leadership that empowers other team members to bring out their best.</span>
+
+<!-- 
+
+Provide leadership training to enhance diversity and knowledge identification within teams, ensuring strong group identity. (McCrae and Costa, 1999) (Olson and Olson, 2014)  A good example of this is the final Module of the UU note on team-science about personal leadership in appendix X. Whilst diverse groups make for a more broad map of knowledge, having someone to navigate the complexities of interdisciplinary research is critical in getting members to identify, and make the best contributions. This knowledge module helps people identify what kind of leadership needs to be applied, what kind of leadership they employ and what is needed to get the wanted results.  
+
+Team leaders should balance two leadership styles: participatory- and directive leadership [@rahmaniTeamLeadershipPerformance2018].
+In participatory leadership, team members are free to decide their effort levels, while in directive leadership, the leader demands specific contributions from members.
+A greater emphasis on directive leadership is appropriate when team members have low incentives, which may be the case in voluntary projects, those with a low probability of paying off, and larger teams.
+
+Good leaders combine humility, which engenders trust, with clear vision, which inspires a common vision and direction among team members [@stokolsEcologyTeamScience2008].
+So-called "transformational leadership" is a style that taps into team members' intrinsic motivation and empowers them to bring out their best [@stokolsEcologyTeamScience2008].
+
+Effective leaders in (interdisciplinary) team settings perform three leadership tasks: cognitive, structural, and processual [@grayEnhancingTransdisciplinaryResearch2008].
+Cognitive leadership involves providing a guiding vision.
+Structural leadership focuses on building bridges between individuals and disciplines.
+Processual leadership fosters trust and effective communication.
+Larger teams place more complex demands on leaders,
+which they may need to delegate.
+
+
+
+Leaders can foster individual self-efficacy by empowering team members to have *mastery experiences*,
+and then shift the focus towards the joint efficacy of the team.
+Leadership efforts also ought to address team members' alignment with team goals,
+and providing socio-emotional support [@kozlowskiEnhancingEffectivenessWork2006]. Person-focused leaders contribute to team learning in adaptive and developmental tasks, while task-focused leaders primarily impact learning in adaptive tasks (Kreunen et al., 2018).
+
+
 Universities can support university-industry research partnerships and other types of research centers by providing the leaders with formal leadership training, as recommended in Chapter 6. They can also encourage leaders and participants in newly formed research centers or institutes to articulate their expectations through written charters or collaborative agreements (Bennett, Gadlin, and Levine-Finley, 2010; Asencio et al., 2012). Such documents outline how tasks will be accomplished, how communication will take place, and how issues such as finances, data sharing, and credit for publications and patents will be handled." ("Enhancing the effectiveness of team science", 2015, p. 205)
-( Ear-M: Changes that Enable Groups to Work Together More Effectively (P) )[d]
-<!-- TOT HIER -->
+
+Team leaders can engage in two types of efforts, “contributing effort” and “directing effort”. The team leader’s contributing effort involves working independently on the teams projects while giving team members autonomy when it comes to their own efforts. Directing effort, on the other hand, involves the team leader setting deadlines, requesting reports of progress, and overall demanding more effort from team members. The directive leadership approach is ideal when team members’ incentives are low, which can happen when their rewards are low or when the size of the team is big. Otherwise, the contributing leadership approach fits best. If the team leader is free to choose, they should, with a directive approach, set rewards low, while with a contributing approach, rewards should be set high to incentivize team members (Rahmani, Roels & Karmarkar, 2018). 
+-->
 
 
 
@@ -739,11 +888,13 @@ Recognition and rewards are a key driver of desired culture changes.
 Thus, to promote a transition towards greater team science,
 TiU should establish clear criteria for the recognition and reward of staff contributions to collaborative research efforts.
 The dominant perspective in global academia is to perceive team science as the "cherry on top" of individual achievement. Klein and colleagues [-@klein2013promotion] summarize this as "Tenure first, interdisciplinarity later," and "Individual reputation first, collaboration later."
-Such a mindset can significantly hinder the adoptation of a culture supportive of team science.
+Such a mindset can significantly hinder the adoption of a culture supportive of team science.
 Instead, TiU should clearly communicate that team science is a major ingredient of the "whole cake", not just the cherry on top.
 
 
-Recognizing and rewarding team science is crucial across all levels of seniority.
+Recognizing and rewarding team science in hiring, promotion, and tenure decisions is crucial across all levels of seniority [@meurerTeamScienceCriteria2023]. 
+To promote team science, prioritize candidates with a track record of interdisciplinary research and a collaborative mindset.
+Early-career researchers are likely to be reluctant to engage in (transdisciplinary) team science unless clear incentives are established in terms of prospective employment and advancement, output, and funding [@dehartTeamScienceQualitative2017].
 According to the principle of "doctoral socialization," the academic trajectory of early career researchers is heavily influenced by their supervisors [@austinPaperCommissionedNational2011].
 Typically, PhD candidates are expected to collaborate only with their direct supervisors,
 a practice that misses the opportunity for broader engagement in interdisciplinary work.
@@ -751,7 +902,9 @@ Initiatives like TSB's HSRI PhD grants, which encourage collaboration between su
 There is room to expand this approach further by integrating participation in team science projects as a standard element of PhD programs.
 Although this requires an investment of the PhD student's time,
 it benefits the candidates by better preparing them for the job market, expanding their network, and resulting in additional (often higher impact) publications.
-This is particularly advantageous for early-career scholars. In essence, a systemic shift towards recognizing and rewarding contributions to team science can cultivate a more collaborative, interdisciplinary, and dynamic academic environment, aligning with the evolving demands of contemporary research landscapes.
+This is particularly advantageous for early-career scholars. In essence, a systemic shift towards recognizing and rewarding contributions to team science can cultivate a more collaborative, interdisciplinary, and dynamic academic environment, aligning with the evolving demands of contemporary research landscapes [@brodyBestPracticesInclusion2019].
+
+
 
 
 **Recommendation**: <span id="recognitionrewards">Task a working group with developing and evaluating general principles and specific criteria for recognizing team science contributions, and transparently incorporate these criteria in vacancies, PT&D conversations, and tenure and promotion committees.</span>  
@@ -762,6 +915,7 @@ This is particularly advantageous for early-career scholars. In essence, a syste
 
 **Recommendation**: <span id="hsri">Establish grants for collaborative PhD projects on thematic topics that require interdisciplinary and inter-faculty team science.</span>
 
+**Recommendation**: <span id=”professortwoschools”>Create a profile for professorships that span two schools, to promote interdisciplinary research and teaching.</span>
 
 ## What to Recognize and Reward? {#sec-whattoreward}
 
@@ -772,20 +926,21 @@ However, the system's requirement for excellence across all domains was widely c
 leading to the phrase "a sheep with five legs" (employees are expected to be sheep with five legs). 
 While the MERIT system acknowledged contributions other than only individual research excellence,
 there remained a need for a more nuanced approach,
-more individualized assessment, recognizing and valuing the unique strengths and contributions of each staff member.
+more individualized assessment, recognizing and valuing the unique strengths and contributions of each staff member [@kleinInterdisciplinaryCollaborativeWork2017].
 At other universities (e.g., Utrecht, who developed the TRIPLE system based on TiU's MERIT system),
 there is room for employees to *specialize* along several - but not all - of the areas of the model.
 Such flexibility is important in the light of persistent signals of high work pressure,
 because it allows staff to focus their efforts in specific areas, like education or research, at different times, thereby reducing the burden of juggling multiple tasks simultaneously.
+This may benefit academic staff’s mental health, which is affected by workloads, unattainable targets, pressure, and precarious contracts (Morrish, 2019).
 
 
 An important remaining question is how well the MERIT system is aligned with existing university-wide hiring- and promotion policies.
 If properly implemented, MERIT could create a more diverse range of career tracks, offering tenure and advancement opportunities to those who contribute significantly to departmental and university objectives, beyond the traditional research-focused pathways. This approach could lead to a more inclusive and flexible academic environment, where varied career trajectories are not only possible but also celebrated and rewarded.
 Some staff have high expectations for "Use (Y)our Talents" to deliver meaningful change, but this requires adjustments at various levels of the university's hierarchy.
 One anonymous employee said: "I am taking the SUTQ course to specialize more in education [...] If the university takes recognition & rewards seriously, I might still become 'associate professor of teaching' some day".
-Greater team science affords - and requires - greater specialization of staff members,
-and in order to facilitate such specialization,
-it is advisable to embrace and effectively implement a multi-dimensional schema for evaluating employee performance, like MERIT (2.0?).
+Greater team science affords - and requires - greater specialization of staff members.
+In order to facilitate such specialization,
+it is advisable to embrace and effectively implement a multi-dimensional schema for evaluating employee performance, like MERIT - and consider reassessing the original MERIT system to determine whether it meets TiU’s evolving needs, and consider developing MERIT 2.0.
 
 
 
@@ -797,7 +952,7 @@ it is advisable to embrace and effectively implement a multi-dimensional schema 
 
 
 Research assessment practices are shifting globally,
-as a result of the *Declaration on Research Assessment* (DORA). 
+as a result of the [*Declaration on Research Assessment* (DORA)](https://sfdora.org/read/). 
 It advocates for a more nuanced approach to assessing scientific research and contributions,
 rejecting journal-based metrics, such as Journal Impact Factors, as proxies for the quality of individual research articles or the contributions of individual scientists.
 Instead, DORA advises institutions to clearly communicate the criteria used in hiring, tenure, and promotion decisions, emphasizing that the scientific merit of scholarly output is more important than publication metrics or journal reputation.
@@ -811,9 +966,14 @@ they are well prepared to write a narrative for an NWO or ERC application as wel
 Conversely, if staff are accustomed to quantifying their performance only in terms of traditional metrics (impact factors, H-index, et cetera),
 they may be poorly prepared to write a narrative CV,
 and they will have focused their attention on optimizing outcomes that are increasingly omitted from consideration outside of TiU.
+Note that this is not to say that evaluation criteria should (exclusively) be qualitative;
+there are valid concerns about qualitative evaluation, as it is prone to bias and gaming, and hard to use to compare candidates [@ioannidisDefenseQuantitativeMetrics2023].
+The current state of evaluation is that aggregate-level indicators (like journal impact factors) are not valid indicators of individual quality;
+*considering* qualitative evaluation criteria is almost certainly a positive development,
+and at the same time, academia should continue to develop reliable and valid individual-level quantitative evaluation criteria, and open source databases on which to base them [@ioannidisDefenseQuantitativeMetrics2023].
 
 
-**Recommendation**: <span id="dora">To ensure that TiU staff remain competitive in (inter)national funding calls from DORA signatories (e.g., NWO, ERC), which require submitting a narrative CV, TiU should require internal performance reviews to follow a similar narrative structure, focused on quality, instead of relying on metrics with poor validity for assessing individual researchers' performance.</span>
+**Recommendation**: <span id="dora">To ensure that TiU staff remain competitive in (inter)national funding calls from DORA signatories (e.g., NWO, ERC), which require submitting a narrative CV, TiU should require internal performance reviews to follow a similar narrative structure, focused on quality and individual-level quantitative metrics, instead of relying on aggregate-level metrics which are not valid for assessing individual researchers' performance.</span>
 
 
 ## Crediting Author Contributions {#sec-credit}
@@ -843,7 +1003,8 @@ The CRediT contributor taxonomy may serve as a sensible default for all projects
 
 
 **Recommendation**: <span id="credit">All research output should be accompanied by a CRediT contributor taxonomy statement, unless another convention for crediting contributions takes precedence, in which case a reference should be provided to the system used.</span>
-
+Another approach is to move from an authorship model towards a “contributorship” model [see @sec-proceduralfairness, Smith et al., 2018].
+In a contributorship model, specific contributions are recognized, ensuring fair credit, reducing authorship disputes, and encouraging collaboration, data, and code sharing (Brand et al., 2015).
 
 ## Monitoring and Evaluating Team Science {#sec-monitoring}
 
@@ -1073,3 +1234,5 @@ knitr::kable(tab)
 [b]Paragrpahs that are enclosed in <!-- --> are comments. I have seen your edits here, and re-inserted them in the relevant sections below.
 [c]add abc's of team work here (for annika)
 [d]Still needs writing; who has notes about leadership training?
+
+
