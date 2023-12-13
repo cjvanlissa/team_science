@@ -9,11 +9,35 @@ format:
     include-in-header:
       - file: box.tex
   docx: default
+  titlepage-pdf:
+    documentclass: scrbook
+    coverpage: true
+    coverpage-bg-image: "cover.jpeg"
+    coverpage-theme: 
+      title-style: "none"
+    classoption: ["oneside", "open=any"]
+    number-sections: true
+    titlepage: "plain"
+    titlepage-footer: |
+      Team Science Working Group\
+      Use (Y)our Talents Program\
+      December 12th, 2023
+    include-in-header:
+      - file: box.tex
 editor: visual
 execute:
   echo: false
 ---
 
+<!-- ::: {.content-visible unless-format="titlepage-pdf"} -->
+
+<!-- # NOTE FOR FEEDBACK {.unnumbered} -->
+
+<!-- This version of the document is only for editing purposes. [The fully formatted document is available here.](https://github.com/cjvanlissa/team_science/blob/master/policy_brief.pdf) Please make sure to turn on "Suggesting" when you edit this document, and use comment bubbles, so we can keep track of the proposed changes: -->
+
+<!-- ![](suggesting.png) -->
+
+<!-- ::: -->
 
 # Introduction {#sec-introduction}
 
@@ -206,7 +230,7 @@ Team science is thus quite common at TiU, but analysis of author affiliations pr
 
 These statistics strongly suggest that interdisciplinarity and connecting the schools is low-hanging fruit; much can be gained by promoting team science that involves colleagues from different schools. Especially considering that TiU is a relatively focused institute - all schools fall within scope of the social sciences and humanities - this should be highly feasible.
 TiU appears to do well in terms of collaboration with external partners, which makes sense considering TiU’s embedding within the province.
-Initiatives like the recent [Regio Deal Midden-Brabant, “Ondernemen, innoveren en experimenteren met de mens centraal”](https://www.tilburguniversity.edu/nl/actueel/nieuws/meer-nieuws/regio-deal-ondernemen-innoveren-en-experimenteren-met-de-mens-centraal) continue to raise awareness about impactful projects that can involve multiple schools and societal partners.
+Initiatives like the recent [Regio Deal Midden-Brabant, “Ondernemen, innoveren en experimenteren met de mens centraal"](https://www.tilburguniversity.edu/nl/actueel/nieuws/meer-nieuws/regio-deal-ondernemen-innoveren-en-experimenteren-met-de-mens-centraal) continue to raise awareness about impactful projects that can involve multiple schools and societal partners.
 According to research, well-established senior researchers are more likely to collaborate with industry, but face obstacles like differing goals, reduced government support, and concerns about intellectual property, and uncertainty about both the economic and academic success of team science involving industry partners [@anic2017facilitating].
 If the goal is to further enhance collaboration with external partners, the first step is to identify promising areas of potential collaboration, organizing opportunities to meet external partners, and facilitating effective information exchange with societal partners [@capaldoFactorsAffectingDiffusion2016]. 
 Finally, these statistics show that collaboration with external scholars already abounds, and may thus be less of a priority.
@@ -301,16 +325,16 @@ These examples highlight the enormous potential of large-scale consortia in the 
 There is a fundamental correspondence between the perspectives and methods underlying team science and open science [@cheruvelilDataIntensiveEcologicalResearch2018].
 The open science movement was fueled in large part by team science, and conversely, removing barriers to more efficient and effective collaboration within teams is often considered a goal of open science [@ross-hellauerDynamicsCumulativeAdvantage2022].
 The open science transition has been a widely successful paradigm shift; In 2021, the UNESCO framework on open science was adopted by 193 signatory countries (UNESCO Recommendation on Open Science, 2021).
-Open science is now considered “standard practice” by the Dutch government [@ministerievanalgemenezakenNieuwsgierigBetrokken2019], 
+Open science is now considered “standard practice" by the Dutch government [@ministerievanonderwijscultuurenwetenschapNieuwsgierigBetrokken2019], 
 the EU [@os4osWhereOpenScience], and the United States government [@FACTSHEETBidenHarris2023].
-Given this extraordinary success, we can look to the “open science transition” for examples of best practices for promoting team science.
+Given this extraordinary success, we can look to the “open science transition" for examples of best practices for promoting team science.
 One crucial ingredient of the open science transition was support of the scientific community.
 Implementing a desired cultural change is a social challenge that requires a critical mass of support from employees [@inoscOpenScienceCommunity].
 In this sense, the Open Science Community Tilburg can serve both as a model and an ally in promoting the desired cultural change towards more interdisciplinary team science.
-The book chapter “Building a Strategic Advantage with Open Science”, by colleagues Hannes Datta and Harm Schütt, delves deeper into the potential value of open science for TiU [-@dattaBuildingStrategicAdvantage2022].
+The book chapter “Building a Strategic Advantage with Open Science", by colleagues Hannes Datta and Harm Schütt, delves deeper into the potential value of open science for TiU [-@dattaBuildingStrategicAdvantage2022].
 
 
-**Recommendation**: <span id=”opensciencecommunity”>The open science transition serves as a template for the transition towards more team science, and the Open Science Community Tilburg is a natural ally in achieving this transition.</span>
+**Recommendation**: <span id="opensciencecommunity">The open science transition serves as a template for the transition towards more team science, and the Open Science Community Tilburg is a natural ally in achieving this transition.</span>
 
 
 
@@ -322,7 +346,7 @@ The practice of public engagement is also associated with open science, and cons
 Public engagement can add knowledge to teams, and increase the relevance of social scientific research for its target audience [@tebesInterdisciplinaryTeamScience2018].
 The practice of preregistration serves a dual purpose of clearly outlining the scope of work to be done by a team,
 and preventing post-hoc disagreements about analytic decisions from arising after the data are collected [@peikertReproducibleResearchTutorial2021].
-Going beyond preregistration, submitting a Registered Report offers team members a “guaranteed payoff” to the effort invested [@baumgartnerHowBuildBig2023].
+Going beyond preregistration, submitting a Registered Report offers team members a “guaranteed payoff" to the effort invested [@baumgartnerHowBuildBig2023].
 Finally, open access publication makes scholarly output accessible to a wider audience.
 In team science, this can be especially valuable because the number of stakeholders is often larger; not all stakeholders may have access to certain outlets.
 Publishing open access ensures that all who have contributed retain access to the finished work, and allows for the dissemination of interdisciplinary research to a broader community of researchers, policymakers, and practitioners.
@@ -330,7 +354,7 @@ To empower team science using open science methods will require a persistent fun
 Recognizing and rewarding open science practices further incentivizes their adoption (see @sec-randr). 
 
  
-**Recommendation**: <span id=”opensciencepractices”>Open science practices greatly facilitate team work, reduce onboarding efforts and improve scalability, increase scientific rigor, and offer a greater potential payoff to team members.</span>
+**Recommendation**: <span id="opensciencepractices">Open science practices greatly facilitate team work, reduce onboarding efforts and improve scalability, increase scientific rigor, and offer a greater potential payoff to team members.</span>
 
 <!--Charting National and International Best Practices 
 
@@ -374,7 +398,7 @@ Moreover, motivational and affective processes within a team, such as a sense of
 
 Transparent communication is integral to team success, particularly in scientific and academic settings [@forscherBenefitsBarriersRisks2023; @connPearlsPitfallsTeam2019; @patelTeamSciencePractical2021]; 
 effective communication can facilitate interpersonal trust, increase productivity, and spark innovation.
-A “culture of dialogue” establishes deep listening and engagement as norms, which helps overcome challenges, achieve project goals, and establish shared representations [@orourkeCommunicationPracticeTeam2023]. 
+A “culture of dialogue" establishes deep listening and engagement as norms, which helps overcome challenges, achieve project goals, and establish shared representations [@orourkeCommunicationPracticeTeam2023]. 
 Training communication skills is beneficial for trust-building, exchanging worldviews, and conflict management [@readBuildingTeamTeam2016].
 Nevertheless, intellectual conflicts are inevitable in team contexts, and if managed appropriately, these may play a role in advancing knowledge [@collinsSociologyPhilosophiesGlobal1998].
 Successful science teams promote intellectual disagreement and discussion [@bennettCollaborationTeamScience2012]. Such an environment encourages ongoing dialogue, working through issues, and prevents the accumulation of unresolved problems, simultaneously fostering the development of trust [@brodyBestPracticesInclusion2019]. 
@@ -407,14 +431,14 @@ Trust is especially important in virtual teams relative to face-to-face teams, w
 
 ## Procedural Fairness {#sec-proceduralfairness}
 
-Relying on trust may not always be feasible, as trust develops over time between members of well-established science teams, and between friends, introducing a potential bias in favor of “old boys networks”.
+Relying on trust may not always be feasible, as trust develops over time between members of well-established science teams, and between friends, introducing a potential bias in favor of “old boys networks".
 With this in mind, it is important to note that transparency can partly replace the need for trust [@dehartTeamScienceQualitative2017; @breuerDoesTrustMatter2016].
-Perceptions of “justice” and “fairness” depends not only on objective outcomes, but also on a fair and transparent process [@zajacOvercomingChallengesTeamwork2021].
+Perceptions of “justice" and “fairness" depends not only on objective outcomes, but also on a fair and transparent process [@zajacOvercomingChallengesTeamwork2021].
 This may partly explain why the open science movement has been so effective in promoting team science.
 Transparent collaboration can also ensure that results are checked and verified, increasing their trustworthiness and reliability (Larson & Chang, 2016). 
 
 
-One way to ensure transparency and procedural fairness is to adopt a “Code of Conduct” for team projects, which explicitly states how team members are expected to behave in order to ensure social safety for all, how disagreements are resolved, and how contributions are credited [@baumgartnerHowBuildBig2023; @favaroYourScienceConference2016].
+One way to ensure transparency and procedural fairness is to adopt a “Code of Conduct" for team projects, which explicitly states how team members are expected to behave in order to ensure social safety for all, how disagreements are resolved, and how contributions are credited [@baumgartnerHowBuildBig2023; @favaroYourScienceConference2016].
 One commonly used code of conduct is the Contributor Covenant [@ehmkeContributorCovenantCode], but note that there has been some concern of overreach so science teams should assess to what extent their needs are met by existing codes of conduct, and if necessary, develop a custom code of conduct that is widely supported by team members.
 
 
@@ -442,7 +466,7 @@ Top-down requirements on team composition imposed by science leaders or funding 
 such as mandating the inclusion of certain individuals, disciplines, or institutions,
 can backfire, creating internal goal conflict. This highlights the delicate balance required in team composition to optimize effectiveness, considering both the diversity of skills and perspectives and the potential for conflict and misalignment of goals.
 
-The literature on team composition talks about its effect on team effectiveness in terms of “the ABC’s of team work”; a shorthand for describing the team climate in terms of affective states (a), behavioral processes (b), and cognitive (c) states [@bellTeamCompositionABCs2018].
+The literature on team composition talks about its effect on team effectiveness in terms of “the ABC’s of team work"; a shorthand for describing the team climate in terms of affective states (a), behavioral processes (b), and cognitive (c) states [@bellTeamCompositionABCs2018].
 Several individual team member characteristics can positively influence the ABCs, and thus contribute to team effectiveness.
 Conscientious team members tend to be better at self-regulation and oriented towards finding solutions. 
 Agreeableness can contribute to team cohesion and shared cognitions.
@@ -621,7 +645,7 @@ Providing guidance on crafting proposals for team science, and setting criteria 
 
 
 Given the prevalence of collaboration with public partners at TiU (@sec-goodpractices),
-private funds (“derde geldstroom”) are another salient source of (partial) funding for team science efforts.
+private funds (“derde geldstroom") are another salient source of (partial) funding for team science efforts.
 Collaborating with industry partners, as seen in the Regio Deal 'Ondernemen, innoveren en experimenteren met de mens centraal' [@TilburgUniversityPartner2023], provides financial support, while also providing real-world use cases, and enabling knowledge dissemination and valorization.
 In our region, [TU/e](https://www.tue.nl/en/education/why-study-at-tue/strong-ties-with-industry) is a guiding example of public/private team science efforts, which might provide guidance for such initiatives at TiU as well.
 A good starting point is the [Jheronimus Academy of Data Science](https://www.jads.nl/), as this is an initiative where TiU and TU/e meet.
@@ -721,9 +745,9 @@ Other universities use the FAIR principles in their campaign to promote as much 
 
 
 
-**Recommendation**: <span id=”opensoftware”>To ensure effortless (distributed) collaboration among team members, make all scholarly output FAIRly shareable, and use open source software for all task-critical activities to ensure that all team members can participate and contribute.</span>
+**Recommendation**: <span id="opensoftware">To ensure effortless (distributed) collaboration among team members, make all scholarly output FAIRly shareable, and use open source software for all task-critical activities to ensure that all team members can participate and contribute.</span>
 
-**Recommendation**: <span id=”reproducible”>Reproducible workflows help make scholarly output FAIRly shareable, facilitate collaboration, increase the reusability of scholarly output, and safeguard against human error that might otherwise go undetected.</span>
+**Recommendation**: <span id="reproducible">Reproducible workflows help make scholarly output FAIRly shareable, facilitate collaboration, increase the reusability of scholarly output, and safeguard against human error that might otherwise go undetected.</span>
 
 <!--
 Another important tool
@@ -755,9 +779,9 @@ These findings suggest that while the physical structure of a university environ
 
 
 
-**Recommendation**: <span id=”collaborativeworkspace”>Establish physical spaces that incentivize scholars from different schools to mix. For example, Oxford-style “common rooms” with free (good) coffee and cookies, where researchers from different disciplines can meet, exchange ideas, and work on projects together.</span> 
+**Recommendation**: <span id="collaborativeworkspace">Establish physical spaces that incentivize scholars from different schools to mix. For example, Oxford-style “common rooms" with free (good) coffee and cookies, where researchers from different disciplines can meet, exchange ideas, and work on projects together.</span> 
 
-**Recommendation**: <span id=”brownbag”>Create a university-wide calendar of colloquia, symposia, brown bag lunches, et cetera, so staff is incentivized to attend events from other departments. Consider incentivizing use of this shared calendar by making funds for simple catering available to participating events.</span> 
+**Recommendation**: <span id="brownbag">Create a university-wide calendar of colloquia, symposia, brown bag lunches, et cetera, so staff is incentivized to attend events from other departments. Consider incentivizing use of this shared calendar by making funds for simple catering available to participating events.</span> 
 
 
 
@@ -790,7 +814,7 @@ making a conscious choice to include group work and interdisciplinary assignment
 
 
 
-**Recommendation**: <span id=”trainindividuals”>Offer training and workshops on team science principles, collaboration skills, and project management. These programs can help researchers develop the skills needed for successful interdisciplinary work.</span>
+**Recommendation**: <span id="trainindividuals">Offer training and workshops on team science principles, collaboration skills, and project management. These programs can help researchers develop the skills needed for successful interdisciplinary work.</span>
   
 
 
@@ -840,7 +864,7 @@ Leaders should articulate their expectations for the team through written charte
 Alternatively, team members can self-assemble such charters through workshops and consensus [@goncharovaCORELabLab2023].
 
 
-**Recommendation**: <span id=”leadership”>Provide leadership training for team science, with an emphasis on transformative leadership that empowers other team members to bring out their best.</span>
+**Recommendation**: <span id="leadership">Provide leadership training for team science, with an emphasis on transformative leadership that empowers other team members to bring out their best.</span>
 
 <!-- 
 
@@ -870,7 +894,7 @@ and providing socio-emotional support [@kozlowskiEnhancingEffectivenessWork2006]
 
 Universities can support university-industry research partnerships and other types of research centers by providing the leaders with formal leadership training, as recommended in Chapter 6. They can also encourage leaders and participants in newly formed research centers or institutes to articulate their expectations through written charters or collaborative agreements (Bennett, Gadlin, and Levine-Finley, 2010; Asencio et al., 2012). Such documents outline how tasks will be accomplished, how communication will take place, and how issues such as finances, data sharing, and credit for publications and patents will be handled." ("Enhancing the effectiveness of team science", 2015, p. 205)
 
-Team leaders can engage in two types of efforts, “contributing effort” and “directing effort”. The team leader’s contributing effort involves working independently on the teams projects while giving team members autonomy when it comes to their own efforts. Directing effort, on the other hand, involves the team leader setting deadlines, requesting reports of progress, and overall demanding more effort from team members. The directive leadership approach is ideal when team members’ incentives are low, which can happen when their rewards are low or when the size of the team is big. Otherwise, the contributing leadership approach fits best. If the team leader is free to choose, they should, with a directive approach, set rewards low, while with a contributing approach, rewards should be set high to incentivize team members (Rahmani, Roels & Karmarkar, 2018). 
+Team leaders can engage in two types of efforts, “contributing effort" and “directing effort". The team leader’s contributing effort involves working independently on the teams projects while giving team members autonomy when it comes to their own efforts. Directing effort, on the other hand, involves the team leader setting deadlines, requesting reports of progress, and overall demanding more effort from team members. The directive leadership approach is ideal when team members’ incentives are low, which can happen when their rewards are low or when the size of the team is big. Otherwise, the contributing leadership approach fits best. If the team leader is free to choose, they should, with a directive approach, set rewards low, while with a contributing approach, rewards should be set high to incentivize team members (Rahmani, Roels & Karmarkar, 2018). 
 -->
 
 
@@ -915,7 +939,7 @@ This is particularly advantageous for early-career scholars. In essence, a syste
 
 **Recommendation**: <span id="hsri">Establish grants for collaborative PhD projects on thematic topics that require interdisciplinary and inter-faculty team science.</span>
 
-**Recommendation**: <span id=”professortwoschools”>Create a profile for professorships that span two schools, to promote interdisciplinary research and teaching.</span>
+**Recommendation**: <span id="professortwoschools">Create a profile for professorships that span two schools, to promote interdisciplinary research and teaching.</span>
 
 ## What to Recognize and Reward? {#sec-whattoreward}
 
@@ -1003,7 +1027,7 @@ The CRediT contributor taxonomy may serve as a sensible default for all projects
 
 
 **Recommendation**: <span id="credit">All research output should be accompanied by a CRediT contributor taxonomy statement, unless another convention for crediting contributions takes precedence, in which case a reference should be provided to the system used.</span>
-Another approach is to move from an authorship model towards a “contributorship” model [see @sec-proceduralfairness, Smith et al., 2018].
+Another approach is to move from an authorship model towards a “contributorship" model [see @sec-proceduralfairness, Smith et al., 2018].
 In a contributorship model, specific contributions are recognized, ensuring fair credit, reducing authorship disputes, and encouraging collaboration, data, and code sharing (Brand et al., 2015).
 
 ## Monitoring and Evaluating Team Science {#sec-monitoring}

@@ -8,7 +8,7 @@ format: pdf
 
 1. Team Science can be defined as collaboration with a larger number of partners than is standard in a particular domain of study, addressing a goal that transcends what could be achieved by a single scholar, with attention to diverse perspectives, and members from multiple branches of the organization (including scientific and support staff), and/or other stakeholders.
 
-**Benefits and Challenges of Team Science**
+**Benefits and Challenges of Team Science** (@sec-benefitschallenges)
 
 2. Team science allows scholars to provide complex solutions to large-scale public challenges. It promotes collaboration, cohesion, and knowledge exchange within organizations, increases impact, and may benefit research quality.
 
@@ -19,97 +19,127 @@ format: pdf
 
 4. At present, only 3% of academic output involves authors from multiple Schools. Promoting team science that connects the schools is low-hanging fruit, and should be a priority.
 
+**Open Science: Lessons Learned**
+
+5. The open science transition serves as a template for the transition towards more team science, and the Open Science Community Tilburg is a natural ally in achieving this transition.
+
+6. Open science practices greatly facilitate team work, reduce onboarding efforts and improve scalability, increase scientific rigor, and offer a greater potential payoff to team members.
+
 **Team Effectiveness** (@sec-effectiveness)
 
-5. Team effectiveness is best enhanced by thoughtful team composition, team professional development (including actively working towards shared understanding of goals, task requirements, and team member competencies), and inspiring team leadership.
+7. Team effectiveness is best enhanced by thoughtful team composition, team professional development (including actively working towards shared understanding of goals, task requirements, and team member competencies), and inspiring person-focused team leadership.
 
 **Communication and Team Success** (@sec-communication)
 
-6. Team members should be able to disagree constructively in a safe, supportive context. When possible, preemptive conflict management strategies should be used; anticipating disagreements and establishing terms for their constructive resolution. When conflict does occur, reactive conflict management should focus on empathy, problem-solving, and compromise.
+8. Team members should be able to disagree constructively in a safe, supportive context. When possible, preemptive conflict management strategies should be used; anticipating disagreements and establishing terms for their constructive resolution. When conflict does occur, reactive conflict management should focus on empathy, problem-solving, and compromise.
 
-**The Role of Trust** (@sec-trust)
+**Procedural Fairness** (@sec-proceduralfairness)
 
-7. Ensure trust within team contexts to facilitate effective collaboration, for example, through procedural fairness and transparency within science teams and the broader organization, and through physical contact between team members.
+9. Ensure trust within team contexts to facilitate effective collaboration, for example, through procedural fairness and transparency within science teams and the broader organization, and through physical contact between team members.
 
-**Team Composition[c]** (@sec-composition)
+10. Consider adopting or developing a code of conduct that clearly outlines expectations for how the team members will ensure social safety, resolve disagreements, and credit contributions.
 
-8. When composing a team, it is crucial to weigh the benefits of *task relevant diversity* against the downsides of overcoming disciplinary, institutional, or demographic differences.
+**Team Composition** (@sec-composition)
 
-9. Starting at the undergraduate level, train young academics in interdisciplinarity and collaborative skills.
+11. When composing a team, it is crucial to weigh the benefits of *task relevant diversity* against the downsides of overcoming disciplinary, institutional, or demographic differences.
+
+12. Starting at the undergraduate level, train young academics in interdisciplinarity and collaborative skills.
 
 **Permeable Team Boundaries** (@sec-boundaries)
 
-10. There should be a balanced approach to permeable team boundaries, leveraging the benefits of diverse and adaptable membership while maintaining a core of stability and security to foster team cohesion and sustained performance.
+13. There should be a balanced approach to permeable team boundaries, leveraging the benefits of diverse and adaptable membership while maintaining a core of stability and security to foster team cohesion and sustained performance.
 
-11. For all temporary team members, in particular ECR and those on temporary contracts, the balance between investments (in terms of time and effort) and rewards should be explicit and fair.
+14. For all temporary team members, in particular ECR and those on temporary contracts, the balance between investments (in terms of time and effort) and rewards should be explicit and fair.
 
 **Support staff** (@sec-supportstaff)
 
-12. Recognition and rewards should affect support staff as well, ensuring that support staff are incentivized to contribute to team science.
+15. Recognition and rewards should affect support staff as well, ensuring that support staff are incentivized to contribute to team science.
 
-13. Increase social and professional ties between all university staff (scientific and support) by welcoming all staff at the same training- and social events.
+16. Increase social and professional ties between all university staff (scientific and support) by welcoming all staff at the same training- and social events.
 
-14. Create a climate conducive to team science by incentivizing collaboration,
+17. Create a climate conducive to team science by incentivizing collaboration,
 making hierarchies flexible, supporting autonomy, embracing open science,
 recognizing and rewarding team science,
 and providing inspiring team-oriented leadership.
 
-15. "Excellence" does not exclusively refer to individual performance, but also applies to team efforts.
+18. "Excellence" does not exclusively refer to individual performance, but also applies to team efforts.
 
 **Flexible Hierarchies** (@sec-hierarchy)
 
-16. In order for team science to flourish, TiU must balance hierarchy and specialization on the one hand with collaboration and integration on the other. Hierarchy must be flexible: it must be possible to check, question, and even challenge authority.
+19. In order for team science to flourish, TiU must balance hierarchy and specialization on the one hand with collaboration and integration on the other. Hierarchy must be flexible: it must be possible to check, question, and even challenge authority.
 
 **Top down and Bottom Up** (@sec-topdownbottomup)
 
-17. To enact a desired culture change towards more team science, a combination of a top-down (through policy, funding opportunities, and recognition and rewards) and bottom-up (through informal networks like the Open Science Community, and social, academic, and networking events) approaches is necessary.
+20. To enact a desired culture change towards more team science, a combination of a top-down (through policy, funding opportunities, and recognition and rewards) and bottom-up (through informal networks like the Open Science Community, and social, academic, and networking events) approaches is necessary.
 
 
 **Funding Team Science** (@sec-funding)
 
-18. Using public funds (eerste geldstroom) to fund team science initiatives can affect more colleagues' careers in a more impactful way, while promoting cohesion within the organization. To do this fairly and transparently, the target audience should be included in the development of funding calls.
+21. Using public funds (eerste geldstroom) to fund (interdisciplinary) team science initiatives can affect more colleagues' careers in a more impactful way, while promoting cohesion within the organization. To do this fairly and transparently, the target audience should be included in the development of funding calls.
 
-19. Applications for team science funding instruments should include a collaboration plan as part of the evaluation criteria.
+22. Applications for team science funding instruments should include a collaboration plan as part of the evaluation criteria.
 
-20. Incubator grants, seed funding, and other flexible funding schemes incentivize team science at all levels of seniority.
+23. Create internal funding programs specifically designed to support interdisciplinary research projects that connect the schools.
+
+24. Incubator grants, seed funding, and other flexible funding schemes incentivize team science at all levels of seniority.
 
 **Funding Pitfalls** (@sec-fundingpitfalls)
 
-21. When reviewing funding applications, do not take prior funding success into account to avoid the "Matthew effect". Focus on merit and feasibility.
+25. When reviewing funding applications, do not take prior funding success into account to avoid the "Matthew effect". Focus on merit and feasibility.
 
-22. When reviewing team science funding applications, ensure diverse panels of reviewers, and prime them to value novelty and interdisciplinarity.
+26. When reviewing team science funding applications, ensure diverse panels of reviewers, and prime them to value novelty and interdisciplinarity.
+
+**Leveraging Technology and Infrastructure** (@sec-it)
+
+27. To ensure effortless (distributed) collaboration among team members, make all scholarly output FAIRly shareable, and use open source software for all task-critical activities to ensure that all team members can participate and contribute.
+
+28. Reproducible workflows help make scholarly output FAIRly shareable, facilitate collaboration, increase the reusability of scholarly output, and safeguard against human error that might otherwise go undetected.
+
+**Team Science and the Physical Environment** (@sec-physicalenvironment)
+
+29. Establish physical spaces that incentivize scholars from different schools to mix. For example, Oxford-style “common rooms" with free (good) coffee and cookies, where researchers from different disciplines can meet, exchange ideas, and work on projects together.
+
+30. Create a university-wide calendar of colloquia, symposia, brown bag lunches, et cetera, so staff is incentivized to attend events from other departments. Consider incentivizing use of this shared calendar by making funds for simple catering available to participating events.
 
 **Training for Team Science** (@sec-training)
 
-23. TiU should offer evidence-based team trainings for team science. This includes training individuals in skills required for effective teamwork, and training teams as a whole to build shared goals and representations.
+31. Offer training and workshops on team science principles, collaboration skills, and project management. These programs can help researchers develop the skills needed for successful interdisciplinary work.
 
-24. TiU should develop simple guidelines, readily available to all staff, to help teams engage in reflexivity and professionalization.
+32. TiU should offer evidence-based team trainings for team science. This includes training individuals in skills required for effective teamwork, and training teams as a whole to build shared goals and representations.
+
+33. TiU should develop simple guidelines, readily available to all staff, to help teams engage in reflexivity and professionalization.
+
+**Leadership Training for Team Science** (@sec-leadershiptraining)
+
+34. Provide leadership training for team science, with an emphasis on transformative leadership that empowers other team members to bring out their best.
 
 **Recognition and Rewards in Relation to Team Science** (@sec-randr)
 
-25. Task a working group with developing and evaluating general principles and specific criteria for recognizing team science contributions, and transparently incorporate these criteria in vacancies, PT&D conversations, and tenure and promotion committees.
+35. Task a working group with developing and evaluating general principles and specific criteria for recognizing team science contributions, and transparently incorporate these criteria in vacancies, PT&D conversations, and tenure and promotion committees.
 
-26. Require PhD candidates to contribute to one team science project during their education.
+36. Require PhD candidates to contribute to one team science project during their education.
 
-27. Establish grants for collaborative PhD projects on thematic topics that require interdisciplinary and inter-faculty team science.
+37. Establish grants for collaborative PhD projects on thematic topics that require interdisciplinary and inter-faculty team science.
+
+38. Create a profile for professorships that span two schools, to promote interdisciplinary research and teaching.
 
 **What to Recognize and Reward?** (@sec-whattoreward)
 
-28. Adopt the MERIT system as official guiding principle for PT&D, hiring, and promotions at TiU, but allow employees to specialize along its key dimensions, and ask organizational bodies to create vacancies that require a specific profile.
+39. Adopt the MERIT system as official guiding principle for PT&D, hiring, and promotions at TiU, but allow employees to specialize along its key dimensions, and ask organizational bodies to create vacancies that require a specific profile.
 
 **(Inter)national Developments** (@sec-internationalrandr)
 
-29. To ensure that TiU staff remain competitive in (inter)national funding calls from DORA signatories (e.g., NWO, ERC), which require submitting a narrative CV, TiU should require internal performance reviews to follow a similar narrative structure, focused on quality, instead of relying on metrics with poor validity for assessing individual researchers' performance.
+40. To ensure that TiU staff remain competitive in (inter)national funding calls from DORA signatories (e.g., NWO, ERC), which require submitting a narrative CV, TiU should require internal performance reviews to follow a similar narrative structure, focused on quality and individual-level quantitative metrics, instead of relying on aggregate-level metrics which are not valid for assessing individual researchers' performance.
 
 **Crediting Author Contributions** (@sec-credit)
 
-30. Fairly and transparently credit each team member's contribution in the creation of research output.
+41. Fairly and transparently credit each team member's contribution in the creation of research output.
 
-31. Explicitly state what convention was followed to credit contributions.
+42. Explicitly state what convention was followed to credit contributions.
 
-32. All research output should be accompanied by a CRediT contributor taxonomy statement, unless another convention for crediting contributions takes precedence, in which case a reference should be provided to the system used.
+43. All research output should be accompanied by a CRediT contributor taxonomy statement, unless another convention for crediting contributions takes precedence, in which case a reference should be provided to the system used.
 
 **Monitoring and Evaluating Team Science** (@sec-monitoring)
 
-33. All science teams should plan for formative assessments at given milestones during the project lifecycle. TiU should require summative evaluation of team science projects funded by the University (eerste geldstroom).
+44. All science teams should plan for formative assessments at given milestones during the project lifecycle. TiU should require summative evaluation of team science projects funded by the University (eerste geldstroom).
 <!-- To here -->
