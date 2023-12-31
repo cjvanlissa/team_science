@@ -422,7 +422,7 @@ Psychological safety fosters a climate supportive of risk-taking, learning and d
 Moreover, motivational and affective processes within a team, such as a sense of team efficacy, are essential.
 
 
-**Recommendation**: <span id="effectiveness">Team effectiveness is best enhanced by thoughtful team composition, team professional development (including actively working towards shared understanding of goals, task requirements, and team member competencies), and inspiring person-focused team leadership.</span>
+**Recommendation**: <span id="effectiveness">Team effectiveness is enhanced by thoughtful team composition, team professional development, building a shared understanding of goals, task requirements, and team member competencies, and inspiring person-focused team leadership.</span>
 
 ## The Role of Trust {#sec-trust}
 
@@ -601,7 +601,7 @@ then existing policies and support structures should be re-examined with those g
 The [Strategy Evaluation Protocol](https://storage.knaw.nl/2022-06/SEP_2021-2027.pdf)
 is a useful tool to help TiU evaluate to what extent its strategies with respect to team science are successfully adopted into policy.
 
-**Recommendation**: <span id="policy">Create a climate conducive to team science by incentivizing collaboration,
+**Recommendation**: <span id="policy">Organizational policies should strive to create a climate conducive to team science by incentivizing collaboration,
 making hierarchies flexible, supporting autonomy, embracing open science,
 recognizing and rewarding team science, team spirit,
 and inspiring team-oriented leadership.</span>
@@ -632,6 +632,8 @@ universities will need to strike a balance between hierarchy and specialization 
 
 
 **Recommendation**: <span id="hierarchy">In order for team science to flourish, TiU must balance hierarchy and specialization on the one hand with collaboration and integration on the other. Hierarchy must be flexible: it must be possible to check, question, and even challenge authority.</span>
+
+
 
 
 ## Top down and Bottom Up {#sec-topdownbottomup}
@@ -753,7 +755,7 @@ In addition, Tilburg University should prime reviewers with information about th
 
 
 
-## Leveraging Technology and Infrastructure {#sec-it}
+## Technology and Infrastructure {#sec-it}
 
 
 
@@ -787,11 +789,15 @@ The [Tilburg DataVerse](https://dataverse.nl/dataverse/tiu) meets some of those 
 Whilst fair data initiatives are there for research at TiU, they are currently only a part of the guidelines on safe data-management.
 Other universities use the FAIR principles in their campaign to promote as much reusable and accessible data as possible for interdisciplinary research initiatives and sourcing data.
 
+**Recommendation**: <span id="itsupport">Technology and infrastructure should provide support and tools for collaboration, without creating a rigid mold that science teams are expected to conform to.</span>
 
+**Recommendation**: <span id="opensoftware">As much as possible, use open source software for all task-critical activities to ensure that all team members can participate and contribute, regardless of institutional licenses for specific software and services.</span>
 
-**Recommendation**: <span id="opensoftware">To ensure effortless (distributed) collaboration among team members, make all scholarly output FAIRly shareable, and use open source software for all task-critical activities to ensure that all team members can participate and contribute.</span>
-
-**Recommendation**: <span id="reproducible">Reproducible workflows help make scholarly output FAIRly shareable, facilitate collaboration, increase the reusability of scholarly output, and safeguard against human error that might otherwise go undetected.</span>
+**Recommendation**: <span id="reproducible">Use
+reproducible workflows and make all scholarly output FAIRly shareable in order to ensure effortless (distributed) collaboration among team members,
+make scholarly output FAIRly shareable,
+increase the reusability of scholarly output,
+and safeguard against human error that might otherwise go undetected.</span>
 
 <!--
 Another important tool
@@ -855,10 +861,16 @@ With regard to individual team members,
 it is important to start early and educate PhD candidates and early career researchers not only in scientific skills, but also intrapersonal skills (personal development), interpersonal skills [@vogelInfluenceNationalCancer2012],
 and interdisciplinary learning [@fioreTrainingBeTeam2019]. 
 This entails developing the competencies necessary to being able to think and work across disciplinary boundaries.
+
 This approach can even be further extended to include (under)graduate education;
-making a conscious choice to include group work and interdisciplinary assignments in the curriculum to adequately prepare students for a more team-oriented future [@hoffmannIntegrateIntegratorsCall2022]. Additional to this, a previously mentioned idea would be to implement this structure into our diverse minor projects, drawing on the interdisciplinary background of the consortia taking the courses.
+making a conscious choice to include group work and interdisciplinary assignments in the curriculum to adequately prepare students for a more team-oriented future [@hoffmannIntegrateIntegratorsCall2022].
+Additional to this, a previously mentioned idea would be to implement this structure into our diverse minor projects, drawing on the interdisciplinary background of the consortia taking the courses.
+For an example of this approach, consider the minor *Digitale Gezondheid: een interdisciplinaire benadering*,
+developed in collaboration with TSHD, TSB, TLS, TiSEM, and the Academische Werkplaats Digital Health & Mental Wellbeing, and in the minor Digital Sciences for Society, both of which are projected to start in the summer of 2024.
+At present, there is substantial expertise among educational support staff on how to design and manage effective eduation for team science [@oakleyTurningStudentGroups2004].
+However, this material is not FAIRly available, limiting its potential impact on education across schools.
 
-
+**Recommendation**: <span id="teameducation">Teach effective collaboration skills at all levels by creating a FAIR resource page for teachers on how to effectively incorporate team work in education.</span>
 
 **Recommendation**: <span id="trainindividuals">Offer training and workshops on team science principles, collaboration skills, and project management. These programs can help staff develop the skills needed for successful interdisciplinary work.</span>
   
@@ -875,7 +887,8 @@ Such training strategies enhance communication, coordination, and knowledge inte
 Self-assessment tools, such as [those made available at Utrecht University](https://www.uu.nl/sites/default/files/UU%20-%20EW%20-%20Gespreksrichtlijnen%20v1.2.pdf) [-@universiteitutrechtErkennenWaarderenGespreksrichtlijnen2023], can also be used for team reflexivity and guided self-correction; recognizing and overcoming the common challenges of team science (see @sec-challenges).
 Finally, online platforms like <TeamScience.net> offer modules and resources to enhance skills in interdisciplinary and transdisciplinary team science. The [Toolbox Project](https://tdi.msu.edu/) is another innovative training intervention designed to facilitate cross-disciplinary communication through philosophical dialogue and probing statements about science.
 
-At present, the TiU HR department offers two trainings for teams: Firstly, the workshop 'Strength-based collaboration'/'(samen)werken vanuit de sterke punten', which involves teams reflecting in how to bring out the best in themselves, increasing self-awareness, and addresses personal (leadership) development. Secondly, the workshop ‘Connected leading’ involves getting to know team members’ communication styles in order to benefit team effectiveness.
+At present, the TiU HR department offers two trainings for teams: Firstly, the workshop 'Strength-based collaboration'/'(samen)werken vanuit de sterke punten', which involves teams reflecting in how to bring out the best in themselves; increasing self-awareness; team members identifying, valuating, and using their talents in relation to others; and personal (leadership) development.
+Secondly, the workshop ‘Connected leading’ involves getting to know team members’ communication styles in order to benefit effective communication and team effectiveness.
 A key strength of these workshops is that they are targeted towards entire teams, including scientific- and support staff.
 A potential limitation is that the concept of communication styles is not a focal topic in the scientific literature on training for team effectiveness; specific problem-solving, conflict resolution, and decision making skills are more salient concepts.
 Low-hanging fruit in terms of additional training to develop is evidence-based training tailor-made to improve team effectiveness (see @sec-effectiveness), including trainings that focus on developing shared goals and representations.
@@ -912,7 +925,7 @@ Leaders should articulate their expectations for the team through written charte
 Alternatively, team members can self-assemble such charters through workshops and consensus [@goncharovaCORELabLab2023].
 
 
-**Recommendation**: <span id="leadership">When training connected leadership skills, emphasize transformative leadership for team science, that empowers team members to bring out their best.</span>
+**Recommendation**: <span id="leadership">When training connected leadership skills, emphasize transformative leadership for team science, that empowers team members to bring out their best. Recognize that, in team contexts, shared leadership can be more effective than hierarchical leadership (@sec-hierarchy).</span>
 
 <!-- 
 
