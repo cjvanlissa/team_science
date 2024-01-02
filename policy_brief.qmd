@@ -867,7 +867,7 @@ making a conscious choice to include group work and interdisciplinary assignment
 Additional to this, a previously mentioned idea would be to implement this structure into our diverse minor projects, drawing on the interdisciplinary background of the consortia taking the courses.
 For an example of this approach, consider the minor *Digitale Gezondheid: een interdisciplinaire benadering*,
 developed in collaboration with TSHD, TSB, TLS, TiSEM, and the Academische Werkplaats Digital Health & Mental Wellbeing, and in the minor Digital Sciences for Society, both of which are projected to start in the summer of 2024.
-At present, there is substantial expertise among educational support staff on how to design and manage effective eduation for team science [@oakleyTurningStudentGroups2004].
+At present, there is substantial expertise among educational support staff on how to design and manage effective education for team science [@oakleyTurningStudentGroups2004].
 However, this material is not FAIRly available, limiting its potential impact on education across schools.
 
 **Recommendation**: <span id="teameducation">Teach effective collaboration skills at all levels by creating a FAIR resource page for teachers on how to effectively incorporate team work in education.</span>
