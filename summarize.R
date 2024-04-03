@@ -1,5 +1,5 @@
 sourcetext <- readLines("policy_brief.qmd", encoding = "UTF8")
-sourcetext <- sourcetext[grep("## Defining Team Science", sourcetext, fixed = T):grep("# Recommendations for a Vision for Team Science at Tilburg University", sourcetext, fixed = T)]
+sourcetext <- sourcetext[grep("## Defining Team Science", sourcetext, fixed = T):grep("# Considerations for Team Science at Tilburg University", sourcetext, fixed = T)]
 string <- paste0(sourcetext, collapse = "\n")
 
 spans <- function(string){

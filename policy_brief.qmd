@@ -46,8 +46,7 @@ Much of the work conducted at Tilburg University already occurs in a team contex
 But the term "Team Science" has taken on a new meaning and relevance in the context of the Recognition & Rewards program.
 The university has committed to establishing a vision on Team Science in 2023.
 To meet this mandate, a working group "Team Science" was established within the university-wide program "Use (Y)our Talents" (of which Recognition & Rewards is a part).
-The working group Team Science was asked to write a policy brief to inform a vision on Team Science, paying attention to the following:
-
+The working group Team Science was asked to write a policy brief to inform the future of Team Science at Tilburg University, paying attention to the following:
 
 1. __Define__ team science in the context of Tilburg University (with special attention to the Social Sciences & Humanities, SSH);
 2. Explore the scientific __literature__ on team science;
@@ -263,7 +262,7 @@ and affiliations are not always correctly listed.
 ## Local Perspective {#sec-goodpractices}
 -->
 
-**Recommendation**: <span id="connectschools">At present, only 3% of academic output involves authors from multiple Schools. If connecting the schools is considered important, then promoting team science initiatives that connect the schools is low-hanging fruit.</span>
+**Consideration**: <span id="connectschools">At present, only 3% of academic output involves authors from multiple Schools. If connecting the schools is considered important, then promoting team science initiatives that connect the schools is low-hanging fruit.</span>
 
 
 Existing initiatives aimed at fostering collaboration across the schools are the academic collaborative centers in which researchers from different disciplines are invited to collaborate, together with societal partners, on socially relevant problems.
@@ -293,19 +292,6 @@ we conducted qualitative interviews with colleagues involved in several such ini
 `r paste0("**", names(tab)[2:5], "**. ", tab[2, 2:5], collapse = "\n\n")`
 ::::
 
-These vignettes indicate major advances have been made in terms of team science efforts in recent years.
-Important lessons have been learned in terms of rigid hierarchy (see @sec-policy and @sec-trust),
-shared goals and representations (see @sec-effectiveness)
-and transparency and fairness (see @sec-communication).
-Future team science efforts at TiU should build upon these lessons learned, and build in a flexible hierarchy, transparency and procedural fairness from the start, and engage in shared activities and/or trainings to establish shared goals and representations.
-
-
-## National Perspective
-
-
-For national examples of Team Science, see the vignettes below. Note that four schools of TiU are members of ODISSEI (TLS, TiSEM, TSHD, and TSB),
-and TiU staff are also part of the second team science initiative mentioned.
-
 :::: {.blackbox data-latex=""}
 ::: {.center data-latex=""}
 **`r tab[3,1]`**
@@ -313,11 +299,32 @@ and TiU staff are also part of the second team science initiative mentioned.
 `r paste0("**", names(tab)[2:5], "**. ", tab[3, 2:5], collapse = "\n\n")`
 ::::
 
+These vignettes illustrate the status quo of team science at our university, across different schools and levels of the organization.
+They also provide real-life examples of lessons learned in terms of rigid hierarchy (see @sec-policy and @sec-trust),
+shared goals and representations (see @sec-effectiveness)
+and transparency and fairness (see @sec-communication).
+Future team science efforts at TiU should build upon these lessons learned, and build in a flexible hierarchy, transparency and procedural fairness from the start, and engage in shared activities and/or trainings to establish shared goals and representations.
+
+
+## National Perspective
+
+Of course, team science is not confined to collaboration within the university.
+Especially since our assignment was to look at national best practices, we also conducted interviews with members of nation-wide team science initiatives (see the vignettes below).
+Both initiatives do have ties to our university;
+the first involved members of our staff, and the second involved staff members from four schools ODISSEI (TLS, TiSEM, TSHD, and TSB).
+
 :::: {.blackbox data-latex=""}
 ::: {.center data-latex=""}
 **`r tab[4,1]`**
 :::
 `r paste0("**", names(tab)[2:5], "**. ", tab[4, 2:5], collapse = "\n\n")`
+::::
+
+:::: {.blackbox data-latex=""}
+::: {.center data-latex=""}
+**`r tab[5,1]`**
+:::
+`r paste0("**", names(tab)[2:5], "**. ", tab[5, 2:5], collapse = "\n\n")`
 ::::
 
 
@@ -355,7 +362,7 @@ It is evident from this definition that there is a fundamental correspondence be
 Removing barriers to more efficient and effective collaboration, including within teams, is a prime goal of open science, and the open science movement was fueled in large part by team science efforts [@ross-hellauerDynamicsCumulativeAdvantage2022].
 The open science transition has been a widely successful paradigm shift; In 2021, the UNESCO framework on open science was adopted by 193 signatory countries [@unescoUNESCORecommendationOpen2021].
 Open science is now considered “standard practice" by the Dutch government [@ministerievanonderwijscultuurenwetenschapNieuwsgierigBetrokken2019], 
-the EU [@os4osWhereOpenScience], and the United States government [@FACTSHEETBidenHarris2023].
+the EU [@os4osWhereOpenScience2023], and the United States government [@FACTSHEETBidenHarris2023].
 Given this extraordinary success, we can look to the “open science transition" for examples of best practices for promoting team science.
 One crucial ingredient of the open science transition was support of the scientific community.
 Implementing a desired cultural change is a social challenge that requires a critical mass of support from employees [@inoscOpenScienceCommunity].
@@ -363,7 +370,7 @@ In this sense, the Open Science Community Tilburg can serve both as a model and 
 The book chapter “Building a Strategic Advantage with Open Science", by colleagues Hannes Datta and Harm Schütt, delves deeper into the potential value of open science for TiU [-@dattaBuildingStrategicAdvantage2022].
 
 
-**Recommendation**: <span id="opensciencecommunity">The open science transition serves as a template for the transition towards more team science, and the Open Science Community Tilburg is a natural ally in achieving this transition.</span>
+**Consideration**: <span id="opensciencecommunity">The open science transition serves as a template for the transition towards more team science, and the Open Science Community Tilburg is a natural ally in achieving this transition.</span>
 
 
 
@@ -384,7 +391,7 @@ To empower team science using open science methods will require a persistent fun
 Recognizing and rewarding open science practices further incentivizes their adoption (see @sec-randr). 
 
  
-**Recommendation**: <span id="opensciencepractices">Open science practices facilitate team science, reduce onboarding efforts and improve scalability, increase the reusability of materials, data, and code, increase scientific rigor, and offer a greater potential payoff to team members.</span>
+**Consideration**: <span id="opensciencepractices">Open science practices facilitate team science, reduce onboarding efforts and improve scalability, increase the reusability of materials, data, and code, increase scientific rigor, and offer a greater potential payoff to team members.</span>
 
 <!--Charting National and International Best Practices 
 
@@ -422,7 +429,7 @@ Psychological safety fosters a climate supportive of risk-taking, learning and d
 Moreover, motivational and affective processes within a team, such as a sense of team efficacy, are essential.
 
 
-**Recommendation**: <span id="effectiveness">Team effectiveness is enhanced by thoughtful team composition, team professional development, building a shared understanding of goals, task requirements, and team member competencies, and inspiring person-focused team leadership.</span>
+**Consideration**: <span id="effectiveness">Team effectiveness is enhanced by thoughtful team composition, team professional development, building a shared understanding of goals, task requirements, and team member competencies, and inspiring person-focused team leadership.</span>
 
 ## The Role of Trust {#sec-trust}
 
@@ -457,7 +464,7 @@ There are two primary conflict management strategies: reactive and preemptive [@
 Reactive conflict management involves resolving disagreements through problem-solving, compromise, and flexibility, while preemptive strategies anticipate potential conflicts, guiding them in advance through cooperative norms, charters, or other structures. @kozlowskiWorkGroupsTeams2013 further emphasize the importance of these approaches in shaping conflict processes constructively. In essence, the efficacy of team communication, particularly in handling intellectual disagreements, is a significant determinant of a team’s success in the scientific field.
 
 
-**Recommendation**: <span id="conflict">Team members should be able to disagree constructively in a safe, supportive context. When possible, preemptive conflict management strategies should be used; anticipating disagreements and establishing terms for their constructive resolution. When conflict does occur, reactive conflict management should focus on empathy, problem-solving, and compromise. Professional development opportunities should be in place to educate staff in the use of such communication techniques.</span>
+**Consideration**: <span id="conflict">Team members should be able to disagree constructively in a safe, supportive context. When possible, preemptive conflict management strategies should be used; anticipating disagreements and establishing terms for their constructive resolution. When conflict does occur, reactive conflict management should focus on empathy, problem-solving, and compromise. Professional development opportunities should be in place to educate staff in the use of such communication techniques.</span>
 
 
 
@@ -471,12 +478,12 @@ Transparent collaboration can also ensure that results are checked and verified,
 
 
 One way to ensure transparency and procedural fairness is to adopt a “Code of Conduct" for team projects, which explicitly states how team members are expected to behave in order to ensure social safety for all, how disagreements are resolved, and how contributions are credited [@baumgartnerHowBuildBig2023; @favaroYourScienceConference2016].
-One commonly used code of conduct is the Contributor Covenant [@ehmkeContributorCovenantCode], but note that there has been some concern of overreach so science teams should assess to what extent their needs are met by existing codes of conduct, and if necessary, develop a custom code of conduct that is widely supported by team members.
+One commonly used code of conduct is the Contributor Covenant [@ehmkeContributorCovenantCode2014], but note that there has been some concern of overreach so science teams should assess to what extent their needs are met by existing codes of conduct, and if necessary, develop a custom code of conduct that is widely supported by team members.
 
 
-**Recommendation**: <span id="trust">Ensure trust within team contexts to facilitate effective collaboration, for example, through procedural fairness and transparency within science teams and the broader organization, and through face-to-face interaction between team members.</span>
+**Consideration**: <span id="trust">Ensure trust within team contexts to facilitate effective collaboration, for example, through procedural fairness and transparency within science teams and the broader organization, and through face-to-face interaction between team members.</span>
 
-**Recommendation**: <span id="codeofconduct">Consider adopting or developing a code of conduct that clearly outlines expectations for how the team members will ensure social safety, resolve disagreements, credit contributions, ensure ethical and responsible research practices, and provides recourse in case anything goes wrong.</span>
+**Consideration**: <span id="codeofconduct">Consider adopting or developing a code of conduct that clearly outlines expectations for how the team members will ensure social safety, resolve disagreements, credit contributions, ensure ethical and responsible research practices, and provides recourse in case anything goes wrong.</span>
 
 
 ## Team Composition {#sec-composition}
@@ -511,10 +518,10 @@ Each team member can contribute to the ABC’s of a team, and establishing clear
 
 
 
-**Recommendation**: <span id="composition">When composing a team, it is crucial to weigh the benefits of *task relevant diversity* against the downsides of overcoming disciplinary, institutional, or demographic differences.</span> 
+**Consideration**: <span id="composition">When composing a team, it is crucial to weigh the benefits of *task relevant diversity* against the downsides of overcoming disciplinary, institutional, or demographic differences.</span> 
 
 
-**Recommendation**: <span id="interdisciplinary">Starting at the undergraduate level, train young academics in interdisciplinarity and collaborative skills.</span> (Hall, 2020)
+**Consideration**: <span id="interdisciplinary">Starting at the undergraduate level, train young academics in interdisciplinarity and collaborative skills.</span> (Hall, 2020)
 
 
 ## Permeable Team Boundaries {#sec-boundaries}
@@ -536,10 +543,10 @@ which can be substantially reduced by following reproducible workflows (see @sec
 and maintaining collaborative agreements and a code of conduct helps clarify expectations to new team members (@sec-proceduralfairness). 
 
 
-**Recommendation**: <span id="permeable">It is important to maintain a stable core membership in teams with permeable boundaries to foster team cohesion and sustained performance.</span>
+**Consideration**: <span id="permeable">It is important to maintain a stable core membership in teams with permeable boundaries to foster team cohesion and sustained performance.</span>
 
 
-**Recommendation**: <span id="permeable2">For all temporary team members, in particular early career academics and those on temporary contracts, the balance between investments (in terms of time and effort) and rewards should be explicit and fair.</span>
+**Consideration**: <span id="permeable2">For all temporary team members, in particular early career academics and those on temporary contracts, the balance between investments (in terms of time and effort) and rewards should be explicit and fair.</span>
 
 
 <!-- Strategies for Building Effective and Diverse Teams  -->
@@ -566,7 +573,7 @@ Dissolution of the hierarchy implied by this distinction, and flexibility in ter
 and concomitant recognition and reward, of support staff.
 
 
-**Recommendation**: <span id="supportstaff">Recognition and rewards should affect support staff as well, ensuring that support staff are incentivized to contribute to team science.</span>
+**Consideration**: <span id="supportstaff">Recognition and rewards should affect support staff as well, ensuring that support staff are incentivized to contribute to team science.</span>
 
 
 Building relationships between academic- and support staff is also important, if the goal is to involve support staff more in team science.
@@ -576,9 +583,9 @@ Some universities have altogether abolished the distinction between scientific a
 clearly signaling a vision for further integration of these roles [@agterbergUUSpreektVoortaan2023].
 TiU, at the same time, already integrates academic and support staff in trainings and social events.
 
-**Recommendation**: <span id="supportstaffrelationships">Increase social and professional ties between all university staff (scientific and support) by welcoming all staff at the same training- and social events.</span>
+**Consideration**: <span id="supportstaffrelationships">Increase social and professional ties between all university staff (scientific and support) by welcoming all staff at the same training- and social events.</span>
 
-**Recommendation**: <span id="supportstaffphysical">Decentralize support staff and locate them (physically) closer to the researchers, at least temporarily - for example, by having consultation hours in different buildings - thus enabling easier collaboration (see @sec-physicalenvironment).</span>
+**Consideration**: <span id="supportstaffphysical">Decentralize support staff and locate them (physically) closer to the researchers, at least temporarily - for example, by having consultation hours in different buildings - thus enabling easier collaboration (see @sec-physicalenvironment).</span>
 
 
 
@@ -601,7 +608,7 @@ then existing policies and support structures should be re-examined with those g
 The [Strategy Evaluation Protocol](https://storage.knaw.nl/2022-06/SEP_2021-2027.pdf)
 is a useful tool to help TiU evaluate to what extent its strategies with respect to team science are successfully adopted into policy.
 
-**Recommendation**: <span id="policy">Organizational policies should strive to create a climate conducive to team science by incentivizing collaboration,
+**Consideration**: <span id="policy">Organizational policies should strive to create a climate conducive to team science by incentivizing collaboration,
 making hierarchies flexible, supporting autonomy, embracing open science,
 recognizing and rewarding team science, team spirit,
 and inspiring team-oriented leadership.</span>
@@ -610,7 +617,7 @@ and inspiring team-oriented leadership.</span>
 <!-- Encourage community based research in courses, which includes students reflecting on their research experience and linking it back to coursework. -->
 
 
-**Recommendation**: <span id="excellentindividual">Redefine "excellence" to no longer exclusively refer to individual performance, but also provide a concrete outline of what constitutes excellence in a team context.</span>
+**Consideration**: <span id="excellentindividual">Redefine "excellence" to no longer exclusively refer to individual performance, but also provide a concrete outline of what constitutes excellence in a team context.</span>
 
 
 ## Flexible Hierarchies {#sec-hierarchy}
@@ -631,7 +638,7 @@ In order for team science efforts to flourish,
 universities will need to strike a balance between hierarchy and specialization on the one hand, and collaboration and integration on the other [@lawrenceDifferentiationIntegrationComplex1967].
 
 
-**Recommendation**: <span id="hierarchy">In order for team science to flourish, TiU must balance hierarchy and specialization on the one hand with collaboration and integration on the other. Hierarchy must be flexible: it must be possible to check, question, and even challenge authority.</span>
+**Consideration**: <span id="hierarchy">In order for team science to flourish, TiU must balance hierarchy and specialization on the one hand with collaboration and integration on the other. Hierarchy must be flexible: it must be possible to check, question, and even challenge authority.</span>
 
 
 
@@ -654,7 +661,7 @@ Top-down strategies ensure institutional support and alignment with the institut
 while bottom-up initiatives ensure buy-in from staff. 
 
 
-**Recommendation:** <span id="bottomtop">To enact a desired culture change towards more team science, a combination of a top-down (through policy, funding opportunities, and recognition and rewards) and bottom-up (through informal networks like the Open Science Community, and social, academic, and networking events) approaches is necessary.
+**Consideration:** <span id="bottomtop">To enact a desired culture change towards more team science, a combination of a top-down (through policy, funding opportunities, and recognition and rewards) and bottom-up (through informal networks like the Open Science Community, and social, academic, and networking events) approaches is necessary.
 </span>
 
 
@@ -691,13 +698,13 @@ In our region, [TU/e](https://www.tue.nl/en/education/why-study-at-tue/strong-ti
 A good starting point is the [Jheronimus Academy of Data Science](https://www.jads.nl/), as this is an initiative where TiU and TU/e meet.
 
 
-**Recommendation**: <span id="publicfunds">Using public funds (eerste geldstroom) to fund (interdisciplinary) team science initiatives can affect more colleagues' careers in a more impactful way, while promoting cohesion within the organization. To do this fairly and transparently, the target audience should be included in the development of funding calls.</span>
+**Consideration**: <span id="publicfunds">Using public funds (eerste geldstroom) to fund (interdisciplinary) team science initiatives can affect more colleagues' careers in a more impactful way, while promoting cohesion within the organization. To do this fairly and transparently, the target audience should be included in the development of funding calls.</span>
 
-**Recommendation**: <span id="collaborationplan">Applications for team science funding instruments should include a collaboration plan as part of the evaluation criteria.</span>
+**Consideration**: <span id="collaborationplan">Applications for team science funding instruments should include a collaboration plan as part of the evaluation criteria.</span>
 
-**Recommendation**: <span id="interdisciplinaryfunding">Monitor and evaluate existing internal funding programs aimed at stimulating collaboration across the schools.</span>
+**Consideration**: <span id="interdisciplinaryfunding1">Monitor and evaluate existing internal funding programs aimed at stimulating collaboration across the schools.</span>
 
-**Recommendation**: <span id="interdisciplinaryfunding">Create new internal funding programs specifically designed to support interdisciplinary research projects that connect the schools.</span>
+**Consideration**: <span id="interdisciplinaryfunding2">Create new internal funding programs specifically designed to support interdisciplinary research projects that connect the schools.</span>
 
 One effective approach to fostering innovative team science is through incubator grants. Such grants are designed to support the developmental phases of team science, providing crucial "incubator space" for the generation and advancement of new cross-disciplinary ideas [@hallNewsNIHResources2012, @nationalresearchcouncilInternationalCollaborationsBehavioral2007].
 Additionally, project development or pilot funds offer flexible financing for just-in-time innovations or integrative ideas that emerge during larger collaborative projects [@hallFourphaseModelTransdisciplinary2012, @vogelPioneeringTransdisciplinaryTeam2014].
@@ -712,7 +719,7 @@ This would align university resources with research goals, creating incentives f
 
 
 
-**Recommendation**: <span id="smallgrants">Create incubator grants, seed funding, and other flexible funding schemes to incentivize team science at all levels of seniority.</span>
+**Consideration**: <span id="smallgrants">Create incubator grants, seed funding, and other flexible funding schemes to incentivize team science at all levels of seniority.</span>
 
 
 ## Funding Pitfalls {#sec-fundingpitfalls}
@@ -734,7 +741,7 @@ this introduces a bias against collaborating with non-profits.
 Even in-kind contributions may be difficult, since non-profits need to account for all of their expenses and have limited manpower.
 This is problematic because some topics that are important for society have a smaller chance of being studied.
 
-**Recommendation**: <span id="mattheweffect">When reviewing funding applications, do not take prior funding success into account to avoid the "Matthew effect". Focus on merit and feasibility.</span>
+**Consideration**: <span id="mattheweffect">When reviewing funding applications, do not take prior funding success into account to avoid the "Matthew effect". Focus on merit and feasibility.</span>
 
 
 Another potential pitfall occurs in the reviewing of funding applications.
@@ -745,7 +752,7 @@ Diversity in review panels will allow for a more balanced and open-minded assess
 In addition, Tilburg University should prime reviewers with information about the importance of novel research approaches, mitigating biases against highly innovative proposals. Review criteria should be expanded to encompass not just the technical and scientific merits but also the collaborative potential of the research team.
 
 
-**Recommendation**: <span id="biasedreview">When reviewing team science funding applications, ensure diverse panels of reviewers, and prime them to value innovation and interdisciplinarity.</span>
+**Consideration**: <span id="biasedreview">When reviewing team science funding applications, ensure diverse panels of reviewers, and prime them to value innovation and interdisciplinarity.</span>
 
 
 <!-- In summary, a diverse and strategic approach to funding, which includes incubator grants, pilot projects, and professional development funds, is vital to nurturing the dynamic and innovative nature of team science. -->
@@ -789,11 +796,11 @@ The [Tilburg DataVerse](https://dataverse.nl/dataverse/tiu) meets some of those 
 Whilst fair data initiatives are there for research at TiU, they are currently only a part of the guidelines on safe data-management.
 Other universities use the FAIR principles in their campaign to promote as much reusable and accessible data as possible for interdisciplinary research initiatives and sourcing data.
 
-**Recommendation**: <span id="itsupport">Technology and infrastructure should provide support and tools for collaboration, without creating a rigid mold that science teams are expected to conform to.</span>
+**Consideration**: <span id="itsupport">Technology and infrastructure should provide support and tools for collaboration, without creating a rigid mold that science teams are expected to conform to.</span>
 
-**Recommendation**: <span id="opensoftware">As much as possible, use open source software for all task-critical activities to ensure that all team members can participate and contribute, regardless of institutional licenses for specific software and services.</span>
+**Consideration**: <span id="opensoftware">As much as possible, use open source software for all task-critical activities to ensure that all team members can participate and contribute, regardless of institutional licenses for specific software and services.</span>
 
-**Recommendation**: <span id="reproducible">Use
+**Consideration**: <span id="reproducible">Use
 reproducible workflows and make all scholarly output FAIRly shareable in order to ensure effortless (distributed) collaboration among team members,
 make scholarly output FAIRly shareable,
 increase the reusability of scholarly output,
@@ -829,9 +836,9 @@ These findings suggest that while the physical structure of a university environ
 
 
 
-**Recommendation**: <span id="collaborativeworkspace">Establish physical spaces that incentivize scholars from different disciplines and schools to mix. For example, Oxford-style “common rooms" with free (good) coffee and cookies, where researchers from different disciplines can meet, exchange ideas, and work on projects together.</span> 
+**Consideration**: <span id="collaborativeworkspace">Establish physical spaces that incentivize scholars from different disciplines and schools to mix. For example, Oxford-style “common rooms" with free (good) coffee and cookies, where researchers from different disciplines can meet, exchange ideas, and work on projects together.</span> 
 
-**Recommendation**: <span id="brownbag">Create a university-wide calendar of colloquia, symposia, brown bag lunches, et cetera, so (academic and support) staff is incentivized to attend events from other departments. Consider incentivizing use of this shared calendar by making funds for simple catering available to participating events.</span> 
+**Consideration**: <span id="brownbag">Create a university-wide calendar of colloquia, symposia, brown bag lunches, et cetera, so (academic and support) staff is incentivized to attend events from other departments. Consider incentivizing use of this shared calendar by making funds for simple catering available to participating events.</span> 
 
 
 
@@ -870,9 +877,9 @@ developed in collaboration with TSHD, TSB, TLS, TiSEM, and the Academische Werkp
 At present, there is substantial expertise among educational support staff on how to design and manage effective education for team science [@oakleyTurningStudentGroups2004].
 However, this material is not FAIRly available, limiting its potential impact on education across schools.
 
-**Recommendation**: <span id="teameducation">Teach effective collaboration skills at all levels by creating a FAIR resource page for teachers on how to effectively incorporate team work in education.</span>
+**Consideration**: <span id="teameducation">Teach effective collaboration skills at all levels by creating a FAIR resource page for teachers on how to effectively incorporate team work in education.</span>
 
-**Recommendation**: <span id="trainindividuals">Offer training and workshops on team science principles, collaboration skills, and project management. These programs can help staff develop the skills needed for successful interdisciplinary work.</span>
+**Consideration**: <span id="trainindividuals">Offer training and workshops on team science principles, collaboration skills, and project management. These programs can help staff develop the skills needed for successful interdisciplinary work.</span>
   
 
 
@@ -896,10 +903,10 @@ One inspiring example is the set of simple and almost [gamified conversation gui
 While TiU currently employs team training in various areas, extending similar training to team dynamics and interpersonal communication can significantly enhance team effectiveness. 
 
 
-**Recommendation**: <span id="training">TiU should offer evidence-based, cross-disciplinary team trainings for team science. This includes training individuals in skills required for effective teamwork, and training teams as a whole to build shared goals and representations.</span>
+**Consideration**: <span id="training">TiU should offer evidence-based, cross-disciplinary team trainings for team science. This includes training individuals in skills required for effective teamwork, and training teams as a whole to build shared goals and representations.</span>
 
 
-**Recommendation**: <span id="conversationguidelines">TiU should develop simple guidelines, readily available to all staff, to help teams engage in reflexivity and professionalization.</span>
+**Consideration**: <span id="conversationguidelines">TiU should develop simple guidelines, readily available to all staff, to help teams engage in reflexivity and professionalization.</span>
 
 
 
@@ -925,7 +932,7 @@ Leaders should articulate their expectations for the team through written charte
 Alternatively, team members can self-assemble such charters through workshops and consensus [@goncharovaCORELabLab2023].
 
 
-**Recommendation**: <span id="leadership">When training connected leadership skills, emphasize transformative leadership for team science, that empowers team members to bring out their best. Recognize that, in team contexts, shared leadership can be more effective than hierarchical leadership (@sec-hierarchy).</span>
+**Consideration**: <span id="leadership">When training connected leadership skills, emphasize transformative leadership for team science, that empowers team members to bring out their best. Recognize that, in team contexts, shared leadership can be more effective than hierarchical leadership (@sec-hierarchy).</span>
 
 <!-- 
 
@@ -993,16 +1000,16 @@ This is particularly advantageous for early-career scholars. In essence, a syste
 
 
 
-**Recommendation**: <span id="recognitionrewards">Task a working group with developing and evaluating general principles and specific criteria for recognizing team science contributions, and transparently incorporate these criteria in vacancies, PT&D conversations, and tenure and promotion committees.</span>  
+**Consideration**: <span id="recognitionrewards">Task a working group with developing and evaluating general principles and specific criteria for recognizing team science contributions, and transparently incorporate these criteria in vacancies, PT&D conversations, and tenure and promotion committees.</span>  
 
 
-**Recommendation**: <span id="phdcollab">Encourage engagement of PhD candidates in team science projects. Create more opportunities for the involvement of PhD candidates in ongoing teams with permeable boundaries, encourage supervisors to stimulate PhD candidates to become involved in team science efforts, and ask graduate schools to encourage supervisors to do so.
+**Consideration**: <span id="phdcollab">Encourage engagement of PhD candidates in team science projects. Create more opportunities for the involvement of PhD candidates in ongoing teams with permeable boundaries, encourage supervisors to stimulate PhD candidates to become involved in team science efforts, and ask graduate schools to encourage supervisors to do so.
 </span>
 
 
-**Recommendation**: <span id="hsri">Establish grants for collaborative PhD projects on thematic topics that require interdisciplinary and inter-faculty team science.</span>
+**Consideration**: <span id="hsri">Establish grants for collaborative PhD projects on thematic topics that require interdisciplinary and inter-faculty team science.</span>
 
-**Recommendation**: <span id="professortwoschools">Create a profile for professorships that span departments or schools, to promote interdisciplinary research and teaching.</span>
+**Consideration**: <span id="professortwoschools">Create a profile for professorships that span departments or schools, to promote interdisciplinary research and teaching.</span>
 
 ## What to Recognize and Reward? {#sec-whattoreward}
 
@@ -1035,7 +1042,7 @@ The success of the implementation of the new career paths should be evaluated.
 Additionally, it might be beneficial to reassess the original MERIT system to determine whether it meets TiU’s evolving needs, and consider developing MERIT 2.0 to align more closely with the newly developed career paths.
 
 
-**Recommendation**: <span id="merit">Preparations are in the works to adopt the MERIT system as official guiding principle for PT&D, hiring, and promotions at TiU. Evaluate the success of this transition. Alongside the MERIT system,
+**Consideration**: <span id="merit">Preparations are in the works to adopt the MERIT system as official guiding principle for PT&D, hiring, and promotions at TiU. Evaluate the success of this transition. Alongside the MERIT system,
 allow employees to specialize along its key dimensions, and ask organizational bodies to create vacancies that require a specific profile.</span>
 
 
@@ -1053,11 +1060,11 @@ Note that there are valid concerns about qualitative evaluation, as it is prone 
 With this in mind, TiU should remain informed about the ongoing development of reliable and valid individual-level quantitative evaluation criteria, and open source databases on which to base them [@ioannidisDefenseQuantitativeMetrics2023].
 
 
-**Recommendation**: <span id="coara">Along with other Dutch universities, TiU has committed to develop an action plan based on the international guidelines in [CoARA](https://coara.eu/agreement/the-commitments/) and [DORA](https://sfdora.org/read/) to revise our approach to research evaluation in 2024.</span>
+**Consideration**: <span id="coara">Along with other Dutch universities, TiU has committed to develop an action plan based on the international guidelines in [CoARA](https://coara.eu/agreement/the-commitments/) and [DORA](https://sfdora.org/read/) to revise our approach to research evaluation in 2024.</span>
 
-**Recommendation**: <span id="dora">To ensure that TiU staff remain competitive in (inter)national funding calls from DORA signatories (e.g., NWO, ERC), TiU should abandon the irresponsible use of metrics and the use of aggregate-level metrics which are not valid for assessing individual researchers' performance. Instead, TiU should require internal performance reviews to focus on quality and individual-level quantitative metrics, and optionally, a narrative resumé.</span>
+**Consideration**: <span id="dora">To ensure that TiU staff remain competitive in (inter)national funding calls from DORA signatories (e.g., NWO, ERC), TiU should abandon the irresponsible use of metrics and the use of aggregate-level metrics which are not valid for assessing individual researchers' performance. Instead, TiU should require internal performance reviews to focus on quality and individual-level quantitative metrics, and optionally, a narrative resumé.</span>
 
-**Recommendation**: <span id="alloutput">In performance review and hiring decisions, TiU should consider the impact of all research output, including datasets, instruments, software, and valorization, alongside publications, and adopt a broad range of impact measures, including qualitative indicators of research impact like policy influence.</span>
+**Consideration**: <span id="alloutput">In performance review and hiring decisions, TiU should consider the impact of all research output, including datasets, instruments, software, and valorization, alongside publications, and adopt a broad range of impact measures, including qualitative indicators of research impact like policy influence.</span>
 
 
 ## Crediting Author Contributions {#sec-credit}
@@ -1085,11 +1092,11 @@ The CRediT contributor taxonomy may serve as a sensible default for all projects
 Another approach is to move from an authorship model towards a “contributorship" model [see @sec-proceduralfairness, Smith et al., 2018].
 In a contributorship model, specific contributions are recognized, ensuring fair credit, reducing authorship disputes, and encouraging collaboration, data, and code sharing (Brand et al., 2015).
 
-**Recommendation**: <span id="attribution">Fairly and transparently credit each team member's contribution in the creation of research output.</span>
+**Consideration**: <span id="attribution">Fairly and transparently credit each team member's contribution in the creation of research output.</span>
 
-**Recommendation**: <span id="standards">Explicitly state what convention was followed to credit contributions, along with a reference.</span>
+**Consideration**: <span id="standards">Explicitly state what convention was followed to credit contributions, along with a reference.</span>
 
-**Recommendation**: <span id="credit">The CRediT contributor taxonomy is a sensible default system for crediting contributions. Translating it into Dutch is low-hanging fruit and will make the taxonomy more accessible to people outside academia (e.g. policy makers, public partners and citizens/taxpayers).</span>
+**Consideration**: <span id="credit">The CRediT contributor taxonomy is a sensible default system for crediting contributions. Translating it into Dutch is low-hanging fruit and will make the taxonomy more accessible to people outside academia (e.g. policy makers, public partners and citizens/taxpayers).</span>
 
 
 
@@ -1105,7 +1112,7 @@ On the other hand, summative evaluation aims to glean lessons from completed pro
 This type of evaluation provides a comprehensive overview of a project's outcomes and effectiveness, offering valuable insights for future endeavors.
 
 
-**Recommendation**: <span id="monitoringevaluating">All science teams should plan for formative assessments at given milestones during the project lifecycle. TiU should require summative evaluation of team science projects funded by the University (eerste geldstroom).</span>
+**Consideration**: <span id="monitoringevaluating">All science teams should plan for formative assessments at given milestones during the project lifecycle. TiU should require summative evaluation of team science projects funded by the University (eerste geldstroom).</span>
 
 
 
@@ -1121,7 +1128,7 @@ This type of evaluation provides a comprehensive overview of a project's outcome
 
 
 
-# Recommendations for a Vision for Team Science at Tilburg University 
+# Considerations for Team Science at Tilburg University
 
 
 ```{r}
@@ -1159,10 +1166,14 @@ source("summarize.R")
 
 **Esther Keymolen (TLS)**
 
+* Vice Dean of research
+* Involved in team science pilot at TLS
 
-, Michiel Besters, Yvonne Vermonden (beiden AS), Sasha van den Hoek, Lilly Schurman, Annika Klingner (student-assistenten), Marjan van Hunnik (E&W)
-To meet this mandate, the working group used the following methodology: All team members read the book ""  
+**Marjan van Hunnik**
 
+* Program manager Recognition & Rewards (Erkennen & Waarderen)
+    + Tilburg University
+    + Royal Netherlands Academy of Arts and Sciences (KNAW)
 
 **Lilly Schurman** 
 
