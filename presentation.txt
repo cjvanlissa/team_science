@@ -1,0 +1,16 @@
+## Defining Team Science
+
+> **Team Science**: collaborative mode of research involving multiple individuals working interdependently (Cooke, Hilton, & Council, 2015)
+
+- **Size**:
+  - Small teams (2-10 individuals): Agile, disruptive innovative
+  - Large teams (100+, 1000+): High impact, consolidated structure (Wu, Wang, & Evans, 2019)
+- **Characteristics**:
+  - Division of labor and coordination in large teams
+  - Team science != interdisciplinary science, though often related
+- **Importance**: Essential for solving multifaceted challenges like climate change, inequality, and health (psychosocial determinants) (Ledford, 2015; Korthals Altes, 2014)
+
+> **Revised definition:**
+>   - Collaboration with more partners than typical in a field
+>  - Focus on goals beyond individual achievement
+>  - Emphasizes diverse perspectives and stakeholder inclusion
