@@ -1,10 +1,60 @@
 ---
 title: "There's No I in Science"
+subtitle: "(at least not where you'd think)"
+author: "Caspar J. Van Lissa<br>Tilburg University"
 format: revealjs
 ---
 
 
-## Defining Team Science {.smaller}
+<!-- 
+* keynote at annual „Science Days“
+* event designed to involve and connect young scientist
+* emphasis on engaging and educating early-career scientists (mostly medical and natural science doctoral students) about team science
+* inspire the next generation and equip them with the skills needed to succeed in collaborative scientific endeavors
+* between clinician and medical scientists
+* young scientist program called Mildred Scheel Early Career Center (https://tu-dresden.de/med/mf/msnz)
+    + enables clinicians to carry out clinical research during their residency
+    + supports medical scientists to start their own research group, inciting synergies between bench and bedside
+* gain a deeper understanding of the principles and practices of team science
+* your perspectives on coordination and collaboration in team-science projects would greatly enrich the discourse and inspire further research and collaboration.  -->
+
+## My Experience with Team Science {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+* PhD: 2011-2015
+* First collaboration: 2015
+* First team science: 2019
+
+:::
+
+::: {.column width="60%"}
+
+![](citations.png)
+
+:::
+
+::::
+
+
+
+## When it Really Matters
+
+![](nrc_2020.png)
+
+## Wooclap (wc)
+
+https://app.wooclap.com/ULYBOH
+
+* Submit one answer as a team
+* Examine the scientific literature on Team Science
+* Then, peer-review each other's answers to assign one point/team
+    + You *can* give yourself points, but be fair!
+* Determine a winner!
+
+## Defining Team Science (wc) {.smaller}
 
 > **Team Science**: research conducted interdependently by multiple individuals (Cooke, Hilton, & Council, 2015).
 
@@ -12,13 +62,14 @@ format: revealjs
 - Essential for solving multifaceted challenges like climate change, inequality, and health (psychosocial determinants) (Ledford, 2015; Korthals Altes, 2014)
 
 > **Revised definition:**
->   - Collaboration with more partners than typical in a field
+> 
+>  - Collaboration with more partners than typical in a field
 >  - Focus on goals beyond individual achievement
 >  - Emphasizes diverse perspectives and stakeholder inclusion  
   
 **Who has participated in *team science*?**
 
-## Team Science Benefits {.smaller}
+## Team Science Benefits (wc) {.smaller}
 
 - **Impact**: Address major social, economic, and ecological challenges (Allen & Mehler, 2019; Cannon, 2020).
 - **Strength-based collaboration**: specialization allows team members to contribute what comes easier to them (writing, data collection, public engagement)
@@ -33,17 +84,17 @@ format: revealjs
 
 - **Social Loafing** (Simms & Nichols, 2014)
 - **Self Bias**: Everyone feels like they contributed most (Johnston & Miles, 2010)
+- **Interdependence**: Success depends on others (Conn et al., 2019)
+- **Coordination** (Forscher et al., 2023)
+- **Diversity perspectives**: promote innovation but raise communication barriers (Nielsen et al., 2017)
+- **Knowledge integration**: is not automatic, TMSR CoDa (Conn et al., 2019).
+- **Team size paradox**: Smaller teams coordinate better, larger teams have more impact (Cummings, 2018)
+- **Misaligned goals** between team members and external partners (Patel et al., 2021).
+- **Physical distance**: better since COVID, but RSM strategy (Earley & Mosakowski, 2000)
 - **Start-up costs**: building relationships, establishing modus operandi
 - **Hard to get funded** (Bromham et al., 2016)
-- **Coordination** (Forscher et al., 2023)
-- **Diversity challenges**: Diverse perspectives promote innovation but raise communication barriers (Nielsen et al., 2017)
-- **Knowledge integration**: synthesis is not automatic; requires work (Conn et al., 2019).
-    + TMSR cooperation
-- **Team size paradox**: Smaller teams coordinate better, but larger teams outperform in publications and impact (Cummings, 2018)
-- **Misaligned goals** between team members and external partners (Patel et al., 2021).
-- **Physical distance**: better since COVID, but... (Earley & Mosakowski, 2000)
-    + RSM Strategy Committee (AUS, USA, EUR)
-- **Task interdependence**: Success depends on others (Conn et al., 2019)
+
+
 
 ## Team Science and Open Science {.smaller}
 
@@ -61,42 +112,43 @@ FAIR: Findable, Accessible, Interoperable, Reusable
 
 ## Specific Open Science Practices {.smaller}
 
-* Open/reproducible code increases reusability of team members' contributions (Van Lissa et al., 2021)
+* **Open/reproducible code**:
+    * Increases reusability of team members' contributions (Van Lissa et al., 2021)
+    * Increases rigor (easier to check and replicate work)
     * Reduces onboarding and improves scalability (Baumgartner et al. 2023)
-    * Allows team members to replicate and verify each other's work, enhancing rigor
-* Public engagement-dimension of open science constitutes a form of team science
+* **Public Engagement** dimension of OS intersects with team science
     * Add perspectives, increase relevance for stakeholders (Tebes and Thai 2018)
-* Preregistration outlines scope of work-to-be-done and prevents disagreements about analytic decisions after seenig the results (Peikert, Van Lissa, and Brandmaier 2021)
-* Registered Reports offer “guaranteed payoff” for team efforts (Baumgartner et al. 2023)
-* Open access publication makes output accessible to wider audience
+* **Preregistration**: outline scope of work and prevents post-hoc disagreements (Peikert, Van Lissa, and Brandmaier 2021)
+* **Registered Reports**: “guaranteed payoff” for team efforts (Baumgartner et al. 2023)
+* **Open access** makes output accessible to wider audience
     * Not all stakeholders may have access to certain outlets
     * Ensure that all who have contributed retain access
 
 
-## Team Effectiveness
+<!-- ## Team Effectiveness -->
 
-> **Input-Process-Output (IPO)** (McGrath, 1964)
-  - Helps understand team performance and how to optimize it.
+<!-- > **Input-Process-Output (IPO)** (McGrath, 1964) -->
+<!--   - Helps understand team performance and how to optimize it. -->
 
-- **Inputs**: Team composition, goals, and nature of the problem
-- **Processes**: Within teams and -members
-- **Outputs**: Aligned with task demands and team's goals and objectives
+<!-- - **Inputs**: Team composition, goals, and nature of the problem -->
+<!-- - **Processes**: Within teams and -members -->
+<!-- - **Outputs**: Aligned with task demands and team's goals and objectives -->
 
-## What do Effective Teams Do?
+## What do Effective Teams Do? (wc)
 
-- **Mental Models**: Shared understanding of goals, tasks, and roles
+- **Establish Mental Models**: Shared understanding of goals, tasks, and roles (Vogel et al., 2014)
 - **Transactive Memory**: Awareness of each member’s expertise (Patel et al., 2021; Ghamgosar et al., 2023)
-- **Clear goals, participatory processes**: to build mutual understanding (Vogel et al., 2014)
+- **Nurture Relationships**: Linked to productivity (DeHart, 2017; Love et al., 2023)
+- **Trust**: foundational for team effectiveness (Breuer et al., 2016; Bennett & Gadlin, 2014)
 
-## The Role of Communication {.smaller}
+## Trust in Teams {.smaller}
 
-- **Foundation of Trust**: crucial for team effectiveness (Breuer et al., 2016; Bennett & Gadlin, 2014)
 - **Building Trust**: 
     - Clear, open communication (Conn et al., 2019)
     - Culture of Dialogue: Deep listening and active engagement (O'Rourke et al., 2023)
     - Joint identification of goals (Roelofs et al., 2019)
     - Formal agreements (Forscher et al., 2023)
-    - Joint social activities (boulder outing)
+    - Social activities (boulder outing)
 
 ## Trust, Ctd.
 
@@ -109,13 +161,13 @@ FAIR: Findable, Accessible, Interoperable, Reusable
     - Or co-created, e.g.: [CORE Lab Philosophy](https://osf.io/preprints/psyarxiv/6jmhe)    
 
 
-## When it Goes Wrong
+## When it Goes Wrong (wc)
 
-- **Managing Conflicts**: 
-    - Intellectual disagreements can advance knowledge if managed well (Collins, 1998)
-        + Adversarial collaboration (Clark & Tetlock, 2023)
-    - Use both preemptive strategies (CoC) and reactive approaches (problem-solving, empathy) (Marks et al., 2001)
-- **Training and Development**: Train communication and conflict resolution skills (Read et al., 2016)
+- Intellectual disagreements != relational disagreements
+    + They advance knowledge if managed well (Collins, 1998)
+    + Adversarial collaboration (Clark & Tetlock, 2023)
+- **Preventive strategies**: Train conflict resolution skills (Read et al., 2016), CoCs
+- **Reactive strategies**: problem-solving, empathy (Marks et al., 2001), HR department and *confidential counsellor*
 
 ## Team Composition
 
@@ -124,26 +176,26 @@ FAIR: Findable, Accessible, Interoperable, Reusable
 - Impact on team effectiveness varies with task complexity, interdependence, and project duration (Carter et al., 2019)
 - Alignment between expertise and team goals is essential, as are interpersonal factors (Twyman & Contractor, 2019)
 
-## Team Composition and Diversity
+## Team Composition and Diversity {.smaller}
 
-Diversity is not a matter of equity, social justice, and good employership (Kamerlin, 2020)
+- Diversity is not a matter of equity, social justice, and good employership (Kamerlin, 2020)
+- **Social Safety**: increases confidence, trust, and cohesion, furthering team goals (Edmondson, 1999)
 
-Lack of diversity in recruitment, tenure, and promotion **costs** teams:
+Lack of diversity **costs** teams:
 
-* Missing out on skilled candidated
+* Missing out on skilled candidates
 * Missing essential perspectives and knowledge
 * Alienating relevant stakeholders, reduced impact (Powell, 2018)
 
-We need policy because natural tendency is to team up with "similar others" (Montoya and Horton 2013)
+Policy is important because natural tendency is to team up with "similar others" (Montoya and Horton 2013)
 
-## Illustrating Lack of Diversity/Inclusivity
+## Illustrating Lack of Diversity/Inclusivity {.smaller}
 
-* On our "Nikolaustag", all employees receive a chocolate caricature  of an enslaved black person (Saint Nicholas' "helper")
-* A colleague has a baby, but there are no pumping rooms available. Her office wall is made of glass
-* A PhD student is sexually assaulted by their supervisor. No action is taken, and they now no longer feel comfortable coming to the supervisor for advice
-* Another PhD student is told by full professor "I can see under your skirt when you walk down the stairs". HR starts a series of talks between the professor and PhD student, but it takes a mental toll
+* On our "Nikolaustag", all employees receive a chocolate **caricature of a black person** in historical "page's costume" (Saint Nicholas' "helper")
+* A colleague has a baby, but there are **no pumping rooms** available. Her office wall is made of glass
+* A PhD student is **sexually harrassed by her professor** "I can see under your skirt when you walk down the stairs". HR starts a series of talks between the professor and PhD student, but it takes a mental toll on the student
 
-## Diversity conclusions
+## Diversity conclusions (wc)
 
 - People tend to prefer being around similar others 
 - Diversity can improve team effectiveness (Liu et al. 2020)
@@ -151,49 +203,135 @@ We need policy because natural tendency is to team up with "similar others" (Mon
 - **Challenges**: Can increase conflict, especially in geographically or culturally diverse teams (Polzer et al., 2006)
 - Task-relevant diversity is essential
 
-## What Makes a Good Team Member?
+## What Makes a Good Team Member? {.smaller}
 
 Driskell et al., 2006:
-
-- Agreeableness: Best predictor of interpersonal success
+  
+- **Agreeableness**: Best predictor of interpersonal success
     * Interested in people, sympathise with others, make people feel at ease
-- Openness:Flexibility is virtually universally advantageous (Hackman & Morris, 1978)
+- **Openness**: Flexibility is virtually universally advantageous (Hackman & Morris, 1978)
     * Opposite: stubborn, views uncertainty as a threat, low tolerance for ambiguity
-- Conscientiousness: Mixed findings
+- **Conscientiousness**: Mixed findings
     * hardworking, prepared, organized, meet obligations thoroughly and on-time, be reliable
 
-## Team Fluidity and Permeable Boundaries
+## Team Fluidity and Permeable Boundaries {.smaller}
 
-> **Fluidity**: Teams can reconfigure as needed, adapting to changing task demands (O'Rourke et al., 2023; Mathieu et al., 2014)
+O'Rourke et al., 2023; Mathieu et al., 2014
 
 - **Opportunities** (Tannenbaum et al. 2012; Zajac et
 al. 2021):
     - Facilitates knowledge transfer
-    - Brings fresh perspectives and ideas (Gruenfeld et al., 2000)
-    - Enhances flexibility and adaptability (Gorman & Cooke, 2011).
+    - Fresh perspectives and ideas (Gruenfeld et al., 2000)
+    - Adapt to changing task demands (Gorman & Cooke, 2011).
 - **Challenges**:
-    - Overhead from onboarding
-        * Establishing reproducibile workflows, CoC's etc facilitate this
-    - Can weaken team cohesion and stability (Emich et al., 2022).
-    - Shifts dynamics
-    - ECRs: Risk of contributing without sufficient recognition (Craig, 2018)
-        * Example: PhD's in physics completing without single publication
+    - Overhead from onboarding (reduced by reproducibility, CoC's)
+    - Weakens team cohesion and stability (Emich et al., 2022).
+    - ECRs risk contributing without sufficient recognition (Craig, 2018)
+        * Example: PhD's in physics
   
+## Leadership in Team Science {.smaller}
 
-## Team Climate & Organizational Support
+- **University Hierarchies**:
+    - Structured, distinct roles and organizational units
+    - Facilitates logistics but hinders innovation and collaboration (Keum & See, 2017)
+- **Flexible Hierarchies** better suited to (team) science (Burns and Stalker 1994)
+- **Shared Leadership** enhances team performance (Marlow et al., 2018)
+  - Distributed leadership promotes collaboration and shared vision (Rycroft-Malone et al., 2016).
 
-- **Team Climate**: Shaped by communication, team interactions, and a balance of individual and team needs (Getha-Taylor et al., 2014).
-- **Institutional Support**: Innovation-friendly culture and structured support enhance collaboration (Crow & Dabars, 2019).
-- **Psychological Safety**: Encourages risk-taking, trust, and cohesion, essential for achieving team goals (Edmondson, 1999).
+## Team Science and Physical Space
 
-## Motivational Factors
-- **Interpersonal Relationships**: Linked to scientific productivity (DeHart, 2017; Love et al., 2023).
-- **Team Efficacy**: Confidence and motivation among team members are critical for success.
+<font size = 6>
+
+- **Proximity Promotes Interaction**:
+    - Shared spaces can foster new connections, trust, and collaboration (Cooke et al., 2015)
+    - Even brief periods of co-location can lead to new partnerships (Boudreau et al., 2012)
+        * Heater not working
+- **Strategic Movement**:
+    - ECR can take initiative to place themselves in environments where new connections might form
+    - Join events like this, use shared spaces, negotiate weekly coworking with collaborators, exchanges
+    - ECR is a time to *explore* many collaborative opportunities
+
+</font>
+
+## Recognition and Rewards
+
+<font size = 6>
+
+- Dominant paradigm: "Tenure first, interdisciplinarity later,"  "Individual reputation first, collaboration later" (Klein et al., 2013)
+- R&R is the **Engine of Cultural Change**:
+    - R&R can foster a **collaborative and interdisciplinary environment** (Brody et al., 2019)
+    - Explicit valuation in **hiring, review, and promotion** decisions (Meurer et al., 2023)
+- **For Early-Career Researchers**:
+    - Incentives in terms of future employment, advancement, and funding opportunities (DeHart, 2017)
+    - **Doctoral Socialization** by supervisors (Austin, 2011).
+- Good example: *Mildred Scheel Early Career Center* encouraging joint clinical/medical/academic collaboration, modeling team science
+
+</font> 
+
+## How to Credit Contributions
+
+- **Fair and Transparent Acknowledgment** respecting disciplinary differences (Tscharntke et al., 2007; Cooke et al., 2015)
+- **Contributorship Model**: Explicitly acknowledge contributions rather than relying on implicit indicators ike authorship order (Brand et al., 2015)
+- State the **convention used** for attribution
+- **CRediT Contributor Taxonomy**: clarify contributions along 14 dimensions (Allen et al., 2014)
+- **Anonymous Attribution**: maintain fairness and social saftely in groups with power imbalances or risks of nepotism
 
 
-## Team Size  
-  
-- **Team Sizes**:
-  - Small teams (2-10 individuals): Agile, innovative, disruptive.
-  - Large teams (hundreds or thousands): High-impact, coordinated efforts.
-- **Balance**: A thriving research ecosystem requires both small and large teams (Wu, Wang, & Evans, 2019).
+## COARA incentivizes Team Science
+
+*Coalition for Advancing Research Assessment*
+
+Mildred Scheel Nachwuchszentrum could [sign COARA](https://coara.eu/)
+
+- Away from **Metrics with Poor Validity** (Journal Impact Factor)
+- Towards R&R of **Quality and Contribution**
+- Assess activities essential to team science, e.g. collaboration, team science, interdisciplinarity, impact, open science practices
+- Provides security for ECRs who commit to team science, and attracts suitable candidates
+
+## Conclusions for ECRs {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Team Science isn't everything
+
+* Not suitable for all types of work
+* Not compatible with all personalites
+* Science benefits from pluriformity
+
+Team Science is a risk
+
+* You are interdependent with others
+    + Requires effective logistics, leadership structure, and social safety
+
+
+:::
+
+::: {.column width="50%"}
+
+* Work continues after employment ends
+    + Fair recognition & rewards (e.g., CRediT, COARA)
+    
+Team Science is fulfilling
+
+* This work demands much - collaboration gives you a social support in return
+
+Team Science enhances your impact
+
+* More meaningful work
+* Strong network and higher citation counts
+
+:::
+
+::::
+
+
+
+
+
+> Above all: I wish for you to have or create for yourself the opportunity to engage in team science. It came to me late in my career - and I didn't know what I was missing!
+
+
+# Determining Winning Team
+
