@@ -5,7 +5,18 @@ author: "Caspar J. Van Lissa<br>Tilburg University"
 format: revealjs
 ---
 
+<font align = "center">
 
+Based on the report:
+
+[Towards a Vision for Team Science at Tilburg University](https://osf.io/2g895/)
+
+
+```{r, out.width = "37%"}
+knitr::include_graphics("cover.jpeg")
+```
+
+</font>
 <!-- 
 * keynote at annual „Science Days“
 * event designed to involve and connect young scientist
@@ -113,12 +124,12 @@ FAIR: Findable, Accessible, Interoperable, Reusable
 ## Specific Open Science Practices {.smaller}
 
 * **Open/reproducible code**:
-    * Increases reusability of team members' contributions (Van Lissa et al., 2021)
+    * Increases reusability of team members' contributions [(Van Lissa et al., 2021)](https://content.iospress.com/articles/data-science/ds210031)
     * Increases rigor (easier to check and replicate work)
     * Reduces onboarding and improves scalability (Baumgartner et al. 2023)
 * **Public Engagement** dimension of OS intersects with team science
     * Add perspectives, increase relevance for stakeholders (Tebes and Thai 2018)
-* **Preregistration**: outline scope of work and prevents post-hoc disagreements (Peikert, Van Lissa, and Brandmaier 2021)
+* **Preregistration**: outline scope of work and prevents post-hoc disagreements [(Peikert, Van Lissa, and Brandmaier 2021)](https://www.mdpi.com/2624-8611/3/4/53)
 * **Registered Reports**: “guaranteed payoff” for team efforts (Baumgartner et al. 2023)
 * **Open access** makes output accessible to wider audience
     * Not all stakeholders may have access to certain outlets
@@ -194,6 +205,8 @@ Policy is important because natural tendency is to team up with "similar others"
 * On our "Nikolaustag", all employees receive a chocolate **caricature of a black person** in historical "page's costume" (Saint Nicholas' "helper")
 * A colleague has a baby, but there are **no pumping rooms** available. Her office wall is made of glass
 * A PhD student is **sexually harrassed by her professor** "I can see under your skirt when you walk down the stairs". HR starts a series of talks between the professor and PhD student, but it takes a mental toll on the student
+
+![](bathroom.jpg)
 
 ## Diversity conclusions (wc)
 

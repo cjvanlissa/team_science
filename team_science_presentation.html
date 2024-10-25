@@ -339,7 +339,15 @@ Caspar J. Van Lissa<br>Tilburg University
 </section>
 <section class="slide level2">
 
-<!-- 
+<p><font align="center"></font></p><font align="center">
+<p>Based on the report:</p>
+<p><a href="https://osf.io/2g895/">Towards a Vision for Team Science at Tilburg University</a></p>
+<div class="cell">
+<div class="cell-output-display">
+<p><img data-src="cover.jpeg" style="width:37.0%"></p>
+</div>
+</div>
+</font><p><font align="center"></font> <!-- 
 * keynote at annual „Science Days“
 * event designed to involve and connect young scientist
 * emphasis on engaging and educating early-career scientists (mostly medical and natural science doctoral students) about team science
@@ -349,7 +357,7 @@ Caspar J. Van Lissa<br>Tilburg University
     + enables clinicians to carry out clinical research during their residency
     + supports medical scientists to start their own research group, inciting synergies between bench and bedside
 * gain a deeper understanding of the principles and practices of team science
-* your perspectives on coordination and collaboration in team-science projects would greatly enrich the discourse and inspire further research and collaboration.  -->
+* your perspectives on coordination and collaboration in team-science projects would greatly enrich the discourse and inspire further research and collaboration.  --></p>
 </section>
 <section id="my-experience-with-team-science" class="slide level2 smaller">
 <h2>My Experience with Team Science</h2>
@@ -450,7 +458,7 @@ Caspar J. Van Lissa<br>Tilburg University
 <ul>
 <li><strong>Open/reproducible code</strong>:
 <ul>
-<li>Increases reusability of team members’ contributions (Van Lissa et al., 2021)</li>
+<li>Increases reusability of team members’ contributions <a href="https://content.iospress.com/articles/data-science/ds210031">(Van Lissa et al., 2021)</a></li>
 <li>Increases rigor (easier to check and replicate work)</li>
 <li>Reduces onboarding and improves scalability (Baumgartner et al.&nbsp;2023)</li>
 </ul></li>
@@ -458,7 +466,7 @@ Caspar J. Van Lissa<br>Tilburg University
 <ul>
 <li>Add perspectives, increase relevance for stakeholders (Tebes and Thai 2018)</li>
 </ul></li>
-<li><strong>Preregistration</strong>: outline scope of work and prevents post-hoc disagreements (Peikert, Van Lissa, and Brandmaier 2021)</li>
+<li><strong>Preregistration</strong>: outline scope of work and prevents post-hoc disagreements <a href="https://www.mdpi.com/2624-8611/3/4/53">(Peikert, Van Lissa, and Brandmaier 2021)</a></li>
 <li><strong>Registered Reports</strong>: “guaranteed payoff” for team efforts (Baumgartner et al.&nbsp;2023)</li>
 <li><strong>Open access</strong> makes output accessible to wider audience
 <ul>
@@ -552,7 +560,8 @@ Caspar J. Van Lissa<br>Tilburg University
 <li>A colleague has a baby, but there are <strong>no pumping rooms</strong> available. Her office wall is made of glass</li>
 <li>A PhD student is <strong>sexually harrassed by her professor</strong> “I can see under your skirt when you walk down the stairs”. HR starts a series of talks between the professor and PhD student, but it takes a mental toll on the student</li>
 </ul>
-</section>
+
+<img data-src="bathroom.jpg" class="r-stretch"></section>
 <section id="diversity-conclusions-wc" class="slide level2">
 <h2>Diversity conclusions (wc)</h2>
 <ul>
@@ -934,6 +943,44 @@ Caspar J. Van Lissa<br>Tilburg University
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
